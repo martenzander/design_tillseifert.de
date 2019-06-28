@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -49,10 +49,6 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
-    {
-      "class": "text",
-      "id": "F325CBC1-D10F-4C81-AC11-FCBE4ECE69AE"
-    }
   ],
   "name": "Desktop HD",
   "nameIsFixed": false,
