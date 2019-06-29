@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B3C2B508-4B93-4EB0-B0C7-5C121A4880D5",
+  "do_objectID": "9A14C0E2-B863-44E5-9139-7771FBEF50C3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,16 +22,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 1024,
-    "x": 868,
-    "y": 72
+    "height": 1131,
+    "width": 2020,
+    "x": 248,
+    "y": 56
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -47,17 +47,21 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "group",
+      "id": "EF9F61B4-9F93-497A-A59E-CC2F9EDA7638"
+    }
   ],
-  "name": "Desktop",
-  "nameIsFixed": false,
+  "name": "Typo",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
-    "height": 1024,
-    "name": "Desktop",
-    "offersLandscapeVariant": 0,
-    "width": 1024
+    "height": 842,
+    "name": "A4",
+    "offersLandscapeVariant": 1,
+    "width": 595
   },
   "resizesContent": false,
   "resizingConstraint": 63,

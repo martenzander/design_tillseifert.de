@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.9764705882352941,
+    "green": 0.9764705882352941,
+    "red": 0.9764705882352941
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -25,12 +25,12 @@
     "height": 1024,
     "width": 1440,
     "x": -722,
-    "y": 72
+    "y": 43
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -47,11 +47,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
-      "id": "F325CBC1-D10F-4C81-AC11-FCBE4ECE69AE"
+      "id": "E720A79D-9C0A-4314-8EAA-CE34E946A71B"
+    },
+    {
+      "class": "group",
+      "id": "C891998D-A988-4D89-B3A4-D018A7ECE4DD"
     }
   ],
   "name": "Desktop HD",

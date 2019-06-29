@@ -1,0 +1,42 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "C2C542D3-3D9D-4CEE-82D8-07E69CB90A1D",
+  "name": "h1",
+  "value": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2117647058823529,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "IsidoraSans-Bold",
+            "size": 56
+          }
+        },
+        "MSAttributedStringTextTransformAttribute": 1,
+        "kerning": 1.05,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 58,
+          "minimumLineHeight": 58
+        },
+        "textStyleVerticalAlignmentKey": 1
+      },
+      "verticalAlignment": 1
+    },
+    "windingRule": 1
+  }
+}
