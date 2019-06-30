@@ -1,0 +1,88 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9561B189-3F91-488F-9D00-13E59C294DF8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "90B322D5-604A-45F9-81B2-7907EC4E7A17",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BE984F9E-3490-426E-B615-8B49086E82A1",
+    "height": 408,
+    "width": 308,
+    "x": 358,
+    "y": 308
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "FD05A4FF-2E77-49C2-8079-0D6F9181E492"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9A7D1B8A-6BE1-45C8-BFE4-68099FEC5B7B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9F961C5B-6AAF-4447-9AE2-0DADCAD6B212"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4EFC85EA-3D55-4E48-B2B0-A7FD219B1793"
+    },
+    {
+      "class": "text",
+      "id": "78F9E2A4-64BF-44E1-AA43-009236F98E0E"
+    },
+    {
+      "class": "group",
+      "id": "81325606-54BE-47A5-B1CE-3109EEB0C048"
+    }
+  ],
+  "name": "Padding Group 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4A84AC51-859A-40E3-8444-BDFC4A69B8B8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "padding": {
+          "bottom": 40,
+          "left": 40,
+          "modelID": "viewPadding_2a0321b9-84f5-48d4-937a-294ab63bfde3",
+          "model_class": "ADModelViewPadding",
+          "model_version": 0,
+          "right": 40,
+          "top": 40
+        }
+      }
+    }
+  }
+}

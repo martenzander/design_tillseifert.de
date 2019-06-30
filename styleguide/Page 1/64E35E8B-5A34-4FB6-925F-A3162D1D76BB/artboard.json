@@ -23,7 +23,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 550,
-    "width": 866,
+    "width": 889,
     "x": 2377,
     "y": 56
   },
@@ -51,39 +51,67 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "97449B6D-2436-4B67-BED4-F20AD2F386A9"
-    },
-    {
-      "class": "rectangle",
-      "id": "E320B4A0-D2A9-4AC8-A527-EC9B00CC8936"
-    },
-    {
-      "class": "rectangle",
       "id": "ACDCDEEE-CE54-4B8F-82A7-9659FAC57601"
     },
     {
       "class": "rectangle",
-      "id": "CFBD3917-770B-4F67-A424-0234F7D08B41"
-    },
-    {
-      "class": "rectangle",
-      "id": "7A6093B4-3B58-4221-850C-D08CD5ACEE1D"
-    },
-    {
-      "class": "rectangle",
-      "id": "80931175-0487-4264-A03C-FBE6E5AF194A"
-    },
-    {
-      "class": "rectangle",
-      "id": "21C7C29A-CE59-4F18-B3E7-1D59C7FDC4B3"
-    },
-    {
-      "class": "group",
-      "id": "CEBD6FAF-AC45-4A28-84A9-6D9C87FA13A2"
-    },
-    {
-      "class": "rectangle",
       "id": "728E2729-DB48-4368-9314-02AB4F6BE50F"
+    },
+    {
+      "class": "rectangle",
+      "id": "06F8F042-DF0D-486F-9E5C-E8D94C4E471A"
+    },
+    {
+      "class": "rectangle",
+      "id": "1E47FF84-FFFB-4FAF-A4EE-D78D765BF2C7"
+    },
+    {
+      "class": "rectangle",
+      "id": "A7C70081-2553-47F2-A5BE-B49C4CE36263"
+    },
+    {
+      "class": "rectangle",
+      "id": "9E5A43F5-D468-4011-B55F-EFFAB6BE6683"
+    },
+    {
+      "class": "rectangle",
+      "id": "8524E5E8-9E9C-406F-8599-FA299ECC227E"
+    },
+    {
+      "class": "rectangle",
+      "id": "EDDC435D-D8BC-4B7D-B6C1-0E547E689680"
+    },
+    {
+      "class": "rectangle",
+      "id": "F3472428-8676-4B4E-B934-F1F62EBB5F81"
+    },
+    {
+      "class": "rectangle",
+      "id": "D718B368-B97A-4F65-A490-2F4069775641"
+    },
+    {
+      "class": "rectangle",
+      "id": "3D94CE3C-8F35-4E9E-9694-DE4F625125E6"
+    },
+    {
+      "class": "rectangle",
+      "id": "267A3BCD-5ECA-4450-892A-53B87626A78B"
+    },
+    {
+      "class": "rectangle",
+      "id": "E4251BBD-22B0-45E5-A0BC-93D22592B386"
+    },
+    {
+      "class": "rectangle",
+      "id": "754063D6-9F7A-4508-90AD-68FF03BF3196"
+    },
+    {
+      "class": "rectangle",
+      "id": "1C2FAD7A-910E-4180-A520-083A439B11B4"
+    },
+    {
+      "class": "rectangle",
+      "id": "149C64E2-C91D-4A47-8D83-5274FD5D1FF7"
     }
   ],
   "name": "Colors",

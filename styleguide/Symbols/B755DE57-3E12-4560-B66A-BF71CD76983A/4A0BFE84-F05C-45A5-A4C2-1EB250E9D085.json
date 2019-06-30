@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2117647058823529,
-            "green": 0,
-            "red": 0
+            "blue": 0.2,
+            "green": 0.1607843137254902,
+            "red": 0.1294117647058824
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -56,7 +56,7 @@
     "constrainProportions": false,
     "do_objectID": "6745766C-7E62-4FA7-B7D6-5723228CADF3",
     "height": 24,
-    "width": 36,
+    "width": 306,
     "x": 0,
     "y": 0
   },
@@ -88,9 +88,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2117647058823529,
-          "green": 0,
-          "red": 0
+          "blue": 0.2,
+          "green": 0.1607843137254902,
+          "red": 0.1294117647058824
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -113,7 +113,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
@@ -131,7 +131,7 @@
           "model_class": "ADModelViewConstraints",
           "model_version": 0,
           "right": {
-            "constant": 270,
+            "constant": 0,
             "enabled": 1,
             "modelID": "constraint_fdc33689-654b-48d1-9e3d-033008ac3e74",
             "model_class": "ADModelConstraint",
@@ -140,7 +140,7 @@
           },
           "scaleFactor": 1
         },
-        "isAutoWidth": 1
+        "isAutoWidth": 0
       }
     }
   }

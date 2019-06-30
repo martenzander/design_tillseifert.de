@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9764705882352941,
+    "blue": 0.9803921568627451,
     "green": 0.9764705882352941,
-    "red": 0.9764705882352941
+    "red": 0.9725490196078431
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -55,7 +55,7 @@
     },
     {
       "class": "group",
-      "id": "DE4F42CE-42F8-488A-8683-0A512E413933"
+      "id": "9561B189-3F91-488F-9D00-13E59C294DF8"
     }
   ],
   "name": "Desktop",

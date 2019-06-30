@@ -27,9 +27,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9647058823529412,
-          "green": 0.9647058823529412,
-          "red": 0.9647058823529412
+          "blue": 0.9803921568627451,
+          "green": 0.9764705882352941,
+          "red": 0.9725490196078431
         },
         "fillType": 0,
         "isEnabled": true,
@@ -39,29 +39,29 @@
         "patternTileScale": 1
       }
     ],
-    "miterLimit": 10,
-    "shadows": [
+    "innerShadows": [
       {
-        "_class": "shadow",
-        "blurRadius": 7,
+        "_class": "innerShadow",
+        "blurRadius": 4,
         "color": {
           "_class": "color",
-          "alpha": 0.1181708916083916,
-          "blue": 0.2117647058823529,
-          "green": 0,
-          "red": 0
+          "alpha": 0.1179523601398601,
+          "blue": 0.3294117647058823,
+          "green": 0.2392156862745098,
+          "red": 0.1254901960784314
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": false,
+        "isEnabled": true,
         "offsetX": 0,
-        "offsetY": 2,
+        "offsetY": 1,
         "spread": 0
       }
     ],
+    "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   }

@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "39AA6A32-4596-47D4-AFD5-BCAED782D9E9",
-  "name": "color/brand_main",
+  "name": "color/primary/main",
   "value": {
     "_class": "style",
     "borders": [
@@ -27,9 +27,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9372549019607843,
-          "green": 0.7294117647058821,
-          "red": 0
+          "blue": 0.7843137254901961,
+          "green": 0.5137254901960788,
+          "red": 0.192156862745098
         },
         "fillType": 0,
         "isEnabled": true,

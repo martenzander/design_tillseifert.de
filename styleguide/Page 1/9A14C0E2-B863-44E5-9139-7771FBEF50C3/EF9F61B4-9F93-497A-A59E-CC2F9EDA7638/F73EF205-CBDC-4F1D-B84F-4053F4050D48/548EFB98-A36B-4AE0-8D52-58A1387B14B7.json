@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2117647058823529,
-            "green": 0,
-            "red": 0
+            "blue": 0.05490196078431372,
+            "green": 0.02745098039215686,
+            "red": 0.02352941176470589
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -55,7 +55,7 @@
     "constrainProportions": false,
     "do_objectID": "7BD7D80A-AB18-4954-80B5-DC2E11AEF7B7",
     "height": 48,
-    "width": 814.0000000000006,
+    "width": 715.0000000000006,
     "x": 0,
     "y": 30
   },
@@ -88,9 +88,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2117647058823529,
-          "green": 0,
-          "red": 0
+          "blue": 0.05490196078431372,
+          "green": 0.02745098039215686,
+          "red": 0.02352941176470589
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
