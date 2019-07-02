@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 612,
+  "changeIdentifier": 979,
   "clippingMaskMode": 0,
   "do_objectID": "2550BC8F-FB21-4E3A-8621-6D18C79CC819",
   "exportOptions": {
@@ -24,7 +24,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 50,
+    "height": 45,
     "width": 306,
     "x": 506,
     "y": 181

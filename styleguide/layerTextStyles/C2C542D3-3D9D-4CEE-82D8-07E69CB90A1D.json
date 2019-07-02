@@ -13,18 +13,17 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9372549019607843,
-          "green": 0.7294117647058821,
-          "red": 0
+          "blue": 0.7843137254901961,
+          "green": 0.5137254901960788,
+          "red": 0.192156862745098
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "IsidoraSans-Bold",
+            "name": "Roboto-Bold",
             "size": 56
           }
         },
-        "MSAttributedStringTextTransformAttribute": 1,
         "kerning": 1.05,
         "paragraphStyle": {
           "_class": "paragraphStyle",

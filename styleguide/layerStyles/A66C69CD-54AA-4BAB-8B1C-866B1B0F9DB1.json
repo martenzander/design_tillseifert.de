@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "A66C69CD-54AA-4BAB-8B1C-866B1B0F9DB1",
-  "name": "ui/background/error",
+  "name": "ui/background/input/error",
   "value": {
     "_class": "style",
     "borders": [

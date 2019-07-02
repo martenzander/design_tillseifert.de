@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8BEBC3D2-D0D7-4D2A-A554-8EF46EB95C23",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1CDAFCBE-D495-4027-AEB2-77442EACCCAD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B64EBFBB-18BD-428A-B235-8ED34B8D0C38",
+    "height": 27,
+    "width": 226,
+    "x": 1168,
+    "y": 345
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ui/radioButton/labeled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "825B8CE0-B508-4EA8-BF7F-1A9468640048",
+      "overrideName": "AEA9DEF2-46F4-4BDB-AFAE-BB76D60DD25C/A4A5F307-1809-4486-B227-BE23720C3EAB_layerStyle",
+      "value": "EEEBDA5D-6B96-4EE4-8246-27718015B16A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "27BD6566-ED0B-42E2-836F-40F71080E141",
+      "overrideName": "AEA9DEF2-46F4-4BDB-AFAE-BB76D60DD25C/E5000F91-063C-4D13-BAD4-96BA9EFA6ED5_layerStyle",
+      "value": "A886F27C-ACF9-427F-A1F3-8D7FC61B326F"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C1823707-0A5A-4E84-8EE5-FF3B016269B5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3683CB36-D044-4281-A730-B0FD6C0F4985",
+  "verticalSpacing": 0
+}

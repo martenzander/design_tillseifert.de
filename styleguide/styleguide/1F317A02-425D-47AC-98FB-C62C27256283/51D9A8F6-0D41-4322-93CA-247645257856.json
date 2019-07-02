@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "51D9A8F6-0D41-4322-93CA-247645257856",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 27,
+    "width": 226,
+    "x": 1168,
+    "y": 621
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ui/radioButton/labeled Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "AEA9DEF2-46F4-4BDB-AFAE-BB76D60DD25C/E5000F91-063C-4D13-BAD4-96BA9EFA6ED5_layerStyle",
+      "value": "A886F27C-ACF9-427F-A1F3-8D7FC61B326F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95A79BBF-B8D7-4454-B8F7-9F9EAA536865",
+      "overrideName": "AEA9DEF2-46F4-4BDB-AFAE-BB76D60DD25C/A4A5F307-1809-4486-B227-BE23720C3EAB_layerStyle",
+      "value": "A99C1841-8F74-4228-99D0-17A20FDAF8A6"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3683CB36-D044-4281-A730-B0FD6C0F4985",
+  "verticalSpacing": 0
+}

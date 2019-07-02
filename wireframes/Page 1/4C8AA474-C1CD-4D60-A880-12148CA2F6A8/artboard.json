@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9803921568627451,
-    "green": 0.9764705882352941,
-    "red": 0.9725490196078431
+    "blue": 0.2,
+    "green": 0.1607843137254902,
+    "red": 0.1294117647058824
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -55,7 +55,7 @@
     },
     {
       "class": "group",
-      "id": "C891998D-A988-4D89-B3A4-D018A7ECE4DD"
+      "id": "D2EB1B6C-C123-4A33-89BE-840C2162B519"
     }
   ],
   "name": "Desktop HD",

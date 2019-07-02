@@ -13,14 +13,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1843137254901961,
-          "green": 0.1254901960784313,
-          "red": 0.1254901960784313
+          "blue": 0.2,
+          "green": 0.1607843137254902,
+          "red": 0.1294117647058824
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "IsidoraSans-SemiBold",
+            "name": "Roboto-Regular",
             "size": 14
           }
         },

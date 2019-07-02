@@ -20,11 +20,11 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "RobotoCondensed-Regular",
-            "size": 13
+            "name": "RobotoCondensed-Italic",
+            "size": 14
           }
         },
-        "kerning": 0.24375,
+        "kerning": 0.2625,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,

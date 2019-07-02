@@ -20,11 +20,10 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "IsidoraSans-Bold",
+            "name": "Roboto-Bold",
             "size": 40
           }
         },
-        "MSAttributedStringTextTransformAttribute": 1,
         "kerning": 0.7499999999999999,
         "paragraphStyle": {
           "_class": "paragraphStyle",

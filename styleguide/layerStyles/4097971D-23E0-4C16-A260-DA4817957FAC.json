@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "4097971D-23E0-4C16-A260-DA4817957FAC",
-  "name": "ui/background/active",
+  "name": "ui/background/input/active",
   "value": {
     "_class": "style",
     "borders": [
@@ -27,9 +27,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9803921568627451,
-          "green": 0.9764705882352941,
-          "red": 0.9725490196078431
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,

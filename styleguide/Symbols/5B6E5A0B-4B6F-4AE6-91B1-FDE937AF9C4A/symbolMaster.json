@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 57,
+  "changeIdentifier": 241,
   "clippingMaskMode": 0,
   "do_objectID": "5B6E5A0B-4B6F-4AE6-91B1-FDE937AF9C4A",
   "exportOptions": {
@@ -24,7 +24,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
+    "height": 27,
     "width": 226,
     "x": 1121,
     "y": -293
@@ -50,15 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "text",
-      "id": "C23E9579-638B-4B39-BDA9-78424CBE9CDE"
-    },
     {
       "class": "symbolInstance",
       "id": "AEA9DEF2-46F4-4BDB-AFAE-BB76D60DD25C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05934093-9DA2-44DD-93C2-6321F22C02ED"
     }
   ],
   "name": "ui/radioButton/labeled",
@@ -72,12 +72,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "C23E9579-638B-4B39-BDA9-78424CBE9CDE_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "C23E9579-638B-4B39-BDA9-78424CBE9CDE_stringValue"
+      "overrideName": "05934093-9DA2-44DD-93C2-6321F22C02ED_symbolID"
     }
   ],
   "resizesContent": false,

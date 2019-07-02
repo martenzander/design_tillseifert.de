@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F82DEAD3-CE40-4614-8F97-CC97037BAA94",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "996C4058-A483-41D8-AC03-100B58828CD9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DE667583-BD85-45FE-996A-BFAFBA7D8E69",
+    "height": 76,
+    "width": 306,
+    "x": 60,
+    "y": 251.0000000000002
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ui/input",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A622459B-B0E5-43CE-8B42-FC3E567C8357/940FF479-9FF7-4BFE-8D3A-17A7B70179CB_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7F013B1C-1D78-4F3E-A829-FD7047A34F48/4A0BFE84-F05C-45A5-A4C2-1EB250E9D085_stringValue",
+      "value": "Name"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A622459B-B0E5-43CE-8B42-FC3E567C8357/6841C903-393C-4569-A041-7053E74E594B_stringValue",
+      "value": " Marten Zander"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A622459B-B0E5-43CE-8B42-FC3E567C8357/AA8EDAEA-F4AB-4BFB-B300-E3E09EA46352_layerStyle",
+      "value": "EEEBDA5D-6B96-4EE4-8246-27718015B16A"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F7330E35-7B15-4E8A-A343-E5683515DBF3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "67174EB7-4611-4649-8E36-739812C16C75",
+  "verticalSpacing": 0
+}

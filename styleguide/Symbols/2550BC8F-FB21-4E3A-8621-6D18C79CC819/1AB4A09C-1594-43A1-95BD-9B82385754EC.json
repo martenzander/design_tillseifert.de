@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "IsidoraSans-SemiBold",
-              "size": 14
+              "name": "Roboto-Regular",
+              "size": 12
             }
           },
           "kerning": 0,
@@ -53,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 50,
+    "height": 45,
     "width": 286,
     "x": 20,
     "y": 0
   },
-  "glyphBounds": "{{0, 7}, {71, 12}}",
+  "glyphBounds": "{{0, 7}, {58, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,8 +91,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "IsidoraSans-SemiBold",
-            "size": 14
+            "name": "Roboto-Regular",
+            "size": 12
           }
         },
         "kerning": 0,
