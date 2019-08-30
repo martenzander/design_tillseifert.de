@@ -1,1 +1,1 @@
-# slim-cms-design
+# ui-design-kit
