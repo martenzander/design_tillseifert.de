@@ -21,10 +21,435 @@
   "colorSpace": 0,
   "do_objectID": "6746ec80-999c-11e9-9bf5-71dd7baf905c",
   "foreignLayerStyles": [
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "a12f27b0-99a0-11e9-b37e-4ff1a9cf84f5",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "23367DF7-2728-4245-8F69-75084811ABCA",
+        "name": "placeholder/image",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 6.666666666666666,
+            "saturation": 1,
+            "type": 0
+          },
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.6549019607843137,
+                "green": 0.5843137254901961,
+                "red": 0.5333333333333333
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "position": 1,
+              "thickness": 0.6666666666666666
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.847,
+                "green": 0.847,
+                "red": 0.847
+              },
+              "fillType": 4,
+              "image": {
+                "_class": "MSJSONFileReference",
+                "_ref": "images/a55e9d7c5f0df963bb562a108bd22eb4c034db90.png",
+                "_ref_class": "MSImageData"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            },
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 0.9,
+                "blue": 0.8117647058823529,
+                "green": 0.7686274509803921,
+                "red": 0.7215686274509804
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 1,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 0.5,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 0.5,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 0,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "C2D64C59-A472-47DA-9CCB-6996D5F5E6F3",
+      "sourceLibraryName": "styleguide",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "a12f27b0-99a0-11e9-b37e-4ff1a9cf84f5",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "545673F4-A5EE-46B5-8D5F-ACC3CFF5ACDF",
+        "name": "color/grey/main",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8117647058823529,
+                "green": 0.7686274509803922,
+                "red": 0.7215686274509804
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "6BA2D49F-1711-47EB-B3F5-D2963BD0AFDE",
+      "sourceLibraryName": "styleguide",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "a12f27b0-99a0-11e9-b37e-4ff1a9cf84f5",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "F59A898A-4283-4E64-B7B3-DAD314E77DD9",
+        "name": "color/grey/tint 3",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9803921568627451,
+                "green": 0.9764705882352941,
+                "red": 0.9725490196078431
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "A886F27C-ACF9-427F-A1F3-8D7FC61B326F",
+      "sourceLibraryName": "styleguide",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "a12f27b0-99a0-11e9-b37e-4ff1a9cf84f5",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "A829062C-C3BC-4363-BD51-A8E0B692E278",
+        "name": "color/grey/shade 3",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2,
+                "green": 0.1607843137254902,
+                "red": 0.1294117647058824
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "D677D211-7497-44F9-A494-AAB872E44B51",
+      "sourceLibraryName": "styleguide",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "a12f27b0-99a0-11e9-b37e-4ff1a9cf84f5",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "C4BB377F-07F9-4076-93FA-CE3DD851F34A",
+        "name": "color/grey/shade 2",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.4784313725490196,
+                "green": 0.4196078431372549,
+                "red": 0.3725490196078431
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "3939A8A3-1003-4509-B25F-79DF6E3651CD",
+      "sourceLibraryName": "styleguide",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "a12f27b0-99a0-11e9-b37e-4ff1a9cf84f5",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "98DE544E-69B4-4D05-8897-F063E4F08245",
+        "name": "color/grey/shade 1",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.6549019607843137,
+                "green": 0.5843137254901961,
+                "red": 0.5333333333333333
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "D753DE70-3DD6-48B0-9C7D-0A1B50EFC8E8",
+      "sourceLibraryName": "styleguide",
+      "symbolPrivate": false
+    }
   ],
   "foreignSymbols": [
   ],
   "foreignTextStyles": [
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "a12f27b0-99a0-11e9-b37e-4ff1a9cf84f5",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "7748CA5A-64C7-41B1-93E3-9259219CBFB8",
+        "name": "h2",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.05490196078431372,
+                "green": 0.02745098039215686,
+                "red": 0.02352941176470589
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "Roboto-Bold",
+                  "size": 40
+                }
+              },
+              "kerning": 0.7499999999999999,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 0,
+                "allowsDefaultTighteningForTruncation": 0
+              },
+              "textStyleVerticalAlignmentKey": 1
+            },
+            "verticalAlignment": 1
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "EA252FB8-F0CA-4B5A-BFE7-10DABB6427AC",
+      "sourceLibraryName": "styleguide",
+      "symbolPrivate": false
+    }
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
@@ -37,6 +462,7 @@
     "version": 119
   },
   "pages": [
-    "Page 1"
+    "Wireframes",
+    "Symbols"
   ]
 }

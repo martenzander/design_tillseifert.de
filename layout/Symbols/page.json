@@ -1,8 +1,8 @@
 {
   "_class": "page",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "a12f00a0-99a0-11e9-b37e-4ff1a9cf84f5",
+  "do_objectID": "476649C5-B94A-45FA-9AA8-D512820622FD",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
+    "height": 0,
+    "width": 0,
     "x": 0,
     "y": 0
   },
@@ -27,7 +27,7 @@
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
@@ -40,32 +40,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "9A14C0E2-B863-44E5-9139-7771FBEF50C3"
-    },
-    {
-      "class": "artboard",
-      "id": "1F317A02-425D-47AC-98FB-C62C27256283"
-    },
-    {
-      "class": "artboard",
-      "id": "64E35E8B-5A34-4FB6-925F-A3162D1D76BB"
-    },
-    {
-      "class": "artboard",
-      "id": "1AE0A2DF-93DA-4BD3-9737-6A9097DF6531"
-    },
-    {
-      "class": "bitmap",
-      "id": "5E941501-8130-41A1-95DA-75521C87DA08"
-    },
-    {
-      "class": "artboard",
-      "id": "4EA13576-4930-487C-B762-AE761B2103A7"
+      "class": "symbolMaster",
+      "id": "27A833CC-B801-49ED-954F-B5FB07A2CE80"
     }
   ],
-  "name": "styleguide",
-  "nameIsFixed": true,
+  "name": "Symbols",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -75,16 +55,11 @@
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 0
-  },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "com.animaapp.uses.anima": 1
-    }
+    "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C835275E-825A-4A53-9CD6-CF5AE414BFAB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D5A06BD5-7871-43F2-962A-3E1454495E74",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FA16BE44-BFF6-4307-AA84-21D06A411B9D",
+    "height": 100,
+    "width": 960,
+    "x": 0,
+    "y": 594
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "name": "wireframes/concerts/entry",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "81A752F9-9E26-4D03-915C-C97839B96CB0",
+      "overrideName": "C57FD6BF-CFE8-4E13-BC57-734386343C00_stringValue",
+      "value": "Tickets"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2EB3814A-0B3C-4C46-943E-8269AB7E2D9E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7B018224-5994-455A-A56E-07AF9E5290F6",
+  "verticalSpacing": 0
+}
