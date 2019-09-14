@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4C8AA474-C1CD-4D60-A880-12148CA2F6A8",
+  "do_objectID": "B3C2B508-4B93-4EB0-B0C7-5C121A4880D5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,15 +23,15 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 1024,
-    "width": 1440,
-    "x": -722,
+    "width": 1024,
+    "x": 868,
     "y": 43
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -49,23 +49,15 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "text",
-      "id": "E720A79D-9C0A-4314-8EAA-CE34E946A71B"
-    },
-    {
-      "class": "group",
-      "id": "D2EB1B6C-C123-4A33-89BE-840C2162B519"
-    }
   ],
-  "name": "Desktop HD",
+  "name": "Desktop",
   "nameIsFixed": false,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,
-    "name": "Desktop HD",
+    "name": "Desktop",
     "offersLandscapeVariant": 0,
-    "width": 1440
+    "width": 1024
   },
   "resizesContent": false,
   "resizingConstraint": 63,
