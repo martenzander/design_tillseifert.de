@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC3F4758-9E57-41FF-AB62-69291184B270",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BDD9D443-75B2-4D3E-99C2-8C5B0199521E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DEFC860C-9B04-4E96-8C8B-A72D98D11945",
+    "height": 100,
+    "width": 960,
+    "x": 0,
+    "y": 495
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "name": "wireframes/concerts/entry",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "81A752F9-9E26-4D03-915C-C97839B96CB0",
+      "overrideName": "76C36C07-AF20-4C86-BA7D-28CED166AE0A_stringValue",
+      "value": "Tickets"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4F463E09-1E95-4519-9889-85B478BF9349",
+      "overrideName": "0960D60B-B248-48B5-8676-114192192826_stringValue",
+      "value": "17"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "302A84FE-51DE-4F21-AC43-64BF970B67FB",
+      "overrideName": "BAFFEF19-8CC2-4F5C-A317-35787A03FFFD_stringValue",
+      "value": "Leipzig (DE)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FC68E58A-F8C5-4DD7-99C2-7834A0FE83E4",
+      "overrideName": "DCB774BC-CAFC-4FE0-9275-72EC6BDBF923_stringValue",
+      "value": "Moritzbastei"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "74D4B98A-C876-4A1C-871A-504ED051DA3A",
+      "overrideName": "DBFC1B13-BAF5-4375-BB0C-B9D64F116F5E_stringValue",
+      "value": "Jul"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9A73B173-899A-41FD-BC32-309ECE6384A1",
+      "overrideName": "3BD5F38F-1EF0-41D2-B342-CF6019ABE437_stringValue",
+      "value": "Sa"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EACF1361-5ED5-4D5D-A200-0FD88D260EA7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B735924D-9667-41B6-9A9A-5DE5464B5CA6",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "073FB052-B4F9-40D3-9BBD-E58C433207FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AFB409CD-2001-45E6-B4C8-0E6934B3B051",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "43598A53-5502-4F7B-8403-DE5C49262295",
+    "height": 100,
+    "width": 960,
+    "x": 0,
+    "y": 693
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "name": "wireframes/concerts/entry",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "81A752F9-9E26-4D03-915C-C97839B96CB0",
+      "overrideName": "76C36C07-AF20-4C86-BA7D-28CED166AE0A_stringValue",
+      "value": "Tickets"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D585D823-452F-4F0B-9457-E188DA17FC07",
+      "overrideName": "BAFFEF19-8CC2-4F5C-A317-35787A03FFFD_stringValue",
+      "value": "Zürich (CHE)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B12B59B5-76B1-4CAB-9ED4-55E393A19211",
+      "overrideName": "DCB774BC-CAFC-4FE0-9275-72EC6BDBF923_stringValue",
+      "value": "Halle 622"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4FB10B04-853E-4E85-A82E-235A9FDCCC94",
+      "overrideName": "0960D60B-B248-48B5-8676-114192192826_stringValue",
+      "value": "24"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6E32F80A-36DE-45EF-93F0-82FCF62F5E76",
+      "overrideName": "3BD5F38F-1EF0-41D2-B342-CF6019ABE437_stringValue",
+      "value": "Sa"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4F37074B-DB92-40E0-8851-DE52CC753C28",
+      "overrideName": "DBFC1B13-BAF5-4375-BB0C-B9D64F116F5E_stringValue",
+      "value": "Jul"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6A6A8473-5307-4D57-AB5F-BEF6D402271E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B735924D-9667-41B6-9A9A-5DE5464B5CA6",
+  "verticalSpacing": 0
+}

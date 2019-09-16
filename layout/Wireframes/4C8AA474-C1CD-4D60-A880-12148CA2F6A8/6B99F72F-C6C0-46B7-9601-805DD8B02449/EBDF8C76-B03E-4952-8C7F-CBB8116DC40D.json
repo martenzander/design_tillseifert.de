@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EBDF8C76-B03E-4952-8C7F-CBB8116DC40D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F61BC1C5-F426-4E97-9795-8C09233F9035",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EE9B7B79-579C-4E03-A56F-8F0D939D9161",
+    "height": 100,
+    "width": 960,
+    "x": 0,
+    "y": 198
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "name": "wireframes/concerts/entry",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "81A752F9-9E26-4D03-915C-C97839B96CB0",
+      "overrideName": "76C36C07-AF20-4C86-BA7D-28CED166AE0A_stringValue",
+      "value": "Tickets"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC88DF8A-66AA-4DF3-AFF4-B565657C8EC4",
+      "overrideName": "BAFFEF19-8CC2-4F5C-A317-35787A03FFFD_stringValue",
+      "value": "Frankfurt (DE)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "714F084D-A522-4BBB-ADAB-C54111FC952D",
+      "overrideName": "DCB774BC-CAFC-4FE0-9275-72EC6BDBF923_stringValue",
+      "value": "Jahrhunderthalle"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "53A0ACB0-21D8-4976-A560-F84E2C77C3FE",
+      "overrideName": "0960D60B-B248-48B5-8676-114192192826_stringValue",
+      "value": "08"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A17C2E31-FFDA-4399-B0B2-D8E1E3F048B9",
+      "overrideName": "3BD5F38F-1EF0-41D2-B342-CF6019ABE437_stringValue",
+      "value": "Do"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C45E5152-D4E3-4E00-B355-DC8E7B159808",
+      "overrideName": "DBFC1B13-BAF5-4375-BB0C-B9D64F116F5E_stringValue",
+      "value": "Jul"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D2740828-3AE8-4522-B4F2-13BA99E48226",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B735924D-9667-41B6-9A9A-5DE5464B5CA6",
+  "verticalSpacing": 0
+}

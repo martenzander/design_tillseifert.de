@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "name": "ui/button/primary",
   "nameIsFixed": false,
   "overrideValues": [
@@ -36,6 +36,12 @@
       "do_objectID": "C8E2B1A2-801B-4058-9BF6-D2DFA85893B2",
       "overrideName": "BD851650-D9F9-4237-876B-51CA833F5106_layerStyle",
       "value": "4E206F7B-1176-4D81-84A4-F33E3DE5F89C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4D202439-8AA6-4AD9-BB64-037050564FF4",
+      "overrideName": "1F2EE244-66A4-47E0-99A6-321BB3D2D447_stringValue",
+      "value": "Sign In"
     }
   ],
   "resizingConstraint": 63,

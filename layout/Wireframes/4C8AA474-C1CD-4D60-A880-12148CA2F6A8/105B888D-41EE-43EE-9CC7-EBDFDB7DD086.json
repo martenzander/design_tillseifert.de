@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "105B888D-41EE-43EE-9CC7-EBDFDB7DD086",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0D85FC42-AE8F-4607-82A4-5848104EEAEF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "339133C0-82FB-4601-91B8-A7F3EBE9E489",
+    "height": 247,
+    "width": 1440,
+    "x": 0,
+    "y": 4153
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "section-headline",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95F4C945-BD5D-4668-BCB8-88E17C436F46",
+      "overrideName": "3E0F18D7-4C0C-447E-81C3-C6147841F70A_stringValue",
+      "value": "Diskografie"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "728B3382-D72C-4B59-B8FC-160FBED15E71",
+      "overrideName": "3E0F18D7-4C0C-447E-81C3-C6147841F70A_textStyle",
+      "value": "AF0A8ACE-2FB4-40E2-ACE1-1CCA46B09C3B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D8DDD4CB-46B4-4B77-A6D5-9A760C8E9D03",
+      "overrideName": "32279572-56C4-44CD-8FC7-EA2B4F18D145_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BE34F253-C346-4DFF-8350-B1430674F860",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "92EB5B2D-9403-4CF8-9150-D793C2B80C91",
+  "verticalSpacing": 0
+}

@@ -41,7 +41,19 @@
   "layers": [
     {
       "class": "symbolMaster",
-      "id": "27A833CC-B801-49ED-954F-B5FB07A2CE80"
+      "id": "8EF29BA5-4D82-4456-BC12-B9EB0CDECECD"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "CA9DF315-FCA2-4833-B489-7263CFF948B8"
+    },
+    {
+      "class": "bitmap",
+      "id": "D964D701-E152-43D4-BA7A-993F769FAC7F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E0D3BDC1-1820-4B60-92F1-7A31AA0CAE08"
     }
   ],
   "name": "Symbols",
@@ -56,6 +68,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

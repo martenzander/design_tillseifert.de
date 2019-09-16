@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B4103657-B830-4100-9ED8-F596828EB98F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3D653920-0F33-486D-BA3F-8EE5B3981706",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "14E43E86-C31E-4ACA-AD41-51CF8D10164F",
+    "height": 4,
+    "width": 1406,
+    "x": 17,
+    "y": 710
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "BB4E8D6B-A777-46F6-9A81-B2002536FE94"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0A0DE614-B30F-4C6A-AC76-6C5DB8A528A6"
+    },
+    {
+      "class": "rectangle",
+      "id": "0A2ECA3F-CCD1-4169-BEA4-22BB60CAF170"
+    }
+  ],
+  "name": "Progress Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "210D0732-873C-4058-9772-4C1D4F51C7B6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

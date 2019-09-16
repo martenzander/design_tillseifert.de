@@ -109,9 +109,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7843137254901961,
-          "green": 0.5137254901960788,
-          "red": 0.192156862745098
+          "blue": 0.7725490196078433,
+          "green": 0.792156862745098,
+          "red": 0.2470588235294118
         },
         "fillType": 0,
         "isEnabled": true,
@@ -119,6 +119,63 @@
         "noiseIntensity": 0,
         "patternFillType": 1,
         "patternTileScale": 1
+      },
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 5,
+          "opacity": 1
+        },
+        "fillType": 4,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 0.5,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 0.5,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/6303c365f7e7f54b001638d1e7b01330c93c669b.png",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 0.25
       }
     ],
     "miterLimit": 10,
@@ -129,9 +186,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7843137254901961,
-          "green": 0.5137254901960788,
-          "red": 0.192156862745098
+          "blue": 0.6235294117647058,
+          "green": 0.6431372549019608,
+          "red": 0.1764705882352942
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
