@@ -41,33 +41,39 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "54960B37-3273-42C5-994F-1B56E80F3078",
+      "do_objectID": "91A8AB66-84C2-4CF9-A25D-D56513C09231",
       "overrideName": "BAFFEF19-8CC2-4F5C-A317-35787A03FFFD_stringValue",
       "value": "Köln (DE)"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "EE971043-1A04-4D59-996F-2CC5CABDACE8",
+      "do_objectID": "A02CC17F-5DB2-42FA-9272-A5DD62D459A2",
       "overrideName": "DCB774BC-CAFC-4FE0-9275-72EC6BDBF923_stringValue",
       "value": "King Georg"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "15C66B8F-A0A2-4909-A8D1-410F292DC268",
-      "overrideName": "0960D60B-B248-48B5-8676-114192192826_stringValue",
-      "value": "11"
+      "do_objectID": "4AB115D8-121D-4743-A585-F63D8DDD122B",
+      "overrideName": "DBFC1B13-BAF5-4375-BB0C-B9D64F116F5E_stringValue",
+      "value": "Jul"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "B151EB85-CD23-4CE0-B106-9249CE867C9D",
+      "do_objectID": "1C0BE798-194D-4E44-A50F-3C038B590C61",
       "overrideName": "3BD5F38F-1EF0-41D2-B342-CF6019ABE437_stringValue",
       "value": "So"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "DAE79F55-4256-4418-A4E4-28BB338F9F29",
-      "overrideName": "DBFC1B13-BAF5-4375-BB0C-B9D64F116F5E_stringValue",
-      "value": "Jul"
+      "do_objectID": "5F54B948-225E-4ACC-8BD0-06991574F68C",
+      "overrideName": "0960D60B-B248-48B5-8676-114192192826_stringValue",
+      "value": "11"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B3B80EA7-5C05-4DBC-A171-A0572A77EF19",
+      "overrideName": "5E91D82F-9EE4-48C7-B0F9-4DABD8E3503F/BD851650-D9F9-4237-876B-51CA833F5106_layerStyle",
+      "value": "2AC99C5E-7659-4E4B-AC48-9551DD2FFE65"
     }
   ],
   "resizingConstraint": 63,

@@ -20,7 +20,7 @@
     "height": 247,
     "width": 1440,
     "x": 0,
-    "y": 4153
+    "y": 4497
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -38,12 +38,6 @@
       "do_objectID": "95F4C945-BD5D-4668-BCB8-88E17C436F46",
       "overrideName": "3E0F18D7-4C0C-447E-81C3-C6147841F70A_stringValue",
       "value": "Diskografie"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "728B3382-D72C-4B59-B8FC-160FBED15E71",
-      "overrideName": "3E0F18D7-4C0C-447E-81C3-C6147841F70A_textStyle",
-      "value": "AF0A8ACE-2FB4-40E2-ACE1-1CCA46B09C3B"
     },
     {
       "_class": "overrideValue",

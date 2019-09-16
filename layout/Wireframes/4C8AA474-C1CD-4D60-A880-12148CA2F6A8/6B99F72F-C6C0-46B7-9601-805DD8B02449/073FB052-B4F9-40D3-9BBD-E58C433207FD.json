@@ -41,33 +41,33 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "D585D823-452F-4F0B-9457-E188DA17FC07",
+      "do_objectID": "597FFF03-00D1-46DD-B37A-C3FF79FDC7F2",
       "overrideName": "BAFFEF19-8CC2-4F5C-A317-35787A03FFFD_stringValue",
       "value": "Zürich (CHE)"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "B12B59B5-76B1-4CAB-9ED4-55E393A19211",
+      "do_objectID": "47A2EE6F-7285-4C4C-995E-8B2278C035C5",
       "overrideName": "DCB774BC-CAFC-4FE0-9275-72EC6BDBF923_stringValue",
       "value": "Halle 622"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "4FB10B04-853E-4E85-A82E-235A9FDCCC94",
-      "overrideName": "0960D60B-B248-48B5-8676-114192192826_stringValue",
-      "value": "24"
+      "do_objectID": "E9FBDA1C-FA2F-4FB0-A0B5-4250437368C6",
+      "overrideName": "DBFC1B13-BAF5-4375-BB0C-B9D64F116F5E_stringValue",
+      "value": "Jul"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "6E32F80A-36DE-45EF-93F0-82FCF62F5E76",
+      "do_objectID": "045A75BE-6F51-450E-969C-102F4F222548",
       "overrideName": "3BD5F38F-1EF0-41D2-B342-CF6019ABE437_stringValue",
       "value": "Sa"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "4F37074B-DB92-40E0-8851-DE52CC753C28",
-      "overrideName": "DBFC1B13-BAF5-4375-BB0C-B9D64F116F5E_stringValue",
-      "value": "Jul"
+      "do_objectID": "1B8AC130-4A2D-4D84-BD56-596E50755222",
+      "overrideName": "0960D60B-B248-48B5-8676-114192192826_stringValue",
+      "value": "24"
     }
   ],
   "resizingConstraint": 63,

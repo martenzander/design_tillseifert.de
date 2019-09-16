@@ -84,11 +84,6 @@
         "thickness": 1
       }
     ],
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0
-    },
     "endMarkerType": 0,
     "fills": [
       {

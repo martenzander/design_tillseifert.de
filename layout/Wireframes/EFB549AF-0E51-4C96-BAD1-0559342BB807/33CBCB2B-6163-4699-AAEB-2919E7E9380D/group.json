@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 9902,
+    "height": 9901,
     "width": 1440,
     "x": -0.5,
     "y": 0.5
@@ -32,34 +32,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "shapePath",
-      "id": "6AA3BE23-3C90-4D0B-84E6-E4CA2D1EC961"
-    },
-    {
-      "class": "shapePath",
-      "id": "9F0B4971-D6C8-45B0-AE3F-8041084D1855"
-    },
-    {
-      "class": "shapePath",
-      "id": "3CB95094-438C-4238-B263-3F290421A81E"
-    },
-    {
-      "class": "shapePath",
-      "id": "D953C8B6-7145-455B-B176-03EBEC6A039A"
-    },
-    {
-      "class": "shapePath",
-      "id": "19CC4D2E-406F-4CDA-A8C8-4EB1B5926FFD"
-    },
-    {
-      "class": "shapePath",
-      "id": "6331D1D0-0F25-4017-851F-D0D65C81E151"
-    },
-    {
-      "class": "shapePath",
-      "id": "09D03C94-08EF-4D11-8DC2-8880FE184D33"
-    },
     {
       "class": "rectangle",
       "id": "1120083D-95B0-4650-84DE-01A37BE90789"

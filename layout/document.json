@@ -246,270 +246,6 @@
       "libraryID": "a12f27b0-99a0-11e9-b37e-4ff1a9cf84f5",
       "localSharedStyle": {
         "_class": "sharedStyle",
-        "do_objectID": "08D52534-5376-4BAA-85BF-D3965667E559[DDA1CF4B-F1B4-41A2-BB89-3BE5C3EC5E74]",
-        "name": "ui/background/button/primary/hover",
-        "value": {
-          "_class": "style",
-          "borders": [
-            {
-              "_class": "border",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.592,
-                "green": 0.592,
-                "red": 0.592
-              },
-              "fillType": 0,
-              "isEnabled": false,
-              "position": 1,
-              "thickness": 1
-            }
-          ],
-          "endMarkerType": 0,
-          "fills": [
-            {
-              "_class": "fill",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.7725490196078433,
-                "green": 0.792156862745098,
-                "red": 0.2470588235294118
-              },
-              "fillType": 0,
-              "isEnabled": true,
-              "noiseIndex": 0,
-              "noiseIntensity": 0,
-              "patternFillType": 1,
-              "patternTileScale": 1
-            },
-            {
-              "_class": "fill",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.847,
-                "green": 0.847,
-                "red": 0.847
-              },
-              "contextSettings": {
-                "_class": "graphicsContextSettings",
-                "blendMode": 5,
-                "opacity": 1
-              },
-              "fillType": 4,
-              "gradient": {
-                "_class": "gradient",
-                "elipseLength": 0,
-                "from": "{0.5, 0}",
-                "gradientType": 0,
-                "stops": [
-                  {
-                    "_class": "gradientStop",
-                    "color": {
-                      "_class": "color",
-                      "alpha": 0.5,
-                      "blue": 1,
-                      "green": 1,
-                      "red": 1
-                    },
-                    "position": 0
-                  },
-                  {
-                    "_class": "gradientStop",
-                    "color": {
-                      "_class": "color",
-                      "alpha": 0.5,
-                      "blue": 0,
-                      "green": 0,
-                      "red": 0
-                    },
-                    "position": 1
-                  }
-                ],
-                "to": "{0.5, 1}"
-              },
-              "image": {
-                "_class": "MSJSONFileReference",
-                "_ref": "images/6303c365f7e7f54b001638d1e7b01330c93c669b.png",
-                "_ref_class": "MSImageData"
-              },
-              "isEnabled": true,
-              "noiseIndex": 0,
-              "noiseIntensity": 0,
-              "patternFillType": 0,
-              "patternTileScale": 0.25
-            }
-          ],
-          "miterLimit": 10,
-          "shadows": [
-            {
-              "_class": "shadow",
-              "blurRadius": 13,
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.6235294117647058,
-                "green": 0.6431372549019608,
-                "red": 0.1764705882352942
-              },
-              "contextSettings": {
-                "_class": "graphicsContextSettings",
-                "blendMode": 0,
-                "opacity": 1
-              },
-              "isEnabled": true,
-              "offsetX": 0,
-              "offsetY": 10,
-              "spread": -10
-            }
-          ],
-          "startMarkerType": 0,
-          "windingRule": 1
-        }
-      },
-      "remoteStyleID": "08D52534-5376-4BAA-85BF-D3965667E559[DDA1CF4B-F1B4-41A2-BB89-3BE5C3EC5E74]",
-      "sourceLibraryName": "styleguide",
-      "symbolPrivate": true
-    },
-    {
-      "_class": "MSImmutableForeignLayerStyle",
-      "libraryID": "a12f27b0-99a0-11e9-b37e-4ff1a9cf84f5",
-      "localSharedStyle": {
-        "_class": "sharedStyle",
-        "do_objectID": "DC19A70E-397E-47EA-BF31-4DCD6461EE27",
-        "name": "ui/background/button/primary/default",
-        "value": {
-          "_class": "style",
-          "borders": [
-            {
-              "_class": "border",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.592,
-                "green": 0.592,
-                "red": 0.592
-              },
-              "fillType": 0,
-              "isEnabled": false,
-              "position": 1,
-              "thickness": 1
-            }
-          ],
-          "endMarkerType": 0,
-          "fills": [
-            {
-              "_class": "fill",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.8274509803921567,
-                "green": 0.8431372549019608,
-                "red": 0.4313725490196079
-              },
-              "fillType": 0,
-              "isEnabled": true,
-              "noiseIndex": 0,
-              "noiseIntensity": 0,
-              "patternFillType": 1,
-              "patternTileScale": 1
-            },
-            {
-              "_class": "fill",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.847,
-                "green": 0.847,
-                "red": 0.847
-              },
-              "contextSettings": {
-                "_class": "graphicsContextSettings",
-                "blendMode": 5,
-                "opacity": 1
-              },
-              "fillType": 4,
-              "gradient": {
-                "_class": "gradient",
-                "elipseLength": 0,
-                "from": "{0.5, 0}",
-                "gradientType": 0,
-                "stops": [
-                  {
-                    "_class": "gradientStop",
-                    "color": {
-                      "_class": "color",
-                      "alpha": 0.5,
-                      "blue": 1,
-                      "green": 1,
-                      "red": 1
-                    },
-                    "position": 0
-                  },
-                  {
-                    "_class": "gradientStop",
-                    "color": {
-                      "_class": "color",
-                      "alpha": 0.5,
-                      "blue": 0,
-                      "green": 0,
-                      "red": 0
-                    },
-                    "position": 1
-                  }
-                ],
-                "to": "{0.5, 1}"
-              },
-              "image": {
-                "_class": "MSJSONFileReference",
-                "_ref": "images/47867d2e732bbc58e32dcab290982de6e70c896f.png",
-                "_ref_class": "MSImageData"
-              },
-              "isEnabled": true,
-              "noiseIndex": 0,
-              "noiseIntensity": 0,
-              "patternFillType": 0,
-              "patternTileScale": 0.25
-            }
-          ],
-          "miterLimit": 10,
-          "shadows": [
-            {
-              "_class": "shadow",
-              "blurRadius": 13,
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.7843137254901961,
-                "green": 0.5137254901960788,
-                "red": 0.192156862745098
-              },
-              "contextSettings": {
-                "_class": "graphicsContextSettings",
-                "blendMode": 0,
-                "opacity": 1
-              },
-              "isEnabled": false,
-              "offsetX": 0,
-              "offsetY": 10,
-              "spread": -10
-            }
-          ],
-          "startMarkerType": 0,
-          "windingRule": 1
-        }
-      },
-      "remoteStyleID": "4E206F7B-1176-4D81-84A4-F33E3DE5F89C",
-      "sourceLibraryName": "styleguide",
-      "symbolPrivate": false
-    },
-    {
-      "_class": "MSImmutableForeignLayerStyle",
-      "libraryID": "a12f27b0-99a0-11e9-b37e-4ff1a9cf84f5",
-      "localSharedStyle": {
-        "_class": "sharedStyle",
         "do_objectID": "2AC99C5E-7659-4E4B-AC48-9551DD2FFE65",
         "name": "ui/background/button/primary/hover",
         "value": {
@@ -689,6 +425,323 @@
       "remoteStyleID": "39AA6A32-4596-47D4-AFD5-BCAED782D9E9",
       "sourceLibraryName": "styleguide",
       "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "a12f27b0-99a0-11e9-b37e-4ff1a9cf84f5",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "08D52534-5376-4BAA-85BF-D3965667E559[DDA1CF4B-F1B4-41A2-BB89-3BE5C3EC5E74]",
+        "name": "ui/background/button/primary/hover",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.7725490196078433,
+                "green": 0.792156862745098,
+                "red": 0.2470588235294118
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            },
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.847,
+                "green": 0.847,
+                "red": 0.847
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 5,
+                "opacity": 1
+              },
+              "fillType": 4,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 0.5,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 0.5,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "image": {
+                "_class": "MSJSONFileReference",
+                "_ref": "images/6303c365f7e7f54b001638d1e7b01330c93c669b.png",
+                "_ref_class": "MSImageData"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 0,
+              "patternTileScale": 0.25
+            }
+          ],
+          "miterLimit": 10,
+          "shadows": [
+            {
+              "_class": "shadow",
+              "blurRadius": 13,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.6235294117647058,
+                "green": 0.6431372549019608,
+                "red": 0.1764705882352942
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "isEnabled": true,
+              "offsetX": 0,
+              "offsetY": 10,
+              "spread": -10
+            }
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "08D52534-5376-4BAA-85BF-D3965667E559[DDA1CF4B-F1B4-41A2-BB89-3BE5C3EC5E74]",
+      "sourceLibraryName": "styleguide",
+      "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "a12f27b0-99a0-11e9-b37e-4ff1a9cf84f5",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "45DE90B0-8046-4FB3-BD1E-E91182A38896",
+        "name": "ui/background/button/primary/default",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8274509803921567,
+                "green": 0.8431372549019608,
+                "red": 0.4313725490196079
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            },
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.847,
+                "green": 0.847,
+                "red": 0.847
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 5,
+                "opacity": 1
+              },
+              "fillType": 4,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 0.5,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 0.5,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "image": {
+                "_class": "MSJSONFileReference",
+                "_ref": "images/47867d2e732bbc58e32dcab290982de6e70c896f.png",
+                "_ref_class": "MSImageData"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 0,
+              "patternTileScale": 0.25
+            }
+          ],
+          "miterLimit": 10,
+          "shadows": [
+            {
+              "_class": "shadow",
+              "blurRadius": 13,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.7843137254901961,
+                "green": 0.5137254901960788,
+                "red": 0.192156862745098
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "isEnabled": false,
+              "offsetX": 0,
+              "offsetY": 10,
+              "spread": -10
+            }
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "4E206F7B-1176-4D81-84A4-F33E3DE5F89C",
+      "sourceLibraryName": "styleguide",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "a12f27b0-99a0-11e9-b37e-4ff1a9cf84f5",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "3D7244FF-24FA-43A3-AB25-CB009A03DD93",
+        "name": "color/grey/main",
+        "value": {
+          "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8117647058823529,
+                "green": 0.7686274509803922,
+                "red": 0.7215686274509804
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "6BA2D49F-1711-47EB-B3F5-D2963BD0AFDE",
+      "sourceLibraryName": "styleguide",
+      "symbolPrivate": false
     }
   ],
   "foreignSymbols": [
@@ -706,7 +759,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 205,
+        "changeIdentifier": 237,
         "clippingMaskMode": 0,
         "do_objectID": "F973E4A1-1E6F-4275-A523-29BF8A274AD0",
         "exportOptions": {
@@ -765,7 +818,7 @@
               "layerOptions": 0,
               "shouldTrim": false
             },
-            "fixedRadius": 4,
+            "fixedRadius": 0,
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -790,7 +843,7 @@
             "points": [
               {
                 "_class": "curvePoint",
-                "cornerRadius": 4,
+                "cornerRadius": 0,
                 "curveFrom": "{0, 0}",
                 "curveMode": 1,
                 "curveTo": "{0, 0}",
@@ -800,7 +853,7 @@
               },
               {
                 "_class": "curvePoint",
-                "cornerRadius": 4,
+                "cornerRadius": 0,
                 "curveFrom": "{1, 0}",
                 "curveMode": 1,
                 "curveTo": "{1, 0}",
@@ -810,7 +863,7 @@
               },
               {
                 "_class": "curvePoint",
-                "cornerRadius": 4,
+                "cornerRadius": 0,
                 "curveFrom": "{1, 1}",
                 "curveMode": 1,
                 "curveTo": "{1, 1}",
@@ -820,7 +873,7 @@
               },
               {
                 "_class": "curvePoint",
-                "cornerRadius": 4,
+                "cornerRadius": 0,
                 "curveFrom": "{0, 1}",
                 "curveMode": 1,
                 "curveTo": "{0, 1}",
@@ -1207,7 +1260,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 206,
+        "changeIdentifier": 238,
         "clippingMaskMode": 0,
         "do_objectID": "F973E4A1-1E6F-4275-A523-29BF8A274AD0",
         "exportOptions": {
@@ -1266,7 +1319,7 @@
               "layerOptions": 0,
               "shouldTrim": false
             },
-            "fixedRadius": 4,
+            "fixedRadius": 0,
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -1291,7 +1344,7 @@
             "points": [
               {
                 "_class": "curvePoint",
-                "cornerRadius": 4,
+                "cornerRadius": 0,
                 "curveFrom": "{0, 0}",
                 "curveMode": 1,
                 "curveTo": "{0, 0}",
@@ -1301,7 +1354,7 @@
               },
               {
                 "_class": "curvePoint",
-                "cornerRadius": 4,
+                "cornerRadius": 0,
                 "curveFrom": "{1, 0}",
                 "curveMode": 1,
                 "curveTo": "{1, 0}",
@@ -1311,7 +1364,7 @@
               },
               {
                 "_class": "curvePoint",
-                "cornerRadius": 4,
+                "cornerRadius": 0,
                 "curveFrom": "{1, 1}",
                 "curveMode": 1,
                 "curveTo": "{1, 1}",
@@ -1321,7 +1374,7 @@
               },
               {
                 "_class": "curvePoint",
-                "cornerRadius": 4,
+                "cornerRadius": 0,
                 "curveFrom": "{0, 1}",
                 "curveMode": 1,
                 "curveTo": "{0, 1}",

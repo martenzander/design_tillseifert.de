@@ -56,6 +56,38 @@
     {
       "class": "rectangle",
       "id": "52CD7934-20BB-45BD-B9EC-F922CBE20AAB"
+    },
+    {
+      "class": "group",
+      "id": "6CCB100D-D7D4-49B0-898A-C9F8BA66F92A"
+    },
+    {
+      "class": "group",
+      "id": "B719DFFE-2B49-4933-B1AF-ED271E3CC580"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E79A084D-7E41-438D-B11E-3C699461847F"
+    },
+    {
+      "class": "group",
+      "id": "A9A1433A-CC02-4992-8874-D342B1CC7857"
+    },
+    {
+      "class": "group",
+      "id": "A769A71B-7562-4D7B-A6F3-D2B186DA0933"
+    },
+    {
+      "class": "group",
+      "id": "EA18A515-2A21-4F77-9514-3A28A5176791"
+    },
+    {
+      "class": "group",
+      "id": "185D6A9C-4C7D-4DBD-B939-D8C6E585EBE3"
+    },
+    {
+      "class": "group",
+      "id": "71AD9522-9A5D-43B6-9075-53C9868562BA"
     }
   ],
   "layout": {

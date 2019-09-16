@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1729,
+  "changeIdentifier": 3113,
   "clippingMaskMode": 0,
   "do_objectID": "CA9DF315-FCA2-4833-B489-7263CFF948B8",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 100,
     "width": 960,
-    "x": 256,
-    "y": 0
+    "x": 259,
+    "y": 24
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -61,8 +61,12 @@
       "id": "DCB774BC-CAFC-4FE0-9275-72EC6BDBF923"
     },
     {
-      "class": "group",
-      "id": "99CBBA6B-8833-467D-A323-7A686F683333"
+      "class": "text",
+      "id": "DBFC1B13-BAF5-4375-BB0C-B9D64F116F5E"
+    },
+    {
+      "class": "text",
+      "id": "3BD5F38F-1EF0-41D2-B342-CF6019ABE437"
     },
     {
       "class": "text",
@@ -78,7 +82,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "1E593B99-66EF-4595-B77C-61FE5FFC2F27"
+      "id": "5E91D82F-9EE4-48C7-B0F9-4DABD8E3503F"
     }
   ],
   "name": "concerts-list/entry",
@@ -97,7 +101,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "CBA5013E-FC59-45BB-B990-5614CB614196_stringValue"
+      "overrideName": "5E91D82F-9EE4-48C7-B0F9-4DABD8E3503F_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",

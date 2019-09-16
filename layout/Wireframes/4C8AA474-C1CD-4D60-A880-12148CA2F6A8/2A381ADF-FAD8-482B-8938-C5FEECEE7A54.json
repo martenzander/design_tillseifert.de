@@ -20,7 +20,7 @@
     "height": 247,
     "width": 1440,
     "x": -1,
-    "y": 2988
+    "y": 3050
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -38,12 +38,6 @@
       "do_objectID": "95F4C945-BD5D-4668-BCB8-88E17C436F46",
       "overrideName": "3E0F18D7-4C0C-447E-81C3-C6147841F70A_stringValue",
       "value": "Musikvideos"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "A822B2CB-3DFA-402F-BA14-1B1AB7ECF258",
-      "overrideName": "3E0F18D7-4C0C-447E-81C3-C6147841F70A_textStyle",
-      "value": "AF0A8ACE-2FB4-40E2-ACE1-1CCA46B09C3B"
     },
     {
       "_class": "overrideValue",

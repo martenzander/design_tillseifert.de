@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 50,
     "width": 226,
-    "x": 2867,
-    "y": 3797
+    "x": -2630,
+    "y": 3582
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -33,7 +33,7 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "D69FED24-7FC1-42A8-AB42-20CCC374E517",
+      "do_objectID": "B1228B33-EFAF-4C22-83F7-91BC8B703ED6",
       "overrideName": "1F2EE244-66A4-47E0-99A6-321BB3D2D447_stringValue",
       "value": "Jetzt kaufen"
     }

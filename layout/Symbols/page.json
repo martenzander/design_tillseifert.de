@@ -48,12 +48,12 @@
       "id": "CA9DF315-FCA2-4833-B489-7263CFF948B8"
     },
     {
-      "class": "bitmap",
-      "id": "D964D701-E152-43D4-BA7A-993F769FAC7F"
+      "class": "symbolMaster",
+      "id": "E0D3BDC1-1820-4B60-92F1-7A31AA0CAE08"
     },
     {
       "class": "symbolMaster",
-      "id": "E0D3BDC1-1820-4B60-92F1-7A31AA0CAE08"
+      "id": "700A39E8-C560-4C8C-9158-0BAA499C190D"
     }
   ],
   "name": "Symbols",
