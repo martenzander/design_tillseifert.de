@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Bold",
+              "name": "Merriweather-Bold",
               "size": 40
             }
           },
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "916965A5-AFB1-454D-9F84-51DAB0BC8656",
-    "height": 49,
+    "height": 50,
     "width": 681,
     "x": 0,
     "y": 103
   },
-  "glyphBounds": "{{251, 7}, {181, 33}}",
+  "glyphBounds": "{{253, 6}, {176, 34}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -93,7 +93,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Bold",
+            "name": "Merriweather-Bold",
             "size": 40
           }
         },
