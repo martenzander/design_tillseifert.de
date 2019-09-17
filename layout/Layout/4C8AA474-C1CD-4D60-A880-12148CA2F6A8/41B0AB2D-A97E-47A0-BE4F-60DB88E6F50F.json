@@ -1,10 +1,11 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "74390E92-30AE-4EED-B216-6BEE035D4A13",
+  "do_objectID": "41B0AB2D-A97E-47A0-BE4F-60DB88E6F50F",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "DD3CF1C3-96F4-4038-AC6C-0054FADED24F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,46 +16,41 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 254,
-    "width": 389,
-    "x": 490,
-    "y": 47
+    "do_objectID": "F62C0898-D430-48A5-9186-2F73AF4991F7",
+    "height": 50,
+    "width": 195,
+    "x": 811.0000000000001,
+    "y": 5331
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "maintainScrollPosition": false,
+  "name": "ui/button/primary",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "text",
-      "id": "3540AC31-FE8A-41C2-9219-229665716F3F"
+      "_class": "overrideValue",
+      "do_objectID": "3B9B84BB-B6E5-4A4A-9BAD-2A1AB939CF54",
+      "overrideName": "BD851650-D9F9-4237-876B-51CA833F5106_layerStyle",
+      "value": "45DE90B0-8046-4FB3-BD1E-E91182A38896"
     },
     {
-      "class": "text",
-      "id": "A9B50CBA-B184-434C-B888-C07F615520A5"
-    },
-    {
-      "class": "text",
-      "id": "619163A3-71CF-4AAF-A988-B4039418AC5E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "41B0AB2D-A97E-47A0-BE4F-60DB88E6F50F"
+      "_class": "overrideValue",
+      "do_objectID": "BDB85FAC-7A7D-4827-B59E-AEC17413761B",
+      "overrideName": "1F2EE244-66A4-47E0-99A6-321BB3D2D447_stringValue",
+      "value": "Jetzt kaufen"
     }
   ],
-  "maintainScrollPosition": false,
-  "name": "Group 3",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -90,6 +86,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "9FDEF22D-8C7E-45CD-A51E-060AC336DFB6",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -100,5 +97,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "08D52534-5376-4BAA-85BF-D3965667E559",
+  "verticalSpacing": 0
 }

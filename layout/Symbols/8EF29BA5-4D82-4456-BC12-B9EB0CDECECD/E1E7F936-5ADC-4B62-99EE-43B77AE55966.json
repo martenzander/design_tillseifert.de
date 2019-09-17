@@ -21,7 +21,7 @@
             }
           },
           "MSAttributedStringTextTransformAttribute": 1,
-          "kerning": 4,
+          "kerning": 2,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
@@ -59,7 +59,7 @@
     "x": 0,
     "y": 91
   },
-  "glyphBounds": "{{235, 5}, {207, 17}}",
+  "glyphBounds": "{{246, 5}, {187, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -142,7 +142,7 @@
           }
         },
         "MSAttributedStringTextTransformAttribute": 1,
-        "kerning": 4,
+        "kerning": 2,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,

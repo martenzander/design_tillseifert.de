@@ -9,41 +9,42 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.05490196078431372,
-            "green": 0.02745098039215686,
-            "red": 0.02352941176470589
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SourceSansPro-Regular",
-              "size": 16
+              "name": "Montserrat-Black",
+              "size": 24
             }
           },
-          "kerning": 0,
+          "MSAttributedStringTextTransformAttribute": 1,
+          "kerning": 0.7999999999999999,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24
+            "maximumLineHeight": 34,
+            "minimumLineHeight": 34
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 181,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "Vestibulum rutrum quam vitae fringilla tincidunt. Suspendisse nec tortor urna. Ut laoreet sodales nisi, quis iaculis nulla iaculis vitae. Donec sagittis faucibus lacus eget blandit."
+    "string": "Fassaden"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "619163A3-71CF-4AAF-A988-B4039418AC5E",
+  "do_objectID": "3540AC31-FE8A-41C2-9219-229665716F3F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0072BB4F-26F7-4793-B80B-B5C15A1A8D10",
+    "do_objectID": "79A18D74-18E3-4C23-8217-42621667A0EE",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -54,13 +55,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "CD135678-B1B2-484E-A7B8-5FE1EDE8DC0C",
-    "height": 96,
-    "width": 389,
-    "x": 0,
-    "y": 83
+    "do_objectID": "B3EFB472-B334-4A5D-9DB6-E4633FA79D25",
+    "height": 34,
+    "width": 386,
+    "x": 811.0000000000001,
+    "y": 5148
   },
-  "glyphBounds": "{{0, 6}, {378, 88}}",
+  "glyphBounds": "{{1, 8}, {144, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,12 +71,11 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Vestibulum rutrum qu",
+  "name": "Fassaden",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "10E3F4F2-1FDB-4C7A-BD51-DE24B554C4F0",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -126,24 +126,25 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.05490196078431372,
-          "green": 0.02745098039215686,
-          "red": 0.02352941176470589
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SourceSansPro-Regular",
-            "size": 16
+            "name": "Montserrat-Black",
+            "size": 24
           }
         },
-        "kerning": 0,
+        "MSAttributedStringTextTransformAttribute": 1,
+        "kerning": 0.7999999999999999,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24
+          "maximumLineHeight": 34,
+          "minimumLineHeight": 34
         },
         "textStyleVerticalAlignmentKey": 1
       },
