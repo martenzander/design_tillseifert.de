@@ -9,18 +9,19 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.05490196078431372,
+            "green": 0.02745098039215686,
+            "red": 0.02352941176470588
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SourceSansPro-Bold",
-              "size": 12
+              "name": "Montserrat-SemiBold",
+              "size": 16
             }
           },
-          "kerning": 0,
+          "MSAttributedStringTextTransformAttribute": 1,
+          "kerning": 3,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -28,20 +29,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 9,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "Impressum"
+    "string": "2016"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CB89A9E5-B602-4AF1-8B9F-7B64F1D5109B",
+  "do_objectID": "459F2752-D997-4B89-8C52-09DCFCA05002",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C2655CC9-2771-448F-871F-B1EA2DADDF4D",
+    "do_objectID": "01096A22-B427-4D29-A295-99745FA9117E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +53,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C2218F6C-442A-42FE-81F3-12B6C1BCE1D7",
-    "height": 15,
-    "width": 60,
-    "x": 814,
-    "y": 7689
+    "do_objectID": "EB374E0F-C436-4CB4-97CF-346FF22ACDFF",
+    "height": 19,
+    "width": 329,
+    "x": 1.13686837721616e-13,
+    "y": 0
   },
-  "glyphBounds": "{{0, 4}, {59, 11}}",
+  "glyphBounds": "{{0, 3}, {45, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,9 +69,9 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Impressum",
+  "name": "2016",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -106,9 +107,8 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 1
+      "opacity": 0.28
     },
-    "do_objectID": "611079DE-3685-4A0A-BE3E-1B2FEDA0E863",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -120,23 +120,23 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "F2711E09-3982-4A04-84A7-4B1ABB097C9F",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.05490196078431372,
+          "green": 0.02745098039215686,
+          "red": 0.02352941176470588
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SourceSansPro-Bold",
-            "size": 12
+            "name": "Montserrat-SemiBold",
+            "size": 16
           }
         },
-        "kerning": 0,
+        "MSAttributedStringTextTransformAttribute": 1,
+        "kerning": 3,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
@@ -148,7 +148,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

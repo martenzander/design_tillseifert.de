@@ -1,11 +1,11 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "AB8A087E-B1B8-4834-AC3C-67BF1E97685F",
+  "do_objectID": "94F79E53-EFA5-42DD-BA70-6D4331A3AC4D",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "080B42A8-532F-4638-9739-9D572627A609",
+    "do_objectID": "A3C59940-3A14-49A5-ABE5-84BED11008F9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,48 +16,41 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4A39DC17-E6C9-45C5-8E37-558CD52D31D8",
-    "height": 360,
-    "width": 360,
-    "x": 720,
-    "y": 7011
+    "do_objectID": "0D81A96A-4CE8-435D-9D18-9A37A654F14E",
+    "height": 50,
+    "width": 195,
+    "x": 1.13686837721616e-13,
+    "y": 204
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "3145807F-0DB0-49F4-A009-B020AD31D334"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "maintainScrollPosition": false,
+  "name": "ui/button/primary",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "rectangle",
-      "id": "597B2AF6-6CE5-47AB-BB24-396E32D140B8"
+      "_class": "overrideValue",
+      "do_objectID": "FB20194A-A00E-4B34-9E11-22992B378837",
+      "overrideName": "BD851650-D9F9-4237-876B-51CA833F5106_layerStyle",
+      "value": "45DE90B0-8046-4FB3-BD1E-E91182A38896"
     },
     {
-      "class": "bitmap",
-      "id": "45F7D7E8-21D5-4A47-9B0C-76469172E337"
-    },
-    {
-      "class": "bitmap",
-      "id": "62F8FF74-7B35-474A-B460-A3F747EA00C1"
-    },
-    {
-      "class": "bitmap",
-      "id": "7EED85C3-DD1A-4712-8C36-082E43BDAB0D"
+      "_class": "overrideValue",
+      "do_objectID": "F2EE776F-48C5-409D-AB19-7AFFF6FDBCE9",
+      "overrideName": "1F2EE244-66A4-47E0-99A6-321BB3D2D447_stringValue",
+      "value": "Jetzt kaufen"
     }
   ],
-  "maintainScrollPosition": false,
-  "name": "Bitmap Copy 2",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -93,7 +86,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "F8A166EE-A5DE-4611-BBD0-7EFA6D6CF685",
+    "do_objectID": "C9CD95F7-A5D2-42FE-895D-21689656C64F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -104,5 +97,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "08D52534-5376-4BAA-85BF-D3965667E559",
+  "verticalSpacing": 0
 }

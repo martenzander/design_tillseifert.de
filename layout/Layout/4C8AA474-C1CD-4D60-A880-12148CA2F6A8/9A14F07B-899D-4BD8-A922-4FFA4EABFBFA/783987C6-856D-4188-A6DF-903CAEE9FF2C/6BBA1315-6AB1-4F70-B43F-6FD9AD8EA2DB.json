@@ -16,32 +16,35 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SourceSansPro-Bold",
-              "size": 12
+              "name": "Montserrat-Black",
+              "size": 30
             }
           },
-          "kerning": 0,
+          "MSAttributedStringTextTransformAttribute": 1,
+          "kerning": 1,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 34,
+            "minimumLineHeight": 34
           },
-          "textStyleVerticalAlignmentKey": 0
+          "textStyleVerticalAlignmentKey": 1
         },
-        "length": 9,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "Impressum"
+    "string": "Von der Freiheit"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CB89A9E5-B602-4AF1-8B9F-7B64F1D5109B",
+  "do_objectID": "6BBA1315-6AB1-4F70-B43F-6FD9AD8EA2DB",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C2655CC9-2771-448F-871F-B1EA2DADDF4D",
+    "do_objectID": "8237C544-0E10-4489-9BA2-A4EF7667E679",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +55,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C2218F6C-442A-42FE-81F3-12B6C1BCE1D7",
-    "height": 15,
-    "width": 60,
-    "x": 814,
-    "y": 7689
+    "do_objectID": "8293B030-3B34-4D9B-A9FA-96477735851E",
+    "height": 34,
+    "width": 470,
+    "x": 0,
+    "y": 24
   },
-  "glyphBounds": "{{0, 4}, {59, 11}}",
+  "glyphBounds": "{{-1, 6}, {321, 23}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,9 +71,9 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Impressum",
+  "name": "Von der Freiheit",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -108,7 +111,6 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "611079DE-3685-4A0A-BE3E-1B2FEDA0E863",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -120,7 +122,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "F2711E09-3982-4A04-84A7-4B1ABB097C9F",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -132,23 +133,26 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SourceSansPro-Bold",
-            "size": 12
+            "name": "Montserrat-Black",
+            "size": 30
           }
         },
-        "kerning": 0,
+        "MSAttributedStringTextTransformAttribute": 1,
+        "kerning": 1,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 34,
+          "minimumLineHeight": 34
         },
-        "textStyleVerticalAlignmentKey": 0
+        "textStyleVerticalAlignmentKey": 1
       },
-      "verticalAlignment": 0
+      "verticalAlignment": 1
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
