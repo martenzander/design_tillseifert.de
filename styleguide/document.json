@@ -6,6 +6,8 @@
     ],
     "colors": [
     ],
+    "exportPresets": [
+    ],
     "gradientAssets": [
       {
         "_class": "MSImmutableGradientAsset",
@@ -39,7 +41,8 @@
             }
           ],
           "to": "{0.5, 1}"
-        }
+        },
+        "name": ""
       }
     ],
     "gradients": [
@@ -97,9 +100,9 @@
     ]
   },
   "meta": {
-    "appVersion": "57.1",
-    "build": 83088,
-    "version": 119
+    "appVersion": "58",
+    "build": 84663,
+    "version": 120
   },
   "pages": [
     "styleguide",

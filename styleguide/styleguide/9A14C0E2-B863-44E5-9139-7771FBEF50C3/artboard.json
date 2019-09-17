@@ -22,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1131,
+    "height": 1810,
     "width": 3901,
     "x": 248,
-    "y": 56
+    "y": 50
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -98,10 +98,43 @@
       "id": "A48C95C9-ACFA-4FFC-B63B-77E6051726EE"
     },
     {
-      "class": "group",
-      "id": "571B81C9-932A-4169-99AC-C195B6EAF9AE"
+      "class": "text",
+      "id": "46C0F5BF-4E4B-4B03-8645-630B7BA541F5"
+    },
+    {
+      "class": "text",
+      "id": "00C194C1-FFCC-4B61-AA12-355553490050"
+    },
+    {
+      "class": "text",
+      "id": "F9426D9C-D3A9-4843-8E04-71DA84573F44"
+    },
+    {
+      "class": "text",
+      "id": "4910B2CB-33FB-411A-B3AF-497230C8F182"
+    },
+    {
+      "class": "text",
+      "id": "169AB2D9-027B-410F-9D64-E1A24B7F6046"
+    },
+    {
+      "class": "text",
+      "id": "200A3E51-46F6-47A7-A4B6-6D4F6ACB2FF6"
+    },
+    {
+      "class": "text",
+      "id": "951ED21F-2ACF-4DE3-8FE2-CB6A22DB68E2"
+    },
+    {
+      "class": "text",
+      "id": "44371209-C557-41EE-AEF3-2EC1D4926A3D"
+    },
+    {
+      "class": "text",
+      "id": "C73F9CBF-0AF8-4370-828D-3DEDC4379C19"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Typo",
   "nameIsFixed": true,
   "presetDictionary": {
@@ -118,8 +151,46 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

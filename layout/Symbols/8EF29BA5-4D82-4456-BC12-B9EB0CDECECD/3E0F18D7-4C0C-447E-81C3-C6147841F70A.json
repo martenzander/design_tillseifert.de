@@ -16,11 +16,12 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Bold",
-              "size": 40
+              "name": "Montserrat-Black",
+              "size": 50
             }
           },
-          "kerning": 0,
+          "MSAttributedStringTextTransformAttribute": 1,
+          "kerning": 1,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
@@ -53,12 +54,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "916965A5-AFB1-454D-9F84-51DAB0BC8656",
-    "height": 49,
+    "height": 61,
     "width": 681,
     "x": 0,
-    "y": 103
+    "y": 128
   },
-  "glyphBounds": "{{250, 7}, {183, 33}}",
+  "glyphBounds": "{{200, 13}, {281, 35}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,6 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "Headline",
   "nameIsFixed": false,
   "resizingConstraint": 42,
@@ -76,9 +78,119 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "6DEADB61-3564-46B7-AC08-3E880FE20221",
     "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "fillType": 1,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0, -2.1641838987530941}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.4085735976696014,
+                "green": 0.3878853917121887,
+                "red": 0.3881273865699768
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.05589373409748077,
+                "green": 0.02692615613341331,
+                "red": 0.02332878857851028
+              },
+              "position": 1
+            }
+          ],
+          "to": "{1, 2.7350512849963118}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 6,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1410893793706294,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 2,
+        "offsetY": 3,
+        "spread": 0
+      }
+    ],
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -93,11 +205,12 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Bold",
-            "size": 40
+            "name": "Montserrat-Black",
+            "size": 50
           }
         },
-        "kerning": 0,
+        "MSAttributedStringTextTransformAttribute": 1,
+        "kerning": 1,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,

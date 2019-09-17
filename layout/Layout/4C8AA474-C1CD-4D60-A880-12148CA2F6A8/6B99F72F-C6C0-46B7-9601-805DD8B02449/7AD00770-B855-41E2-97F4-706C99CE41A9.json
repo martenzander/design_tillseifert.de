@@ -1,0 +1,127 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7AD00770-B855-41E2-97F4-706C99CE41A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2F48BDA5-156F-4E37-A863-2D9EA9774E3B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7C5E7F94-CF14-47B8-B77D-5617EFEFB3F2",
+    "height": 100,
+    "width": 960,
+    "x": 0,
+    "y": 594
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "maintainScrollPosition": false,
+  "name": "wireframes/concerts/entry",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "81A752F9-9E26-4D03-915C-C97839B96CB0",
+      "overrideName": "76C36C07-AF20-4C86-BA7D-28CED166AE0A_stringValue",
+      "value": "Tickets"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3DB37A31-D7D6-4A63-AF33-57528A273286",
+      "overrideName": "BAFFEF19-8CC2-4F5C-A317-35787A03FFFD_stringValue",
+      "value": "München (DE)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F4537E04-3496-43B7-827C-10CB9B338E62",
+      "overrideName": "DCB774BC-CAFC-4FE0-9275-72EC6BDBF923_stringValue",
+      "value": "Feierwerk"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D523B193-11C6-4E4D-8FB8-E709B5F4F64A",
+      "overrideName": "DBFC1B13-BAF5-4375-BB0C-B9D64F116F5E_stringValue",
+      "value": "Jul"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A6754DF6-AEAE-4F20-92D9-C0988409971D",
+      "overrideName": "3BD5F38F-1EF0-41D2-B342-CF6019ABE437_stringValue",
+      "value": "So"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F506ACB5-35A3-4A97-9154-C74920320957",
+      "overrideName": "0960D60B-B248-48B5-8676-114192192826_stringValue",
+      "value": "18"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "449988C4-3C86-43A4-9B36-5AA4FCAFEBBD",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B735924D-9667-41B6-9A9A-5DE5464B5CA6",
+  "verticalSpacing": 0
+}
