@@ -21,7 +21,7 @@
             }
           },
           "MSAttributedStringTextTransformAttribute": 1,
-          "kerning": 4,
+          "kerning": 2,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
@@ -59,7 +59,7 @@
     "x": 0,
     "y": 128
   },
-  "glyphBounds": "{{188, 13}, {302, 35}}",
+  "glyphBounds": "{{196, 13}, {288, 35}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -139,9 +139,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.2989632487297058,
-                "green": 0.2740849852561951,
-                "red": 0.2703717947006226
+                "blue": 0.1148291900753975,
+                "green": 0.08167945593595505,
+                "red": 0.08222597092390059
               },
               "position": 0
             },
@@ -210,7 +210,7 @@
           }
         },
         "MSAttributedStringTextTransformAttribute": 1,
-        "kerning": 4,
+        "kerning": 2,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,

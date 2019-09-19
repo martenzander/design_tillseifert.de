@@ -1,0 +1,137 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AB163713-9430-4489-94AC-81A9CD81AD23",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "72C85CB4-4299-4D8A-AFE6-65745A721DE9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9B4D479C-D87A-4F98-9B2A-46645436C307",
+    "height": 100,
+    "width": 960,
+    "x": 0,
+    "y": 396
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "maintainScrollPosition": false,
+  "name": "wireframes/concerts/entry",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "81A752F9-9E26-4D03-915C-C97839B96CB0",
+      "overrideName": "76C36C07-AF20-4C86-BA7D-28CED166AE0A_stringValue",
+      "value": "Tickets"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2BACB500-C7D8-405B-8698-649ED2E8B115",
+      "overrideName": "5E91D82F-9EE4-48C7-B0F9-4DABD8E3503F/BD851650-D9F9-4237-876B-51CA833F5106_layerStyle",
+      "value": "2AC99C5E-7659-4E4B-AC48-9551DD2FFE65"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A6D2EF21-70BA-4EFD-B72B-C79B1ACD86DD",
+      "overrideName": "BAFFEF19-8CC2-4F5C-A317-35787A03FFFD_stringValue",
+      "value": "Köln (DE)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE57BE82-C62D-4039-A388-27B922377F4B",
+      "overrideName": "DCB774BC-CAFC-4FE0-9275-72EC6BDBF923_stringValue",
+      "value": "King Georg"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "81E9BC79-66F1-47DE-A116-03EA4D0043FB",
+      "overrideName": "DBFC1B13-BAF5-4375-BB0C-B9D64F116F5E_stringValue",
+      "value": "Jul"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9269938C-B811-47C6-873B-D6C123401503",
+      "overrideName": "3BD5F38F-1EF0-41D2-B342-CF6019ABE437_stringValue",
+      "value": "So"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3B27D986-8F5A-441C-92FB-45312AF006C9",
+      "overrideName": "0960D60B-B248-48B5-8676-114192192826_stringValue",
+      "value": "11"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E89427AE-B5CF-4B9E-8944-17A686B35659",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "09C849F2-3A4C-4A8B-A1E8-F3FAC8317EAA",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "93CE273A-CCC1-4A6B-820A-2F3957E5C686",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "CF3378F3-F3B9-4591-8E25-EE96A85E41B1",
+      "opacity": 1
+    },
+    "do_objectID": "CB8BDA07-CAEB-49CE-902E-395159BC8DC6",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B735924D-9667-41B6-9A9A-5DE5464B5CA6",
+  "verticalSpacing": 0
+}

@@ -24,14 +24,14 @@
     "constrainProportions": false,
     "height": 800,
     "width": 1440,
-    "x": -2274,
-    "y": 43
+    "x": -722,
+    "y": -982
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -118,8 +118,8 @@
     "totalWidth": 960
   },
   "maintainScrollPosition": false,
-  "name": "Desktop HD Copy",
-  "nameIsFixed": false,
+  "name": "Navigation lg",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

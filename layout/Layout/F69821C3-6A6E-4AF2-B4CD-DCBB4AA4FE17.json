@@ -66,8 +66,8 @@
     "totalWidth": 768
   },
   "maintainScrollPosition": false,
-  "name": "Tablet",
-  "nameIsFixed": false,
+  "name": "sm",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

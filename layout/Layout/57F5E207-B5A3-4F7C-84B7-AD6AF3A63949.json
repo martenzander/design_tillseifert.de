@@ -66,8 +66,8 @@
     "totalWidth": 320
   },
   "maintainScrollPosition": false,
-  "name": "Mobile",
-  "nameIsFixed": false,
+  "name": "xs",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

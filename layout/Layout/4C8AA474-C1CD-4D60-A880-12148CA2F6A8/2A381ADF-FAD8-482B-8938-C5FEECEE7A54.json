@@ -19,7 +19,7 @@
     "do_objectID": "83F13411-FB8D-40A4-8B28-0D2FB54A1FC8",
     "height": 304,
     "width": 1440,
-    "x": -1,
+    "x": 0,
     "y": 3171
   },
   "hasClippingMask": false,
@@ -50,7 +50,7 @@
       "_class": "overrideValue",
       "do_objectID": "D690A742-5810-4D7E-B893-3F257F92938A",
       "overrideName": "E1E7F936-5ADC-4B62-99EE-43B77AE55966_stringValue",
-      "value": "Youtube"
+      "value": "Musik"
     }
   ],
   "resizingConstraint": 63,
