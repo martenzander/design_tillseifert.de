@@ -16,10 +16,11 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Bold",
-              "size": 40
+              "name": "Montserrat-Black",
+              "size": 50
             }
           },
+          "MSAttributedStringTextTransformAttribute": 1,
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
@@ -53,12 +54,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "AF271040-C3E3-41F3-BAD2-36CA1E936EF6",
-    "height": 49,
+    "height": 61,
     "width": 715,
     "x": 2083,
     "y": 315
   },
-  "glyphBounds": "{{131, 7}, {456, 40}}",
+  "glyphBounds": "{{16, 12}, {686, 37}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -73,7 +74,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "FC2CC26B-EA7B-4FA8-B18B-F23321973D50",
+  "sharedStyleID": "6B8F2287-4ACC-427D-9925-DD737E57B688",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -109,7 +110,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "ADDF2ADA-49E6-4300-9800-67DDA23A209F",
+    "do_objectID": "9CCA83C5-7345-4BD5-AB4A-17AE54C5C233",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -132,10 +133,11 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Bold",
-            "size": 40
+            "name": "Montserrat-Black",
+            "size": 50
           }
         },
+        "MSAttributedStringTextTransformAttribute": 1,
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",

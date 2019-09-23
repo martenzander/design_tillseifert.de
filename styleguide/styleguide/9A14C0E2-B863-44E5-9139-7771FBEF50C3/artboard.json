@@ -132,6 +132,34 @@
     {
       "class": "text",
       "id": "C73F9CBF-0AF8-4370-828D-3DEDC4379C19"
+    },
+    {
+      "class": "rectangle",
+      "id": "41CE2CE8-B381-412C-9A2C-525D2DEE9EC9"
+    },
+    {
+      "class": "rectangle",
+      "id": "0E84FDA4-6A05-49F1-A853-B156A18510A1"
+    },
+    {
+      "class": "rectangle",
+      "id": "C9060863-A533-405E-83AB-435AD9F812DF"
+    },
+    {
+      "class": "rectangle",
+      "id": "859118A5-E046-45B3-93AB-FD057D9368D0"
+    },
+    {
+      "class": "rectangle",
+      "id": "D97351B6-3BFB-40C9-86F5-ADF97E77C562"
+    },
+    {
+      "class": "rectangle",
+      "id": "0BF2BF93-0BEC-4FC3-A014-C50FA02151F7"
+    },
+    {
+      "class": "rectangle",
+      "id": "7E417D6C-A9F9-4FED-A171-E16A08CA0C1B"
     }
   ],
   "maintainScrollPosition": false,

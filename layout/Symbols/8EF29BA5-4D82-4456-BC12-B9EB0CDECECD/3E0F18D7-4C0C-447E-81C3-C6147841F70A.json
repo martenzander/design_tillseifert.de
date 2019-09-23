@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.05490196078431372,
-            "green": 0.02745098039215686,
-            "red": 0.02352941176470589
+            "blue": 0.2,
+            "green": 0.1607843137254902,
+            "red": 0.1294117647058824
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -21,7 +21,7 @@
             }
           },
           "MSAttributedStringTextTransformAttribute": 1,
-          "kerning": 2,
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
@@ -59,7 +59,7 @@
     "x": 0,
     "y": 128
   },
-  "glyphBounds": "{{196, 13}, {288, 35}}",
+  "glyphBounds": "{{204, 13}, {274, 35}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -113,83 +113,11 @@
     "do_objectID": "6DEADB61-3564-46B7-AC08-3E880FE20221",
     "endMarkerType": 0,
     "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "fillType": 1,
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{0, -2.1641838987530941}",
-          "gradientType": 0,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.1148291900753975,
-                "green": 0.08167945593595505,
-                "red": 0.08222597092390059
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.05589373409748077,
-                "green": 0.02692615613341331,
-                "red": 0.02332878857851028
-              },
-              "position": 1
-            }
-          ],
-          "to": "{1, 2.7350512849963118}"
-        },
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
     ],
     "innerShadows": [
     ],
     "miterLimit": 10,
     "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 6,
-        "color": {
-          "_class": "color",
-          "alpha": 0.1410893793706294,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 2,
-        "offsetY": 3,
-        "spread": 0
-      }
     ],
     "startMarkerType": 0,
     "textStyle": {
@@ -198,9 +126,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.05490196078431372,
-          "green": 0.02745098039215686,
-          "red": 0.02352941176470589
+          "blue": 0.2,
+          "green": 0.1607843137254902,
+          "red": 0.1294117647058824
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -210,7 +138,7 @@
           }
         },
         "MSAttributedStringTextTransformAttribute": 1,
-        "kerning": 2,
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,

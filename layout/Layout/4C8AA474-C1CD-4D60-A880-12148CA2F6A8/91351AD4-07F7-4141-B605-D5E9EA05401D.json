@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 29,
+        "length": 71,
         "location": 0
       }
     ],
-    "string": "© 2019 Meadow Lake Musik GmbH"
+    "string": "© 2019 Meadow Lake Musik GmbH  ·  Datenschutz  ·  Impressum  ·  Kontakt"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "A67279E0-9A0D-485A-B9CF-E68FA5FC4731",
     "height": 15,
-    "width": 181,
-    "x": 480,
-    "y": 7141
+    "width": 389,
+    "x": 526,
+    "y": 6164
   },
-  "glyphBounds": "{{0, 3}, {180, 10}}",
+  "glyphBounds": "{{0, 3}, {389, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

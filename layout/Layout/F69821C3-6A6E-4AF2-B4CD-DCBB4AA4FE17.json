@@ -52,18 +52,18 @@
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 60,
+    "columnWidth": 57.83333333333334,
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
     "gutterHeight": 12,
-    "gutterWidth": 4.363636363636363,
+    "gutterWidth": 30,
     "guttersOutside": false,
-    "horizontalOffset": 0,
-    "isEnabled": false,
+    "horizontalOffset": -128,
+    "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
-    "totalWidth": 768
+    "totalWidth": 1024
   },
   "maintainScrollPosition": false,
   "name": "sm",

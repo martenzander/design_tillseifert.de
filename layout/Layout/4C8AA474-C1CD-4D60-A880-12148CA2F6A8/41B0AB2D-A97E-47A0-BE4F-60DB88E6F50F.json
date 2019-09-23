@@ -19,8 +19,8 @@
     "do_objectID": "F62C0898-D430-48A5-9186-2F73AF4991F7",
     "height": 50,
     "width": 195,
-    "x": 811,
-    "y": 4746
+    "x": 841,
+    "y": 3589
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -36,13 +36,13 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "3B9B84BB-B6E5-4A4A-9BAD-2A1AB939CF54",
+      "do_objectID": "7C87596A-0080-4F5C-9690-4E57BCC3B28A",
       "overrideName": "BD851650-D9F9-4237-876B-51CA833F5106_layerStyle",
       "value": "45DE90B0-8046-4FB3-BD1E-E91182A38896"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "BDB85FAC-7A7D-4827-B59E-AEC17413761B",
+      "do_objectID": "22F1A306-6939-4E93-865C-5B166D25134F",
       "overrideName": "1F2EE244-66A4-47E0-99A6-321BB3D2D447_stringValue",
       "value": "Jetzt kaufen"
     }

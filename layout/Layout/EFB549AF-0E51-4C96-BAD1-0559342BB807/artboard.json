@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,24 +50,32 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "33CBCB2B-6163-4699-AAEB-2919E7E9380D"
+      "class": "rectangle",
+      "id": "7B66CD55-064C-4840-93D8-BD2FFEAAC6DA"
     },
     {
       "class": "rectangle",
-      "id": "52CD7934-20BB-45BD-B9EC-F922CBE20AAB"
+      "id": "63E0EE5A-7300-4E1F-9CA4-EF904AAAEC62"
+    },
+    {
+      "class": "rectangle",
+      "id": "279F5B21-4523-4261-B985-614CEF1C570D"
+    },
+    {
+      "class": "text",
+      "id": "DA509BE8-E8A9-496E-9C8F-79311D31FF24"
     },
     {
       "class": "text",
       "id": "3C67BD42-2980-4277-B708-6C663D16E9BF"
     },
     {
-      "class": "shapeGroup",
-      "id": "DA82E410-66EC-43BB-89A1-73770FDD9486"
+      "class": "text",
+      "id": "C50C409B-029A-4723-B0AB-B9F8627C5959"
     },
     {
       "class": "text",
-      "id": "C50C409B-029A-4723-B0AB-B9F8627C5959"
+      "id": "64F2C05D-AA2B-4226-89E7-BC89716A370E"
     },
     {
       "class": "text",
@@ -79,43 +87,35 @@
     },
     {
       "class": "group",
-      "id": "B719DFFE-2B49-4933-B1AF-ED271E3CC580"
+      "id": "5C3D2F6E-27C7-44AC-A2D1-73622FE97E02"
     },
     {
-      "class": "group",
-      "id": "A9A1433A-CC02-4992-8874-D342B1CC7857"
+      "class": "symbolInstance",
+      "id": "7C3D66EE-0ED8-4F2D-8037-10D72A871E94"
     },
     {
-      "class": "group",
-      "id": "A769A71B-7562-4D7B-A6F3-D2B186DA0933"
+      "class": "rectangle",
+      "id": "BE6FCDD4-9800-429D-BFEB-A622554F770E"
     },
     {
-      "class": "group",
-      "id": "EA18A515-2A21-4F77-9514-3A28A5176791"
-    },
-    {
-      "class": "group",
-      "id": "185D6A9C-4C7D-4DBD-B939-D8C6E585EBE3"
-    },
-    {
-      "class": "group",
-      "id": "71AD9522-9A5D-43B6-9075-53C9868562BA"
+      "class": "rectangle",
+      "id": "C5F34EC4-C316-4230-83D7-43086EBDA3B3"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 60,
+    "columnWidth": 57.83333333333334,
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
     "gutterHeight": 12,
-    "gutterWidth": 21.81818181818182,
+    "gutterWidth": 30,
     "guttersOutside": false,
-    "horizontalOffset": 240,
+    "horizontalOffset": 208,
     "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
-    "totalWidth": 960
+    "totalWidth": 1024
   },
   "maintainScrollPosition": false,
   "name": "Navigation lg",

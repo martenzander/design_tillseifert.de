@@ -62,6 +62,18 @@
     {
       "class": "artboard",
       "id": "4EA13576-4930-487C-B762-AE761B2103A7"
+    },
+    {
+      "class": "rectangle",
+      "id": "C27D4B39-7CEA-4FF7-BE65-AD729E1F67A0"
+    },
+    {
+      "class": "group",
+      "id": "952741F7-4C41-4D70-91B4-9F54F5778DBE"
+    },
+    {
+      "class": "rectangle",
+      "id": "6E36F152-477F-43A6-840E-E27F201C774A"
     }
   ],
   "maintainScrollPosition": false,

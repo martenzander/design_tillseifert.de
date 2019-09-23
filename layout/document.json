@@ -660,9 +660,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.7725490196078433,
-                "green": 0.792156862745098,
-                "red": 0.2470588235294118
+                "blue": 0.8901960784313725,
+                "green": 0.7999999999999999,
+                "red": 0.2274509803921568
               },
               "contextSettings": {
                 "_class": "graphicsContextSettings",
@@ -896,9 +896,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.8274509803921567,
-                "green": 0.8431372549019608,
-                "red": 0.4313725490196079
+                "blue": 0.9333333333333333,
+                "green": 0.8745098039215684,
+                "red": 0.4666666666666667
               },
               "contextSettings": {
                 "_class": "graphicsContextSettings",
@@ -1055,9 +1055,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.8274509803921567,
-                "green": 0.8431372549019608,
-                "red": 0.4313725490196079
+                "blue": 0.9333333333333333,
+                "green": 0.8745098039215684,
+                "red": 0.4666666666666667
               },
               "contextSettings": {
                 "_class": "graphicsContextSettings",
@@ -1198,165 +1198,6 @@
       "libraryID": "a12f27b0-99a0-11e9-b37e-4ff1a9cf84f5",
       "localSharedStyle": {
         "_class": "sharedStyle",
-        "do_objectID": "3D7244FF-24FA-43A3-AB25-CB009A03DD93",
-        "name": "color/grey/main",
-        "value": {
-          "_class": "style",
-          "blur": {
-            "_class": "blur",
-            "center": "{0.5, 0.5}",
-            "isEnabled": false,
-            "motionAngle": 0,
-            "radius": 10,
-            "saturation": 1,
-            "type": 0
-          },
-          "borderOptions": {
-            "_class": "borderOptions",
-            "dashPattern": [
-            ],
-            "isEnabled": true,
-            "lineCapStyle": 0,
-            "lineJoinStyle": 0
-          },
-          "borders": [
-            {
-              "_class": "border",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.592,
-                "green": 0.592,
-                "red": 0.592
-              },
-              "contextSettings": {
-                "_class": "graphicsContextSettings",
-                "blendMode": 0,
-                "opacity": 1
-              },
-              "fillType": 0,
-              "gradient": {
-                "_class": "gradient",
-                "elipseLength": 0,
-                "from": "{0.5, 0}",
-                "gradientType": 0,
-                "stops": [
-                  {
-                    "_class": "gradientStop",
-                    "color": {
-                      "_class": "color",
-                      "alpha": 1,
-                      "blue": 1,
-                      "green": 1,
-                      "red": 1
-                    },
-                    "position": 0
-                  },
-                  {
-                    "_class": "gradientStop",
-                    "color": {
-                      "_class": "color",
-                      "alpha": 1,
-                      "blue": 0,
-                      "green": 0,
-                      "red": 0
-                    },
-                    "position": 1
-                  }
-                ],
-                "to": "{0.5, 1}"
-              },
-              "isEnabled": false,
-              "position": 1,
-              "thickness": 1
-            }
-          ],
-          "colorControls": {
-            "_class": "colorControls",
-            "brightness": 0,
-            "contrast": 1,
-            "hue": 0,
-            "isEnabled": true,
-            "saturation": 1
-          },
-          "contextSettings": {
-            "_class": "graphicsContextSettings",
-            "blendMode": 0,
-            "opacity": 1
-          },
-          "endMarkerType": 0,
-          "fills": [
-            {
-              "_class": "fill",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.8117647058823529,
-                "green": 0.7686274509803922,
-                "red": 0.7215686274509804
-              },
-              "contextSettings": {
-                "_class": "graphicsContextSettings",
-                "blendMode": 0,
-                "opacity": 1
-              },
-              "fillType": 0,
-              "gradient": {
-                "_class": "gradient",
-                "elipseLength": 0,
-                "from": "{0.5, 0}",
-                "gradientType": 0,
-                "stops": [
-                  {
-                    "_class": "gradientStop",
-                    "color": {
-                      "_class": "color",
-                      "alpha": 1,
-                      "blue": 1,
-                      "green": 1,
-                      "red": 1
-                    },
-                    "position": 0
-                  },
-                  {
-                    "_class": "gradientStop",
-                    "color": {
-                      "_class": "color",
-                      "alpha": 1,
-                      "blue": 0,
-                      "green": 0,
-                      "red": 0
-                    },
-                    "position": 1
-                  }
-                ],
-                "to": "{0.5, 1}"
-              },
-              "isEnabled": true,
-              "noiseIndex": 0,
-              "noiseIntensity": 0,
-              "patternFillType": 1,
-              "patternTileScale": 1
-            }
-          ],
-          "innerShadows": [
-          ],
-          "miterLimit": 10,
-          "shadows": [
-          ],
-          "startMarkerType": 0,
-          "windingRule": 1
-        }
-      },
-      "remoteStyleID": "6BA2D49F-1711-47EB-B3F5-D2963BD0AFDE",
-      "sourceLibraryName": "styleguide",
-      "symbolPrivate": false
-    },
-    {
-      "_class": "MSImmutableForeignLayerStyle",
-      "libraryID": "a12f27b0-99a0-11e9-b37e-4ff1a9cf84f5",
-      "localSharedStyle": {
-        "_class": "sharedStyle",
         "do_objectID": "08D52534-5376-4BAA-85BF-D3965667E559[DDA1CF4B-F1B4-41A2-BB89-3BE5C3EC5E74]",
         "name": "ui/background/button/primary/hover",
         "value": {
@@ -1450,9 +1291,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.7725490196078433,
-                "green": 0.792156862745098,
-                "red": 0.2470588235294118
+                "blue": 0.8901960784313725,
+                "green": 0.7999999999999999,
+                "red": 0.2274509803921568
               },
               "contextSettings": {
                 "_class": "graphicsContextSettings",
@@ -1604,7 +1445,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 590,
+        "changeIdentifier": 597,
         "clippingMaskMode": 0,
         "do_objectID": "F973E4A1-1E6F-4275-A523-29BF8A274AD0",
         "exportOptions": {
@@ -1828,9 +1669,9 @@
                   "color": {
                     "_class": "color",
                     "alpha": 1,
-                    "blue": 0.7725490196078433,
-                    "green": 0.792156862745098,
-                    "red": 0.2470588235294118
+                    "blue": 0.8901960784313725,
+                    "green": 0.7999999999999999,
+                    "red": 0.2274509803921568
                   },
                   "contextSettings": {
                     "_class": "graphicsContextSettings",
@@ -2300,7 +2141,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 591,
+        "changeIdentifier": 604,
         "clippingMaskMode": 0,
         "do_objectID": "F973E4A1-1E6F-4275-A523-29BF8A274AD0",
         "exportOptions": {
@@ -2524,9 +2365,9 @@
                   "color": {
                     "_class": "color",
                     "alpha": 1,
-                    "blue": 0.7725490196078433,
-                    "green": 0.792156862745098,
-                    "red": 0.2470588235294118
+                    "blue": 0.8901960784313725,
+                    "green": 0.7999999999999999,
+                    "red": 0.2274509803921568
                   },
                   "contextSettings": {
                     "_class": "graphicsContextSettings",
@@ -3044,9 +2885,9 @@
               "MSAttributedStringColorAttribute": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.05490196078431372,
-                "green": 0.02745098039215686,
-                "red": 0.02352941176470589
+                "blue": 0.2,
+                "green": 0.1607843137254902,
+                "red": 0.1294117647058824
               },
               "MSAttributedStringFontAttribute": {
                 "_class": "fontDescriptor",
@@ -3129,9 +2970,9 @@
               "MSAttributedStringColorAttribute": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.05490196078431372,
-                "green": 0.02745098039215686,
-                "red": 0.02352941176470589
+                "blue": 0.2,
+                "green": 0.1607843137254902,
+                "red": 0.1294117647058824
               },
               "MSAttributedStringFontAttribute": {
                 "_class": "fontDescriptor",
@@ -3215,9 +3056,9 @@
               "MSAttributedStringColorAttribute": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.05490196078431372,
-                "green": 0.02745098039215686,
-                "red": 0.02352941176470589
+                "blue": 0.2,
+                "green": 0.1607843137254902,
+                "red": 0.1294117647058824
               },
               "MSAttributedStringFontAttribute": {
                 "_class": "fontDescriptor",
@@ -3301,9 +3142,9 @@
               "MSAttributedStringColorAttribute": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.05490196078431372,
-                "green": 0.02745098039215686,
-                "red": 0.02352941176470589
+                "blue": 0.2,
+                "green": 0.1607843137254902,
+                "red": 0.1294117647058824
               },
               "MSAttributedStringFontAttribute": {
                 "_class": "fontDescriptor",
@@ -3387,9 +3228,9 @@
               "MSAttributedStringColorAttribute": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.05490196078431372,
-                "green": 0.02745098039215686,
-                "red": 0.02352941176470589
+                "blue": 0.2,
+                "green": 0.1607843137254902,
+                "red": 0.1294117647058824
               },
               "MSAttributedStringFontAttribute": {
                 "_class": "fontDescriptor",
@@ -3414,6 +3255,91 @@
         }
       },
       "remoteStyleID": "B8E301DF-873E-4785-9A71-D68F79048ACE",
+      "sourceLibraryName": "styleguide",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "a12f27b0-99a0-11e9-b37e-4ff1a9cf84f5",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "40675BE6-49CC-4D69-B183-CE1F83F3B964",
+        "name": "h2/center/light",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": true,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "endMarkerType": 0,
+          "fills": [
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "Montserrat-Black",
+                  "size": 50
+                }
+              },
+              "MSAttributedStringTextTransformAttribute": 1,
+              "kerning": 0,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 2,
+                "allowsDefaultTighteningForTruncation": 0
+              },
+              "textStyleVerticalAlignmentKey": 1
+            },
+            "verticalAlignment": 1
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "6B8F2287-4ACC-427D-9925-DD737E57B688",
       "sourceLibraryName": "styleguide",
       "symbolPrivate": false
     }

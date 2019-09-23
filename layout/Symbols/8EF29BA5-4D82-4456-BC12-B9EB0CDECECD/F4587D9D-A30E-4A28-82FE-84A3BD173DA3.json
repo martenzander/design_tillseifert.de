@@ -19,7 +19,7 @@
     "height": 2,
     "width": 69,
     "x": 306,
-    "y": 212
+    "y": 222
   },
   "hasClippingMask": false,
   "isClosed": false,
@@ -141,7 +141,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.2778552827380952
+      "opacity": 1
     },
     "endMarkerType": 0,
     "fills": [

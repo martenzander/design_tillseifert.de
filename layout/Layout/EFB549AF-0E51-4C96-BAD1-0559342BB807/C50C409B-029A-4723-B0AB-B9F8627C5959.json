@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.2,
+            "green": 0.1607843137254902,
+            "red": 0.1294117647058824
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -24,7 +24,7 @@
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
           },
           "textStyleVerticalAlignmentKey": 0
@@ -56,7 +56,7 @@
     "do_objectID": "EE1E44BE-81C9-4B07-8BA0-4C960E455929",
     "height": 66,
     "width": 414,
-    "x": 514,
+    "x": 207,
     "y": 367
   },
   "glyphBounds": "{{3, 13}, {410, 40}}",
@@ -126,9 +126,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.2,
+          "green": 0.1607843137254902,
+          "red": 0.1294117647058824
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -141,7 +141,7 @@
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
         },
         "textStyleVerticalAlignmentKey": 0

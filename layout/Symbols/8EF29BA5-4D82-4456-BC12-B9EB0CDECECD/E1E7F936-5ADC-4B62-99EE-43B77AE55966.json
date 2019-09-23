@@ -16,12 +16,12 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-SemiBold",
+              "name": "SourceSansPro-Semibold",
               "size": 22
             }
           },
           "MSAttributedStringTextTransformAttribute": 1,
-          "kerning": 1.66,
+          "kerning": 2.4,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
@@ -54,12 +54,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "FC2AE91B-CDB3-4AC8-92CF-5BF831BAFC3C",
-    "height": 27,
+    "height": 28,
     "width": 681,
     "x": 0,
-    "y": 91
+    "y": 80
   },
-  "glyphBounds": "{{248, 5}, {183, 17}}",
+  "glyphBounds": "{{260, 7}, {158, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -111,7 +111,7 @@
       "_class": "graphicsContextSettings",
       "blendMode": 0,
       "do_objectID": "9307FA10-7201-4665-94E4-DC8021809FD2",
-      "opacity": 0.37109375
+      "opacity": 1
     },
     "do_objectID": "DF9FADAE-BEA7-437B-BBBF-B1F5C6E5B9C2",
     "endMarkerType": 0,
@@ -137,12 +137,12 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-SemiBold",
+            "name": "SourceSansPro-Semibold",
             "size": 22
           }
         },
         "MSAttributedStringTextTransformAttribute": 1,
-        "kerning": 1.66,
+        "kerning": 2.4,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,

@@ -20,7 +20,7 @@
     "height": 304,
     "width": 1440,
     "x": 0,
-    "y": 3171
+    "y": 2132
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -51,6 +51,12 @@
       "do_objectID": "D690A742-5810-4D7E-B893-3F257F92938A",
       "overrideName": "E1E7F936-5ADC-4B62-99EE-43B77AE55966_stringValue",
       "value": "Musik"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "07DDDA7E-BB23-499D-86A2-5E0AC5819709",
+      "overrideName": "3E0F18D7-4C0C-447E-81C3-C6147841F70A_textStyle",
+      "value": "40675BE6-49CC-4D69-B183-CE1F83F3B964"
     }
   ],
   "resizingConstraint": 63,

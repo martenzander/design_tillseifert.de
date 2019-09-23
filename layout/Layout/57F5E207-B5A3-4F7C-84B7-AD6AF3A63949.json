@@ -52,18 +52,18 @@
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 21.66666666666667,
+    "columnWidth": 57.83333333333334,
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
     "gutterHeight": 12,
-    "gutterWidth": 5.454545454545454,
+    "gutterWidth": 30,
     "guttersOutside": false,
-    "horizontalOffset": 0,
+    "horizontalOffset": -352,
     "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
-    "totalWidth": 320
+    "totalWidth": 1024
   },
   "maintainScrollPosition": false,
   "name": "xs",

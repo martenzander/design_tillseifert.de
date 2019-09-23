@@ -20,7 +20,7 @@
     "height": 304,
     "width": 1440,
     "x": 0,
-    "y": 1890
+    "y": 816
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -48,9 +48,9 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "FE92CDF2-9DAE-4293-9059-65C1F4F46D01",
+      "do_objectID": "84A3225E-98A0-4013-8BE8-F3D43E6A9399",
       "overrideName": "E1E7F936-5ADC-4B62-99EE-43B77AE55966_stringValue",
-      "value": "Kalender"
+      "value": " Kalender"
     }
   ],
   "resizingConstraint": 63,

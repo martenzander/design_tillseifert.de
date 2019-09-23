@@ -1,0 +1,133 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2E112317-4A6A-4813-A09B-341BE58D6B31",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E6E015B-073E-4026-8CB1-BF31732A8F86",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BEE68EB6-D182-4DE0-A98A-F070F248EB08",
+    "height": 100,
+    "width": 960,
+    "x": 240,
+    "y": 1417
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "maintainScrollPosition": false,
+  "name": "wireframes/concerts/entry",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "81A752F9-9E26-4D03-915C-C97839B96CB0",
+      "overrideName": "76C36C07-AF20-4C86-BA7D-28CED166AE0A_stringValue",
+      "value": "Tickets"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D9362159-6CD2-42DF-BE86-88BED06C1CE0",
+      "overrideName": "0D6DDBF3-6AA4-4600-86E1-934489D526FD/BD851650-D9F9-4237-876B-51CA833F5106_layerStyle",
+      "value": "2AC99C5E-7659-4E4B-AC48-9551DD2FFE65"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "867BD8AF-7AEF-4C7F-904C-C3022F2E124C",
+      "overrideName": "BAFFEF19-8CC2-4F5C-A317-35787A03FFFD_stringValue",
+      "value": "Hamburg (DE)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9CC4228E-2F5E-485F-863E-EEF8E387760A",
+      "overrideName": "DCB774BC-CAFC-4FE0-9275-72EC6BDBF923_stringValue",
+      "value": "Logo"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3317728A-0522-47FE-9354-5545A322C675",
+      "overrideName": "DBFC1B13-BAF5-4375-BB0C-B9D64F116F5E_stringValue",
+      "value": "Jul"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "67925459-27F1-479A-B675-D61398A4FFBE",
+      "overrideName": "3BD5F38F-1EF0-41D2-B342-CF6019ABE437_stringValue",
+      "value": "Sa"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BFD85448-BACA-4AAC-9AE3-A6EB9DC04892",
+      "overrideName": "0960D60B-B248-48B5-8676-114192192826_stringValue",
+      "value": "10"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "FBD76ABF-39C9-45A2-A022-AC4844D76C40",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B735924D-9667-41B6-9A9A-5DE5464B5CA6",
+  "verticalSpacing": 0
+}
