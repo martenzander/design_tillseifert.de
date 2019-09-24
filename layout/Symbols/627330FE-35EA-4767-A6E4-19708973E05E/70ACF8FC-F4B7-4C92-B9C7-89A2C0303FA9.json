@@ -16,12 +16,12 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Black",
-              "size": 24
+              "name": "SourceSansPro-Semibold",
+              "size": 22
             }
           },
           "MSAttributedStringTextTransformAttribute": 1,
-          "kerning": 0,
+          "kerning": 2.4,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
@@ -29,20 +29,19 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 28,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "Nur einen Kontinent entfernt"
+    "string": "Subheadline"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F73EAFC5-4C73-4AAA-B0B5-C23450045AEF",
+  "do_objectID": "70ACF8FC-F4B7-4C92-B9C7-89A2C0303FA9",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "55272573-4C43-4297-B1F8-AED3008B58A0",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,13 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2A9EB419-56C8-4B8E-B348-047369FF54E2",
-    "height": 58,
-    "width": 430,
-    "x": 504.9999999999999,
-    "y": 2687
+    "height": 28,
+    "width": 681,
+    "x": 0,
+    "y": 80
   },
-  "glyphBounds": "{{65, 5}, {302, 47}}",
+  "glyphBounds": "{{260, 7}, {158, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,9 +67,9 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Nur einen Kontinent",
+  "name": "Subheadline",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -80,7 +78,6 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "4954EF20-5E92-455E-83B7-34B2800F7219",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -91,7 +88,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "C18FFC88-A306-43DA-A702-6B229779C29E",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -102,7 +98,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "EFC47403-8015-4BDF-AE68-E3EAA04D6406",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -110,10 +105,8 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "3A103ECC-6AE6-43DA-898B-F50F524596F4",
       "opacity": 1
     },
-    "do_objectID": "C6A95290-468B-4DA2-862E-07BF2429AAEB",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -125,7 +118,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "B03D5747-C9D4-45EC-B14A-72FB4D7502EC",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -137,12 +129,12 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Black",
-            "size": 24
+            "name": "SourceSansPro-Semibold",
+            "size": 22
           }
         },
         "MSAttributedStringTextTransformAttribute": 1,
-        "kerning": 0,
+        "kerning": 2.4,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,

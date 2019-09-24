@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EDBA0AAD-D52D-4B01-AF77-A7E9547F997C",
+  "do_objectID": "66E88009-F566-4B2C-8D6E-7D52D5082D9E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,16 +15,23 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 5,
-    "width": 430,
-    "x": 505,
-    "y": 2889
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -997,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -33,29 +40,13 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "A90D05C4-110E-434B-8DBE-DAB707F37326"
-    },
-    {
-      "class": "rectangle",
-      "id": "A25D5A8E-C799-4EDF-B3A7-03700A9ED061"
-    },
-    {
-      "class": "rectangle",
-      "id": "3DF5FE35-9418-4472-9019-F96FB994AA0E"
-    },
-    {
-      "class": "rectangle",
-      "id": "9D87D2BE-0E95-4784-B16D-55A2C7DA2616"
-    },
-    {
-      "class": "rectangle",
-      "id": "A0520557-314E-4CB3-9E94-4D9CCEC923BC"
+      "class": "artboard",
+      "id": "F1E050F3-0FAA-461F-A8D6-8B802CD2BAB5"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Group 16",
-  "nameIsFixed": false,
+  "name": "PDF",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -104,5 +95,11 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -647,
+    "guides": [
+    ]
   }
 }

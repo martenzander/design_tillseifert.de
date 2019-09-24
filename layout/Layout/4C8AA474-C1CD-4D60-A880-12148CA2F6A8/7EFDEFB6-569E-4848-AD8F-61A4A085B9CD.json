@@ -36,27 +36,27 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "95F4C945-BD5D-4668-BCB8-88E17C436F46",
-      "overrideName": "3E0F18D7-4C0C-447E-81C3-C6147841F70A_stringValue",
-      "value": "Aktuelles"
-    },
-    {
-      "_class": "overrideValue",
       "do_objectID": "30E642A2-2652-4571-AC16-6E2D4ED7DE6A",
       "overrideName": "32279572-56C4-44CD-8FC7-EA2B4F18D145_stringValue",
       "value": "instagram"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "5DDFA747-FFE1-4D8D-9872-2B4D3F52EADA",
-      "overrideName": "E1E7F936-5ADC-4B62-99EE-43B77AE55966_stringValue",
-      "value": "Instagram"
+      "do_objectID": "2A90BFD7-606B-4AC7-B681-DE9FD91CFAE8",
+      "overrideName": "13DDB9B4-3E65-4A62-A342-44396A19C350_textStyle",
+      "value": "40675BE6-49CC-4D69-B183-CE1F83F3B964"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "8191993E-2FEF-46C5-87ED-1EA5EE620922",
-      "overrideName": "3E0F18D7-4C0C-447E-81C3-C6147841F70A_textStyle",
-      "value": "40675BE6-49CC-4D69-B183-CE1F83F3B964"
+      "do_objectID": "76745D2B-B194-4C53-BE3E-3CFBD3432005",
+      "overrideName": "13DDB9B4-3E65-4A62-A342-44396A19C350_stringValue",
+      "value": "Aktuelles"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "000F34DC-972A-4D4D-849C-F5261F754EC0",
+      "overrideName": "70ACF8FC-F4B7-4C92-B9C7-89A2C0303FA9_stringValue",
+      "value": "Instagram"
     }
   ],
   "resizingConstraint": 63,
@@ -110,6 +110,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "92EB5B2D-9403-4CF8-9150-D793C2B80C91",
+  "symbolID": "487C073C-3B8A-421E-A942-A4F571757B76",
   "verticalSpacing": 0
 }
