@@ -17,9 +17,9 @@
     "_class": "rect",
     "constrainProportions": true,
     "do_objectID": "CBFE0340-2459-46E7-8C03-FF4F3217EF00",
-    "height": 540,
-    "width": 759.375,
-    "x": -220,
+    "height": 667,
+    "width": 377,
+    "x": -1,
     "y": 0
   },
   "groupLayout": {
@@ -31,9 +31,9 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",

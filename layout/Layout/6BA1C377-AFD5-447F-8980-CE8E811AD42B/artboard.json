@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -54,24 +54,8 @@
       "id": "8B9A8FAD-23AE-4737-A95C-1AA18A13BFD4"
     },
     {
-      "class": "text",
-      "id": "536B8377-3ACD-4D1F-8B77-6F5F5628BEE2"
-    },
-    {
-      "class": "text",
-      "id": "532084F2-EFB7-4F61-BDB4-4A25F13EB658"
-    },
-    {
-      "class": "text",
-      "id": "BEECB4D2-0B67-4197-9CE1-F7D61A87173C"
-    },
-    {
-      "class": "text",
-      "id": "D105B17C-6B4B-46D2-9EF5-941BF7CCF197"
-    },
-    {
-      "class": "text",
-      "id": "86C3D183-DD0D-4D0C-B03A-81EF081888B3"
+      "class": "group",
+      "id": "FF6A94C3-86A4-42A7-846B-6E912ECFE4F9"
     },
     {
       "class": "group",
@@ -118,7 +102,7 @@
     "totalWidth": 960
   },
   "maintainScrollPosition": false,
-  "name": "Navigation lg Copy 3",
+  "name": "Navigation lg",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

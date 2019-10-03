@@ -41,18 +41,6 @@
   "layers": [
     {
       "class": "symbolMaster",
-      "id": "8EF29BA5-4D82-4456-BC12-B9EB0CDECECD"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "627330FE-35EA-4767-A6E4-19708973E05E"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "CA9DF315-FCA2-4833-B489-7263CFF948B8"
-    },
-    {
-      "class": "symbolMaster",
       "id": "CA494044-FDBB-43E8-A2E7-0324AD790439"
     },
     {
@@ -61,19 +49,7 @@
     },
     {
       "class": "symbolMaster",
-      "id": "E80723FD-C510-4D2E-BE38-32759DA757FD"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "E0D3BDC1-1820-4B60-92F1-7A31AA0CAE08"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "700A39E8-C560-4C8C-9158-0BAA499C190D"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "A606EEAD-EB2C-428C-914C-76A8C349802A"
+      "id": "0B5C045A-D1DE-47A6-9E7D-CBE48BE33B95"
     },
     {
       "class": "symbolMaster",
@@ -88,12 +64,28 @@
       "id": "798FA185-76D6-4572-B0DD-196E7F28B276"
     },
     {
-      "class": "rectangle",
-      "id": "879ACDB8-EF82-4600-BBFC-C69A90A52325"
+      "class": "symbolMaster",
+      "id": "CA554E3C-856A-4C07-ADC4-9B1A2A363A7A"
     },
     {
       "class": "symbolMaster",
-      "id": "CFE32554-2BD4-4432-B5BF-561D65764D9F"
+      "id": "700A39E8-C560-4C8C-9158-0BAA499C190D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A606EEAD-EB2C-428C-914C-76A8C349802A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "627330FE-35EA-4767-A6E4-19708973E05E"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "44CB9311-7F98-41E8-9815-E0578654F0ED"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "6FD22535-F369-41E0-BB59-79C0D02C3E66"
     },
     {
       "class": "symbolMaster",
@@ -101,7 +93,7 @@
     },
     {
       "class": "symbolMaster",
-      "id": "ED3592F5-9B36-4058-BCB5-768649A38E8B"
+      "id": "CFE32554-2BD4-4432-B5BF-561D65764D9F"
     }
   ],
   "maintainScrollPosition": false,
@@ -159,6 +151,9 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "com.animaapp.uses.anima": 1
+    },
+    "com.sonburn.sketchplugins.symbol-organizer": {
+      "globalSettings": "1"
     }
   },
   "verticalRulerData": {
