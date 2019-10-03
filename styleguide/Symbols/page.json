@@ -40,6 +40,10 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "F04670D3-4F7C-4895-971E-4377C89760F9"
+    },
+    {
       "class": "symbolMaster",
       "id": "B755DE57-3E12-4560-B66A-BF71CD76983A"
     },
@@ -126,6 +130,38 @@
     {
       "class": "symbolMaster",
       "id": "F973E4A1-1E6F-4275-A523-29BF8A274AD0"
+    },
+    {
+      "class": "rectangle",
+      "id": "CF79FE34-6933-42D4-A6BC-FF45303648E2"
+    },
+    {
+      "class": "rectangle",
+      "id": "D2BFFCBD-5B4F-48D6-8640-9B4B4CF2D686"
+    },
+    {
+      "class": "rectangle",
+      "id": "E3435D00-8E60-4662-9A26-521D43399DE1"
+    },
+    {
+      "class": "rectangle",
+      "id": "8F0727E0-6F2F-4928-9597-ADC605E847C1"
+    },
+    {
+      "class": "rectangle",
+      "id": "248A0D60-BF40-411E-9AFA-8717114835D7"
+    },
+    {
+      "class": "rectangle",
+      "id": "16F21B4B-392D-48C6-9525-6A7F7B1DB0BE"
+    },
+    {
+      "class": "rectangle",
+      "id": "44332A38-05F6-405D-AFF9-EC287FC83A40"
+    },
+    {
+      "class": "rectangle",
+      "id": "DB4E4AB9-1178-4EDE-86EA-DCEC411AAF76"
     }
   ],
   "maintainScrollPosition": false,

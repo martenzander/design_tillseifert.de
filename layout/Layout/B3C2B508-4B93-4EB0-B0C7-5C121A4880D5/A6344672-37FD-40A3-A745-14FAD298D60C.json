@@ -34,15 +34,15 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "968A6FE2-8559-4867-A4ED-ED2A65508B59",
-      "overrideName": "0C60F37E-0C86-4099-AA5E-884F63BD3CF4_stringValue",
-      "value": "21"
+      "do_objectID": "0FE3DBFE-73C3-43A9-82B5-822615356193",
+      "overrideName": "A18A6B69-3BCC-46F2-8206-8DBCA250687C_stringValue",
+      "value": "So"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "9B27E6B5-A214-442F-AE25-38333EE15101",
-      "overrideName": "A18A6B69-3BCC-46F2-8206-8DBCA250687C_stringValue",
-      "value": "So"
+      "do_objectID": "3739DE57-357D-49F2-89E0-B17DE59BDC03",
+      "overrideName": "0C60F37E-0C86-4099-AA5E-884F63BD3CF4_stringValue",
+      "value": "21"
     }
   ],
   "resizingConstraint": 63,
