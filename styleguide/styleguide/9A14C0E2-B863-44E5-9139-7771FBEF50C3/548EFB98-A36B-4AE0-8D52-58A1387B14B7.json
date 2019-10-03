@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Montserrat-Black",
-              "size": 50
+              "size": 60
             }
           },
           "MSAttributedStringTextTransformAttribute": 1,
@@ -54,12 +54,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "7BD7D80A-AB18-4954-80B5-DC2E11AEF7B7",
-    "height": 61,
-    "width": 878,
+    "height": 73,
+    "width": 973,
     "x": 98,
-    "y": 250
+    "y": 230
   },
-  "glyphBounds": "{{2, 12}, {687, 37}}",
+  "glyphBounds": "{{3, 15}, {823, 44}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -134,7 +134,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Montserrat-Black",
-            "size": 50
+            "size": 60
           }
         },
         "MSAttributedStringTextTransformAttribute": 1,

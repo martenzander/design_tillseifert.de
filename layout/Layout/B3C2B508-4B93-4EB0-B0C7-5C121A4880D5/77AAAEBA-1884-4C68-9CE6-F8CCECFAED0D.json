@@ -1,0 +1,125 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "77AAAEBA-1884-4C68-9CE6-F8CCECFAED0D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "801E42B9-46D4-4319-BCE8-72345B8D4ACC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9E41E00A-C8D9-45A4-955A-48A75B2A7008",
+    "height": 100,
+    "width": 960,
+    "x": 32,
+    "y": 1864
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "concerts-list/entry/md copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6EC8055B-9E89-43D2-864F-CA8CFB27029A",
+      "overrideName": "F9E6794D-C3EF-438A-B3AF-F5BFDC7B752D_stringValue",
+      "value": "25"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF6EE6A6-912D-4891-B2EE-C89A0DA47472",
+      "overrideName": "5D70375D-F994-4B8B-AA26-B79DDFA209A0_stringValue",
+      "value": "So"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0F578504-BD4A-4675-93A3-87EF85D695EA",
+      "overrideName": "31326BE9-6D66-4C30-8F8C-572A0E5F49F3_stringValue",
+      "value": "Jul"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C50BD1CD-3AB9-46B0-8578-2F425C4AA31A",
+      "overrideName": "C7CAB1BE-8F6E-4332-96A4-DDBB19D1506F_stringValue",
+      "value": "Konzerthaus"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "76379727-C913-42D5-9CAB-D0A93A46ED90",
+      "overrideName": "7DFF23A3-4F18-4CFE-9851-3F841D916B4E_stringValue",
+      "value": "Wien (AUT)"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "04C07C5B-94B9-4EC7-8533-92450C7FDDC5",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "C09AE37E-D020-4066-B3E5-6DD95D4D0D90",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "5DACAA92-F812-4558-858F-8B244F91173D",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "AED494B3-EEC3-4663-85FB-741DA02078AF",
+      "opacity": 1
+    },
+    "do_objectID": "5DB619D3-BD27-45D7-9A25-275811E954D9",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9802A2C4-3D8E-4608-8C37-E5C805015E8B",
+  "verticalSpacing": 0
+}

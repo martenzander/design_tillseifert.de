@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2,
-            "green": 0.1607843137254902,
-            "red": 0.1294117647058824
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SourceSansPro-Bold",
-              "size": 18
+              "name": "Montserrat-Bold",
+              "size": 16
             }
           },
           "kerning": 0,
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "E8813AFA-66F6-4ED5-8EAC-33C227326FC2",
-    "height": 23,
-    "width": 80,
+    "height": 19,
+    "width": 87,
     "x": 532,
-    "y": 39
+    "y": 42
   },
-  "glyphBounds": "{{1, 6}, {78, 13}}",
+  "glyphBounds": "{{1, 3}, {84, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -123,15 +123,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2,
-          "green": 0.1607843137254902,
-          "red": 0.1294117647058824
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SourceSansPro-Bold",
-            "size": 18
+            "name": "Montserrat-Bold",
+            "size": 16
           }
         },
         "kerning": 0,

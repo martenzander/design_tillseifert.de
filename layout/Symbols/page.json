@@ -53,6 +53,18 @@
     },
     {
       "class": "symbolMaster",
+      "id": "CA494044-FDBB-43E8-A2E7-0324AD790439"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "551F13F3-6CFC-4705-AAFC-4F51AF0C08C4"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E80723FD-C510-4D2E-BE38-32759DA757FD"
+    },
+    {
+      "class": "symbolMaster",
       "id": "E0D3BDC1-1820-4B60-92F1-7A31AA0CAE08"
     },
     {
@@ -78,6 +90,18 @@
     {
       "class": "rectangle",
       "id": "879ACDB8-EF82-4600-BBFC-C69A90A52325"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "CFE32554-2BD4-4432-B5BF-561D65764D9F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F0A1949D-11FB-482B-8CBE-4DCD48B45FE1"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "ED3592F5-9B36-4058-BCB5-768649A38E8B"
     }
   ],
   "maintainScrollPosition": false,

@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Montserrat-Black",
-              "size": 50
+              "size": 60
             }
           },
           "MSAttributedStringTextTransformAttribute": 1,
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 61,
+    "height": 73,
     "width": 681,
     "x": 0,
-    "y": 128
+    "y": 125
   },
-  "glyphBounds": "{{204, 13}, {274, 35}}",
+  "glyphBounds": "{{177, 16}, {329, 42}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -72,7 +72,7 @@
   "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "40675BE6-49CC-4D69-B183-CE1F83F3B964",
+  "sharedStyleID": "854C45A8-879D-4565-9605-2C42427D3137",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -108,7 +108,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "E20FEF02-6D47-40A2-ADFC-8B974E23CCF4",
+    "do_objectID": "CAD07BE0-CA62-4674-8C86-041C63EA803D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -132,7 +132,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Montserrat-Black",
-            "size": 50
+            "size": 60
           }
         },
         "MSAttributedStringTextTransformAttribute": 1,

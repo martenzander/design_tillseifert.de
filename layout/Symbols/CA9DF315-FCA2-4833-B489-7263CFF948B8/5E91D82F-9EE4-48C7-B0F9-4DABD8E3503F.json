@@ -18,8 +18,8 @@
     "constrainProportions": false,
     "do_objectID": "E7DCC71A-7779-457A-B33F-1D047A141C30",
     "height": 50,
-    "width": 138,
-    "x": 822,
+    "width": 133,
+    "x": 827,
     "y": 25
   },
   "hasClippingMask": false,
@@ -36,13 +36,13 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "C21D48BF-40C9-45BD-B153-565A83EBC6BC",
+      "do_objectID": "04B1A027-4759-4F51-BFA6-023AD08A4539",
       "overrideName": "BD851650-D9F9-4237-876B-51CA833F5106_layerStyle",
       "value": "45DE90B0-8046-4FB3-BD1E-E91182A38896"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "2253F31C-9323-4252-BAD7-56A05376D3FE",
+      "do_objectID": "C42BEB53-47B9-4678-9F36-1831D221303A",
       "overrideName": "1F2EE244-66A4-47E0-99A6-321BB3D2D447_stringValue",
       "value": "Tickets"
     }

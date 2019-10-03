@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SourceSansPro-Semibold",
+              "name": "Montserrat-Bold",
               "size": 22
             }
           },
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 28,
+    "height": 27,
     "width": 681,
     "x": 0,
-    "y": 80
+    "y": 102
   },
-  "glyphBounds": "{{260, 7}, {158, 16}}",
+  "glyphBounds": "{{243, 5}, {192, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -129,7 +129,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SourceSansPro-Semibold",
+            "name": "Montserrat-Bold",
             "size": 22
           }
         },

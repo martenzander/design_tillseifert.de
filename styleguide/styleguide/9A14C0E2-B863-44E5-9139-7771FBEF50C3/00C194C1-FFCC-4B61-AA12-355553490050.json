@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SourceSansPro-Regular",
-              "size": 16
+              "name": "Montserrat-Medium",
+              "size": 14
             }
           },
           "kerning": 0,
@@ -58,9 +58,9 @@
     "height": 72,
     "width": 715,
     "x": 98,
-    "y": 1382
+    "y": 1160
   },
-  "glyphBounds": "{{0, 6}, {709, 64}}",
+  "glyphBounds": "{{0, 6}, {673, 62}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -134,8 +134,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SourceSansPro-Regular",
-            "size": 16
+            "name": "Montserrat-Medium",
+            "size": 14
           }
         },
         "kerning": 0,

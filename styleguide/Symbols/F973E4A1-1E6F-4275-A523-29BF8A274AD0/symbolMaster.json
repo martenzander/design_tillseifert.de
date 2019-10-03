@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 597,
+  "changeIdentifier": 1017,
   "clippingMaskMode": 0,
   "do_objectID": "F973E4A1-1E6F-4275-A523-29BF8A274AD0",
   "exportOptions": {
@@ -24,7 +24,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 50,
+    "height": 46,
     "width": 131,
     "x": 1879,
     "y": -293
@@ -67,11 +67,6 @@
   "name": "ui/button/primary",
   "nameIsFixed": false,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "BD851650-D9F9-4237-876B-51CA833F5106_image"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

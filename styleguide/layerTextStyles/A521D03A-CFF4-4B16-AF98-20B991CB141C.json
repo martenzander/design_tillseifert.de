@@ -58,10 +58,11 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Bold",
-            "size": 40
+            "name": "Montserrat-Black",
+            "size": 60
           }
         },
+        "MSAttributedStringTextTransformAttribute": 1,
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",

@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2,
-            "green": 0.1607843137254902,
-            "red": 0.1294117647058824
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Montserrat-Black",
-              "size": 42
+              "size": 48
             }
           },
           "kerning": 0,
@@ -51,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 52,
+    "height": 58,
     "width": 76,
     "x": 0,
-    "y": 24
+    "y": 21
   },
-  "glyphBounds": "{{1, 10}, {56, 32}}",
+  "glyphBounds": "{{1, 11}, {64, 36}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -121,15 +121,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2,
-          "green": 0.1607843137254902,
-          "red": 0.1294117647058824
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Montserrat-Black",
-            "size": 42
+            "size": 48
           }
         },
         "kerning": 0,

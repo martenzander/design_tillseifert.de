@@ -34,13 +34,13 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "0142BC85-A41F-49D5-A506-CEC661AFCF54",
+      "do_objectID": "71A31E4A-0CCF-4D25-9D0B-DEEDBB405158",
       "overrideName": "BD851650-D9F9-4237-876B-51CA833F5106_layerStyle",
       "value": "45DE90B0-8046-4FB3-BD1E-E91182A38896"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "F38091BE-E0BF-47F7-B79D-F3CFD66918E5",
+      "do_objectID": "97BCCCCD-D306-4DC2-9595-F6E1442BB92B",
       "overrideName": "1F2EE244-66A4-47E0-99A6-321BB3D2D447_stringValue",
       "value": "Akzeptieren"
     }

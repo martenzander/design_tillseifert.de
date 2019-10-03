@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SourceSansPro-Regular",
-              "size": 20
+              "name": "Montserrat-Medium",
+              "size": 18
             }
           },
           "kerning": 0,
@@ -25,8 +25,8 @@
             "_class": "paragraphStyle",
             "alignment": 1,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24
+            "maximumLineHeight": 25,
+            "minimumLineHeight": 25
           },
           "textStyleVerticalAlignmentKey": 1
         },
@@ -55,12 +55,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "D214F564-9368-4467-ABE8-C97E89840944",
-    "height": 96,
+    "height": 100,
     "width": 715,
     "x": 98,
-    "y": 1203
+    "y": 1002
   },
-  "glyphBounds": "{{30, 4}, {684, 88}}",
+  "glyphBounds": "{{15, 5}, {700, 93}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -134,8 +134,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SourceSansPro-Regular",
-            "size": 20
+            "name": "Montserrat-Medium",
+            "size": 18
           }
         },
         "kerning": 0,
@@ -143,8 +143,8 @@
           "_class": "paragraphStyle",
           "alignment": 1,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24
+          "maximumLineHeight": 25,
+          "minimumLineHeight": 25
         },
         "textStyleVerticalAlignmentKey": 1
       },

@@ -58,8 +58,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SourceSansPro-Regular",
-            "size": 20
+            "name": "Montserrat-Medium",
+            "size": 18
           }
         },
         "kerning": 0,
@@ -67,8 +67,8 @@
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24
+          "maximumLineHeight": 25,
+          "minimumLineHeight": 25
         },
         "textStyleVerticalAlignmentKey": 1
       },

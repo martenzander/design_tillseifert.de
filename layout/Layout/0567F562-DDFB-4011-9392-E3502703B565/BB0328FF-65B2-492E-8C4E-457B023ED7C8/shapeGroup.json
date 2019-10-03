@@ -54,7 +54,6 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "45DE90B0-8046-4FB3-BD1E-E91182A38896",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -148,9 +147,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9333333333333333,
-          "green": 0.8745098039215684,
-          "red": 0.4666666666666667
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -246,7 +245,7 @@
           "_ref": "images/47867d2e732bbc58e32dcab290982de6e70c896f.png",
           "_ref_class": "MSImageData"
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,

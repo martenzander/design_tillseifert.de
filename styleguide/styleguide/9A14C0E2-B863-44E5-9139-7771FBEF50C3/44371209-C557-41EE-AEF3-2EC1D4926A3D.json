@@ -36,7 +36,7 @@
         "location": 0
       }
     ],
-    "string": "Copy Large"
+    "string": "Copy Small"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -60,7 +60,7 @@
     "height": 26,
     "width": 715,
     "x": 98,
-    "y": 1343
+    "y": 1118
   },
   "glyphBounds": "{{0, 7}, {62, 14}}",
   "hasClippingMask": false,
@@ -72,7 +72,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Copy Large Copy",
+  "name": "Copy Small",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

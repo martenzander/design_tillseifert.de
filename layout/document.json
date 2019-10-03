@@ -758,7 +758,7 @@
                 "_ref": "images/6303c365f7e7f54b001638d1e7b01330c93c669b.png",
                 "_ref_class": "MSImageData"
               },
-              "isEnabled": true,
+              "isEnabled": false,
               "noiseIndex": 0,
               "noiseIntensity": 0,
               "patternFillType": 0,
@@ -1153,7 +1153,7 @@
                 "_ref": "images/47867d2e732bbc58e32dcab290982de6e70c896f.png",
                 "_ref_class": "MSImageData"
               },
-              "isEnabled": true,
+              "isEnabled": false,
               "noiseIndex": 0,
               "noiseIntensity": 0,
               "patternFillType": 0,
@@ -1389,7 +1389,7 @@
                 "_ref": "images/6303c365f7e7f54b001638d1e7b01330c93c669b.png",
                 "_ref_class": "MSImageData"
               },
-              "isEnabled": true,
+              "isEnabled": false,
               "noiseIndex": 0,
               "noiseIntensity": 0,
               "patternFillType": 0,
@@ -1445,7 +1445,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 597,
+        "changeIdentifier": 1017,
         "clippingMaskMode": 0,
         "do_objectID": "F973E4A1-1E6F-4275-A523-29BF8A274AD0",
         "exportOptions": {
@@ -1460,7 +1460,7 @@
         "frame": {
           "_class": "rect",
           "constrainProportions": false,
-          "height": 50,
+          "height": 46,
           "width": 131,
           "x": 1879,
           "y": -293
@@ -1506,12 +1506,12 @@
               "layerOptions": 0,
               "shouldTrim": false
             },
-            "fixedRadius": 0,
+            "fixedRadius": 3,
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
               "do_objectID": "F811A247-0C20-4852-81F4-51E6C61E104C",
-              "height": 50,
+              "height": 46,
               "width": 131,
               "x": 0,
               "y": 0
@@ -1533,7 +1533,7 @@
             "points": [
               {
                 "_class": "curvePoint",
-                "cornerRadius": 0,
+                "cornerRadius": 3,
                 "curveFrom": "{0, 0}",
                 "curveMode": 1,
                 "curveTo": "{0, 0}",
@@ -1543,7 +1543,7 @@
               },
               {
                 "_class": "curvePoint",
-                "cornerRadius": 0,
+                "cornerRadius": 3,
                 "curveFrom": "{1, 0}",
                 "curveMode": 1,
                 "curveTo": "{1, 0}",
@@ -1553,7 +1553,7 @@
               },
               {
                 "_class": "curvePoint",
-                "cornerRadius": 0,
+                "cornerRadius": 3,
                 "curveFrom": "{1, 1}",
                 "curveMode": 1,
                 "curveTo": "{1, 1}",
@@ -1563,7 +1563,7 @@
               },
               {
                 "_class": "curvePoint",
-                "cornerRadius": 0,
+                "cornerRadius": 3,
                 "curveFrom": "{0, 1}",
                 "curveMode": 1,
                 "curveTo": "{0, 1}",
@@ -1767,7 +1767,7 @@
                     "_ref": "images/6303c365f7e7f54b001638d1e7b01330c93c669b.png",
                     "_ref_class": "MSImageData"
                   },
-                  "isEnabled": true,
+                  "isEnabled": false,
                   "noiseIndex": 0,
                   "noiseIntensity": 0,
                   "patternFillType": 0,
@@ -1784,9 +1784,9 @@
                   "color": {
                     "_class": "color",
                     "alpha": 1,
-                    "blue": 0.6235294117647058,
-                    "green": 0.6431372549019608,
-                    "red": 0.1764705882352942
+                    "blue": 0.7314594655797102,
+                    "green": 0.4781500456277153,
+                    "red": 0.1983359031097423
                   },
                   "contextSettings": {
                     "_class": "graphicsContextSettings",
@@ -1859,14 +1859,14 @@
                     "MSAttributedStringColorAttribute": {
                       "_class": "color",
                       "alpha": 1,
-                      "blue": 1,
-                      "green": 1,
-                      "red": 1
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
                     },
                     "MSAttributedStringFontAttribute": {
                       "_class": "fontDescriptor",
                       "attributes": {
-                        "name": "Montserrat-Black",
+                        "name": "Montserrat-Bold",
                         "size": 16
                       }
                     },
@@ -1905,11 +1905,11 @@
               "constrainProportions": false,
               "do_objectID": "67DC5FA0-23AE-48AA-8D80-92C1D92986F7",
               "height": 19,
-              "width": 65,
-              "x": 33,
-              "y": 16
+              "width": 64,
+              "x": 34,
+              "y": 14
             },
-            "glyphBounds": "{{0, 3}, {64, 13}}",
+            "glyphBounds": "{{0, 3}, {63, 13}}",
             "hasClippingMask": false,
             "isFixedToViewport": false,
             "isFlippedHorizontal": false,
@@ -1976,14 +1976,14 @@
                   "MSAttributedStringColorAttribute": {
                     "_class": "color",
                     "alpha": 1,
-                    "blue": 1,
-                    "green": 1,
-                    "red": 1
+                    "blue": 0,
+                    "green": 0,
+                    "red": 0
                   },
                   "MSAttributedStringFontAttribute": {
                     "_class": "fontDescriptor",
                     "attributes": {
-                      "name": "Montserrat-Black",
+                      "name": "Montserrat-Bold",
                       "size": 16
                     }
                   },
@@ -2053,11 +2053,6 @@
         "name": "ui/button/primary",
         "nameIsFixed": false,
         "overrideProperties": [
-          {
-            "_class": "MSImmutableOverrideProperty",
-            "canOverride": true,
-            "overrideName": "BD851650-D9F9-4237-876B-51CA833F5106_image"
-          },
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": true,
@@ -2141,7 +2136,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 604,
+        "changeIdentifier": 1018,
         "clippingMaskMode": 0,
         "do_objectID": "F973E4A1-1E6F-4275-A523-29BF8A274AD0",
         "exportOptions": {
@@ -2156,7 +2151,7 @@
         "frame": {
           "_class": "rect",
           "constrainProportions": false,
-          "height": 50,
+          "height": 46,
           "width": 131,
           "x": 1879,
           "y": -293
@@ -2202,12 +2197,12 @@
               "layerOptions": 0,
               "shouldTrim": false
             },
-            "fixedRadius": 0,
+            "fixedRadius": 3,
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
               "do_objectID": "F811A247-0C20-4852-81F4-51E6C61E104C",
-              "height": 50,
+              "height": 46,
               "width": 131,
               "x": 0,
               "y": 0
@@ -2229,7 +2224,7 @@
             "points": [
               {
                 "_class": "curvePoint",
-                "cornerRadius": 0,
+                "cornerRadius": 3,
                 "curveFrom": "{0, 0}",
                 "curveMode": 1,
                 "curveTo": "{0, 0}",
@@ -2239,7 +2234,7 @@
               },
               {
                 "_class": "curvePoint",
-                "cornerRadius": 0,
+                "cornerRadius": 3,
                 "curveFrom": "{1, 0}",
                 "curveMode": 1,
                 "curveTo": "{1, 0}",
@@ -2249,7 +2244,7 @@
               },
               {
                 "_class": "curvePoint",
-                "cornerRadius": 0,
+                "cornerRadius": 3,
                 "curveFrom": "{1, 1}",
                 "curveMode": 1,
                 "curveTo": "{1, 1}",
@@ -2259,7 +2254,7 @@
               },
               {
                 "_class": "curvePoint",
-                "cornerRadius": 0,
+                "cornerRadius": 3,
                 "curveFrom": "{0, 1}",
                 "curveMode": 1,
                 "curveTo": "{0, 1}",
@@ -2463,7 +2458,7 @@
                     "_ref": "images/6303c365f7e7f54b001638d1e7b01330c93c669b.png",
                     "_ref_class": "MSImageData"
                   },
-                  "isEnabled": true,
+                  "isEnabled": false,
                   "noiseIndex": 0,
                   "noiseIntensity": 0,
                   "patternFillType": 0,
@@ -2480,9 +2475,9 @@
                   "color": {
                     "_class": "color",
                     "alpha": 1,
-                    "blue": 0.6235294117647058,
-                    "green": 0.6431372549019608,
-                    "red": 0.1764705882352942
+                    "blue": 0.7314594655797102,
+                    "green": 0.4781500456277153,
+                    "red": 0.1983359031097423
                   },
                   "contextSettings": {
                     "_class": "graphicsContextSettings",
@@ -2555,14 +2550,14 @@
                     "MSAttributedStringColorAttribute": {
                       "_class": "color",
                       "alpha": 1,
-                      "blue": 1,
-                      "green": 1,
-                      "red": 1
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
                     },
                     "MSAttributedStringFontAttribute": {
                       "_class": "fontDescriptor",
                       "attributes": {
-                        "name": "Montserrat-Black",
+                        "name": "Montserrat-Bold",
                         "size": 16
                       }
                     },
@@ -2601,11 +2596,11 @@
               "constrainProportions": false,
               "do_objectID": "67DC5FA0-23AE-48AA-8D80-92C1D92986F7",
               "height": 19,
-              "width": 65,
-              "x": 33,
-              "y": 16
+              "width": 64,
+              "x": 34,
+              "y": 14
             },
-            "glyphBounds": "{{0, 3}, {64, 13}}",
+            "glyphBounds": "{{0, 3}, {63, 13}}",
             "hasClippingMask": false,
             "isFixedToViewport": false,
             "isFlippedHorizontal": false,
@@ -2672,14 +2667,14 @@
                   "MSAttributedStringColorAttribute": {
                     "_class": "color",
                     "alpha": 1,
-                    "blue": 1,
-                    "green": 1,
-                    "red": 1
+                    "blue": 0,
+                    "green": 0,
+                    "red": 0
                   },
                   "MSAttributedStringFontAttribute": {
                     "_class": "fontDescriptor",
                     "attributes": {
-                      "name": "Montserrat-Black",
+                      "name": "Montserrat-Bold",
                       "size": 16
                     }
                   },
@@ -2749,11 +2744,6 @@
         "name": "ui/button/primary",
         "nameIsFixed": false,
         "overrideProperties": [
-          {
-            "_class": "MSImmutableOverrideProperty",
-            "canOverride": true,
-            "overrideName": "BD851650-D9F9-4237-876B-51CA833F5106_image"
-          },
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": true,
@@ -2893,7 +2883,7 @@
                 "_class": "fontDescriptor",
                 "attributes": {
                   "name": "Montserrat-Black",
-                  "size": 50
+                  "size": 60
                 }
               },
               "MSAttributedStringTextTransformAttribute": 1,
@@ -2911,264 +2901,6 @@
         }
       },
       "remoteStyleID": "5F948E36-C1E4-4751-94A9-AFF767FCB756",
-      "sourceLibraryName": "styleguide",
-      "symbolPrivate": false
-    },
-    {
-      "_class": "MSImmutableForeignTextStyle",
-      "libraryID": "a12f27b0-99a0-11e9-b37e-4ff1a9cf84f5",
-      "localSharedStyle": {
-        "_class": "sharedStyle",
-        "do_objectID": "D48B72E7-EC40-4EC9-95A1-7FA5C40B2810",
-        "name": "copy/regular/center/dark",
-        "value": {
-          "_class": "style",
-          "blur": {
-            "_class": "blur",
-            "center": "{0.5, 0.5}",
-            "isEnabled": false,
-            "motionAngle": 0,
-            "radius": 10,
-            "saturation": 1,
-            "type": 0
-          },
-          "borderOptions": {
-            "_class": "borderOptions",
-            "dashPattern": [
-            ],
-            "isEnabled": true,
-            "lineCapStyle": 0,
-            "lineJoinStyle": 0
-          },
-          "borders": [
-          ],
-          "colorControls": {
-            "_class": "colorControls",
-            "brightness": 0,
-            "contrast": 1,
-            "hue": 0,
-            "isEnabled": true,
-            "saturation": 1
-          },
-          "contextSettings": {
-            "_class": "graphicsContextSettings",
-            "blendMode": 0,
-            "opacity": 1
-          },
-          "endMarkerType": 0,
-          "fills": [
-          ],
-          "innerShadows": [
-          ],
-          "miterLimit": 10,
-          "shadows": [
-          ],
-          "startMarkerType": 0,
-          "textStyle": {
-            "_class": "textStyle",
-            "encodedAttributes": {
-              "MSAttributedStringColorAttribute": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.2,
-                "green": 0.1607843137254902,
-                "red": 0.1294117647058824
-              },
-              "MSAttributedStringFontAttribute": {
-                "_class": "fontDescriptor",
-                "attributes": {
-                  "name": "SourceSansPro-Regular",
-                  "size": 20
-                }
-              },
-              "kerning": 0,
-              "paragraphStyle": {
-                "_class": "paragraphStyle",
-                "alignment": 2,
-                "allowsDefaultTighteningForTruncation": 0,
-                "maximumLineHeight": 24,
-                "minimumLineHeight": 24
-              },
-              "textStyleVerticalAlignmentKey": 1
-            },
-            "verticalAlignment": 1
-          },
-          "windingRule": 1
-        }
-      },
-      "remoteStyleID": "2FC7EE95-560A-4019-8C70-53EB7DEB587B",
-      "sourceLibraryName": "styleguide",
-      "symbolPrivate": false
-    },
-    {
-      "_class": "MSImmutableForeignTextStyle",
-      "libraryID": "a12f27b0-99a0-11e9-b37e-4ff1a9cf84f5",
-      "localSharedStyle": {
-        "_class": "sharedStyle",
-        "do_objectID": "10E3F4F2-1FDB-4C7A-BD51-DE24B554C4F0",
-        "name": "copy/small/left/dark",
-        "value": {
-          "_class": "style",
-          "blur": {
-            "_class": "blur",
-            "center": "{0.5, 0.5}",
-            "isEnabled": false,
-            "motionAngle": 0,
-            "radius": 10,
-            "saturation": 1,
-            "type": 0
-          },
-          "borderOptions": {
-            "_class": "borderOptions",
-            "dashPattern": [
-            ],
-            "isEnabled": true,
-            "lineCapStyle": 0,
-            "lineJoinStyle": 0
-          },
-          "borders": [
-          ],
-          "colorControls": {
-            "_class": "colorControls",
-            "brightness": 0,
-            "contrast": 1,
-            "hue": 0,
-            "isEnabled": true,
-            "saturation": 1
-          },
-          "contextSettings": {
-            "_class": "graphicsContextSettings",
-            "blendMode": 0,
-            "opacity": 1
-          },
-          "endMarkerType": 0,
-          "fills": [
-          ],
-          "innerShadows": [
-          ],
-          "miterLimit": 10,
-          "shadows": [
-          ],
-          "startMarkerType": 0,
-          "textStyle": {
-            "_class": "textStyle",
-            "encodedAttributes": {
-              "MSAttributedStringColorAttribute": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.2,
-                "green": 0.1607843137254902,
-                "red": 0.1294117647058824
-              },
-              "MSAttributedStringFontAttribute": {
-                "_class": "fontDescriptor",
-                "attributes": {
-                  "name": "SourceSansPro-Regular",
-                  "size": 16
-                }
-              },
-              "kerning": 0,
-              "paragraphStyle": {
-                "_class": "paragraphStyle",
-                "alignment": 0,
-                "allowsDefaultTighteningForTruncation": 0,
-                "maximumLineHeight": 24,
-                "minimumLineHeight": 24
-              },
-              "textStyleVerticalAlignmentKey": 1
-            },
-            "verticalAlignment": 1
-          },
-          "windingRule": 1
-        }
-      },
-      "remoteStyleID": "BC1A8081-5021-44C2-BF7D-974F2B38277A",
-      "sourceLibraryName": "styleguide",
-      "symbolPrivate": false
-    },
-    {
-      "_class": "MSImmutableForeignTextStyle",
-      "libraryID": "a12f27b0-99a0-11e9-b37e-4ff1a9cf84f5",
-      "localSharedStyle": {
-        "_class": "sharedStyle",
-        "do_objectID": "E0B6C637-6B5A-4BEA-B7D5-6C20EDABE0C2",
-        "name": "copy/regular/left/dark",
-        "value": {
-          "_class": "style",
-          "blur": {
-            "_class": "blur",
-            "center": "{0.5, 0.5}",
-            "isEnabled": false,
-            "motionAngle": 0,
-            "radius": 10,
-            "saturation": 1,
-            "type": 0
-          },
-          "borderOptions": {
-            "_class": "borderOptions",
-            "dashPattern": [
-            ],
-            "isEnabled": true,
-            "lineCapStyle": 0,
-            "lineJoinStyle": 0
-          },
-          "borders": [
-          ],
-          "colorControls": {
-            "_class": "colorControls",
-            "brightness": 0,
-            "contrast": 1,
-            "hue": 0,
-            "isEnabled": true,
-            "saturation": 1
-          },
-          "contextSettings": {
-            "_class": "graphicsContextSettings",
-            "blendMode": 0,
-            "opacity": 1
-          },
-          "endMarkerType": 0,
-          "fills": [
-          ],
-          "innerShadows": [
-          ],
-          "miterLimit": 10,
-          "shadows": [
-          ],
-          "startMarkerType": 0,
-          "textStyle": {
-            "_class": "textStyle",
-            "encodedAttributes": {
-              "MSAttributedStringColorAttribute": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.2,
-                "green": 0.1607843137254902,
-                "red": 0.1294117647058824
-              },
-              "MSAttributedStringFontAttribute": {
-                "_class": "fontDescriptor",
-                "attributes": {
-                  "name": "SourceSansPro-Regular",
-                  "size": 20
-                }
-              },
-              "kerning": 0,
-              "paragraphStyle": {
-                "_class": "paragraphStyle",
-                "alignment": 0,
-                "allowsDefaultTighteningForTruncation": 0,
-                "maximumLineHeight": 24,
-                "minimumLineHeight": 24
-              },
-              "textStyleVerticalAlignmentKey": 1
-            },
-            "verticalAlignment": 1
-          },
-          "windingRule": 1
-        }
-      },
-      "remoteStyleID": "E7148D0E-595E-4E33-824C-7EF5790115C1",
       "sourceLibraryName": "styleguide",
       "symbolPrivate": false
     },
@@ -3235,8 +2967,8 @@
               "MSAttributedStringFontAttribute": {
                 "_class": "fontDescriptor",
                 "attributes": {
-                  "name": "SourceSansPro-Regular",
-                  "size": 16
+                  "name": "Montserrat-Medium",
+                  "size": 14
                 }
               },
               "kerning": 0,
@@ -3263,7 +2995,7 @@
       "libraryID": "a12f27b0-99a0-11e9-b37e-4ff1a9cf84f5",
       "localSharedStyle": {
         "_class": "sharedStyle",
-        "do_objectID": "40675BE6-49CC-4D69-B183-CE1F83F3B964",
+        "do_objectID": "854C45A8-879D-4565-9605-2C42427D3137",
         "name": "h2/center/light",
         "value": {
           "_class": "style",
@@ -3322,7 +3054,7 @@
                 "_class": "fontDescriptor",
                 "attributes": {
                   "name": "Montserrat-Black",
-                  "size": 50
+                  "size": 60
                 }
               },
               "MSAttributedStringTextTransformAttribute": 1,
@@ -3340,6 +3072,178 @@
         }
       },
       "remoteStyleID": "6B8F2287-4ACC-427D-9925-DD737E57B688",
+      "sourceLibraryName": "styleguide",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "a12f27b0-99a0-11e9-b37e-4ff1a9cf84f5",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "750F71D7-FB0B-441A-B6E4-69178BA0604E",
+        "name": "copy/small/left/light",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": true,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "endMarkerType": 0,
+          "fills": [
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "Montserrat-Medium",
+                  "size": 14
+                }
+              },
+              "kerning": 0,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 0,
+                "allowsDefaultTighteningForTruncation": 0,
+                "maximumLineHeight": 24,
+                "minimumLineHeight": 24
+              },
+              "textStyleVerticalAlignmentKey": 1
+            },
+            "verticalAlignment": 1
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "F9190CC0-2AAD-4518-B221-0806CA58DB14",
+      "sourceLibraryName": "styleguide",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "a12f27b0-99a0-11e9-b37e-4ff1a9cf84f5",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "244804DC-3C96-4D57-866E-4DF343A41BF4",
+        "name": "copy/regular/left/light",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": true,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "endMarkerType": 0,
+          "fills": [
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "Montserrat-Medium",
+                  "size": 18
+                }
+              },
+              "kerning": 0,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 0,
+                "allowsDefaultTighteningForTruncation": 0,
+                "maximumLineHeight": 25,
+                "minimumLineHeight": 25
+              },
+              "textStyleVerticalAlignmentKey": 1
+            },
+            "verticalAlignment": 1
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "5CB43F8B-BC78-4AFD-AD28-996AE7848D8B",
       "sourceLibraryName": "styleguide",
       "symbolPrivate": false
     }

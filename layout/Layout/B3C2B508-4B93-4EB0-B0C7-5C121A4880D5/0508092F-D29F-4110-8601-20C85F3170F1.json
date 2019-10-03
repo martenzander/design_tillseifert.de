@@ -1,0 +1,125 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0508092F-D29F-4110-8601-20C85F3170F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B22F360F-591A-460F-A51F-3D60A355F152",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D79E97BF-3FCD-4B00-B12C-A7A406BDF24E",
+    "height": 100,
+    "width": 960,
+    "x": 32,
+    "y": 1765
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "concerts-list/entry/md copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B0BEAA7C-F505-4B18-9CFC-08F1977B5F88",
+      "overrideName": "F9E6794D-C3EF-438A-B3AF-F5BFDC7B752D_stringValue",
+      "value": "24"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B9AAA94A-719A-48C8-9745-6BAAE7CB2B12",
+      "overrideName": "5D70375D-F994-4B8B-AA26-B79DDFA209A0_stringValue",
+      "value": "Sa"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A59B4567-8690-4234-BE6A-6FA2741E3FE0",
+      "overrideName": "31326BE9-6D66-4C30-8F8C-572A0E5F49F3_stringValue",
+      "value": "Jul"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7DEAB13F-7A51-45F1-AB28-05CF9AA6D287",
+      "overrideName": "C7CAB1BE-8F6E-4332-96A4-DDBB19D1506F_stringValue",
+      "value": "Halle 622"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "07407FD4-130B-425D-A68D-5394211DA79D",
+      "overrideName": "7DFF23A3-4F18-4CFE-9851-3F841D916B4E_stringValue",
+      "value": "Zürich (CHE)"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "41749C7E-61EB-477B-921F-F0CC7377A2D1",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "23EA90F0-106B-4669-899E-B4A874E2AD72",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "44BEAFC3-BA15-4BF5-A4A9-FF3C7F4B53F5",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "1C5D5C92-D4DF-45B4-855D-BF1A9594962A",
+      "opacity": 1
+    },
+    "do_objectID": "734BE00D-B4EE-4BFE-A787-FAB42F7E483D",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9802A2C4-3D8E-4608-8C37-E5C805015E8B",
+  "verticalSpacing": 0
+}

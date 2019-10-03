@@ -272,7 +272,7 @@
           "_ref": "images/47867d2e732bbc58e32dcab290982de6e70c896f.png",
           "_ref_class": "MSImageData"
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,

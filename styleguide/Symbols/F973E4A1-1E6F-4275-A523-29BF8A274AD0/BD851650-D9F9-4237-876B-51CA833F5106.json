@@ -14,12 +14,12 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
+  "fixedRadius": 3,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F811A247-0C20-4852-81F4-51E6C61E104C",
-    "height": 50,
+    "height": 46,
     "width": 131,
     "x": 0,
     "y": 0
@@ -41,7 +41,7 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 3,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -51,7 +51,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 3,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -61,7 +61,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 3,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -71,7 +71,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 3,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -275,7 +275,7 @@
           "_ref": "images/6303c365f7e7f54b001638d1e7b01330c93c669b.png",
           "_ref_class": "MSImageData"
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
@@ -292,9 +292,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6235294117647058,
-          "green": 0.6431372549019608,
-          "red": 0.1764705882352942
+          "blue": 0.7314594655797102,
+          "green": 0.4781500456277153,
+          "red": 0.1983359031097423
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

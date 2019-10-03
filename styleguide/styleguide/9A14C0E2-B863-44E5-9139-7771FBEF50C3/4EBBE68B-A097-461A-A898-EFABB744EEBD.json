@@ -16,10 +16,11 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Bold",
-              "size": 40
+              "name": "Montserrat-Black",
+              "size": 60
             }
           },
+          "MSAttributedStringTextTransformAttribute": 1,
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
@@ -53,12 +54,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "EEE7E813-A31E-43B9-8CE4-8C706784C375",
-    "height": 49,
-    "width": 715,
-    "x": 2083,
-    "y": 371
+    "height": 73,
+    "width": 843,
+    "x": 1550,
+    "y": 384
   },
-  "glyphBounds": "{{259, 7}, {456, 40}}",
+  "glyphBounds": "{{20, 15}, {823, 44}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -132,10 +133,11 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Bold",
-            "size": 40
+            "name": "Montserrat-Black",
+            "size": 60
           }
         },
+        "MSAttributedStringTextTransformAttribute": 1,
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",

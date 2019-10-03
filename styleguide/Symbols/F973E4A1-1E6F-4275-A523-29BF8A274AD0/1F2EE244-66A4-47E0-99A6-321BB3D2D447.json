@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Black",
+              "name": "Montserrat-Bold",
               "size": 16
             }
           },
@@ -55,11 +55,11 @@
     "constrainProportions": false,
     "do_objectID": "67DC5FA0-23AE-48AA-8D80-92C1D92986F7",
     "height": 19,
-    "width": 65,
-    "x": 33,
-    "y": 16
+    "width": 64,
+    "x": 34,
+    "y": 14
   },
-  "glyphBounds": "{{0, 3}, {64, 13}}",
+  "glyphBounds": "{{0, 3}, {63, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -126,14 +126,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Black",
+            "name": "Montserrat-Bold",
             "size": 16
           }
         },

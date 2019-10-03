@@ -1,0 +1,118 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "364296E1-3784-4E76-A21C-5DFEFF798FE2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 960,
+    "x": 32,
+    "y": 1270
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "concerts-list/entry/md copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0D843262-3C26-493E-A42F-D47A10D1EB41",
+      "overrideName": "F9E6794D-C3EF-438A-B3AF-F5BFDC7B752D_stringValue",
+      "value": "08"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B30E877B-29A9-47A2-BB1A-939E7AAEBAF0",
+      "overrideName": "31326BE9-6D66-4C30-8F8C-572A0E5F49F3_stringValue",
+      "value": "Jul"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1A7F3CC4-B661-4AEE-96F8-B865731B4D4C",
+      "overrideName": "5D70375D-F994-4B8B-AA26-B79DDFA209A0_stringValue",
+      "value": "Do"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "54F6C396-9EE0-456F-9D2D-568286C10A01",
+      "overrideName": "7DFF23A3-4F18-4CFE-9851-3F841D916B4E_stringValue",
+      "value": "Frankfurt (DE)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "173E95AA-319F-43D9-ABC2-23EA033B6CD1",
+      "overrideName": "C7CAB1BE-8F6E-4332-96A4-DDBB19D1506F_stringValue",
+      "value": "Jahrhunderthalle"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9802A2C4-3D8E-4608-8C37-E5C805015E8B",
+  "verticalSpacing": 0
+}

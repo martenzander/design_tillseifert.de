@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3676,
+  "changeIdentifier": 4561,
   "clippingMaskMode": 0,
   "do_objectID": "CA9DF315-FCA2-4833-B489-7263CFF948B8",
   "exportOptions": {
@@ -61,8 +61,12 @@
       "id": "DCB774BC-CAFC-4FE0-9275-72EC6BDBF923"
     },
     {
-      "class": "group",
-      "id": "CE5B9E7A-1FAC-4C6D-89E3-5DE8BA600052"
+      "class": "text",
+      "id": "DBFC1B13-BAF5-4375-BB0C-B9D64F116F5E"
+    },
+    {
+      "class": "text",
+      "id": "3BD5F38F-1EF0-41D2-B342-CF6019ABE437"
     },
     {
       "class": "text",
@@ -82,7 +86,7 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "concerts-list/entry",
+  "name": "concerts-list/entry/dark",
   "nameIsFixed": true,
   "overrideProperties": [
     {

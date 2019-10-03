@@ -16,12 +16,12 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SourceSansPro-Semibold",
+              "name": "Montserrat-Bold",
               "size": 22
             }
           },
           "MSAttributedStringTextTransformAttribute": 1,
-          "kerning": 2.4,
+          "kerning": 2.933333333333333,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
@@ -54,12 +54,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "FC2AE91B-CDB3-4AC8-92CF-5BF831BAFC3C",
-    "height": 28,
+    "height": 27,
     "width": 681,
     "x": 0,
-    "y": 80
+    "y": 103
   },
-  "glyphBounds": "{{260, 7}, {158, 16}}",
+  "glyphBounds": "{{240, 5}, {198, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -137,12 +137,12 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SourceSansPro-Semibold",
+            "name": "Montserrat-Bold",
             "size": 22
           }
         },
         "MSAttributedStringTextTransformAttribute": 1,
-        "kerning": 2.4,
+        "kerning": 2.933333333333333,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,

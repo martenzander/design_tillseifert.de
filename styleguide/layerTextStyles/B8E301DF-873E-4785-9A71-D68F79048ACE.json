@@ -58,8 +58,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SourceSansPro-Regular",
-            "size": 16
+            "name": "Montserrat-Medium",
+            "size": 14
           }
         },
         "kerning": 0,
