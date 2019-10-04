@@ -36,15 +36,15 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "B791439B-E043-4DA4-BA3F-14F9C9A4BC96",
-      "overrideName": "1F2EE244-66A4-47E0-99A6-321BB3D2D447_stringValue",
-      "value": "Jetzt kaufen"
+      "do_objectID": "B8AB5F02-6E02-44C3-AA91-CEB1C69B88D5",
+      "overrideName": "BD851650-D9F9-4237-876B-51CA833F5106_layerStyle",
+      "value": "0643C7FF-DFB6-44FF-890E-14F34026E6F8"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "7964BF84-A44A-49DE-91E8-B531F0CA5878",
-      "overrideName": "BD851650-D9F9-4237-876B-51CA833F5106_layerStyle",
-      "value": "0643C7FF-DFB6-44FF-890E-14F34026E6F8"
+      "do_objectID": "112F5A71-7DB6-4E38-986F-84D4F7E39D7E",
+      "overrideName": "1F2EE244-66A4-47E0-99A6-321BB3D2D447_stringValue",
+      "value": "Jetzt kaufen"
     }
   ],
   "resizingConstraint": 63,

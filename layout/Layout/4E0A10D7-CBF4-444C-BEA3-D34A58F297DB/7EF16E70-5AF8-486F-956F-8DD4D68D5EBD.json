@@ -24,7 +24,7 @@
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0
           },
           "textStyleVerticalAlignmentKey": 0
@@ -55,9 +55,9 @@
     "height": 79,
     "width": 597,
     "x": 85,
-    "y": 504.0000000000003
+    "y": 568
   },
-  "glyphBounds": "{{0, 16}, {197, 49}}",
+  "glyphBounds": "{{200, 16}, {196, 49}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -137,7 +137,7 @@
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0
         },
         "textStyleVerticalAlignmentKey": 0

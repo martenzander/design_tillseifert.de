@@ -193,7 +193,7 @@
               "_class": "gradientStop",
               "color": {
                 "_class": "color",
-                "alpha": 0,
+                "alpha": 0.25,
                 "blue": 0,
                 "green": 0,
                 "red": 0

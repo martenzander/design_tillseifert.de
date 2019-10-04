@@ -68,6 +68,10 @@
       "id": "4E0A10D7-CBF4-444C-BEA3-D34A58F297DB"
     },
     {
+      "class": "artboard",
+      "id": "325BE9C9-ECDC-4B3D-8F98-C57300975BAC"
+    },
+    {
       "class": "rectangle",
       "id": "DF37F7EA-E31A-4B36-9406-64ED1501BD12"
     },
@@ -248,8 +252,20 @@
       "id": "5B036937-D06B-4C18-B91D-F919B1BED9D5"
     },
     {
-      "class": "group",
-      "id": "1FBA0DEB-5343-4E4C-90D4-1A89B0AB37C8"
+      "class": "symbolInstance",
+      "id": "E2752340-9EF3-4FDA-A792-642339E0B0F5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1C278BE4-A37C-4CE0-BC8A-5AAFE7F6AB66"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C85BB022-D9FA-4C4E-A854-8CBBB152C71A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "06AA9532-FC3F-4E34-B33D-EEB6042B7F84"
     },
     {
       "class": "symbolInstance",

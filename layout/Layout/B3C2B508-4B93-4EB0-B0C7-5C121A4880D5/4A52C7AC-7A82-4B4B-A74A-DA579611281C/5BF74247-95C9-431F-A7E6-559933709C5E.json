@@ -19,9 +19,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "AA5056CA-6F9D-462E-B48C-311FCED74E7A",
-    "height": 800,
-    "width": 1440,
-    "x": -208,
+    "height": 768,
+    "width": 1024,
+    "x": 0,
     "y": 0
   },
   "hasClippingMask": true,
@@ -200,7 +200,7 @@
               "_class": "gradientStop",
               "color": {
                 "_class": "color",
-                "alpha": 0,
+                "alpha": 0.2542613636363636,
                 "blue": 0,
                 "green": 0,
                 "red": 0

@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 50,
-    "width": 137,
-    "x": 1003,
+    "width": 160,
+    "x": 980,
     "y": 25
   },
   "hasClippingMask": false,
@@ -34,15 +34,15 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "4030B8F1-812E-4AC4-91F0-5EADD8A5D406",
-      "overrideName": "1F2EE244-66A4-47E0-99A6-321BB3D2D447_stringValue",
-      "value": "Tickets"
+      "do_objectID": "BCB908E7-D1A8-4020-A0A5-8CABA4D999E2",
+      "overrideName": "C44C4152-202C-4872-BA56-4AFCB9201F44_layerStyle",
+      "value": "0643C7FF-DFB6-44FF-890E-14F34026E6F8"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "AC088FE1-EAA9-46E2-A165-C12365C828E2",
-      "overrideName": "BD851650-D9F9-4237-876B-51CA833F5106_layerStyle",
-      "value": "0643C7FF-DFB6-44FF-890E-14F34026E6F8"
+      "do_objectID": "51F15109-1188-4500-89DA-F598BE8797FC",
+      "overrideName": "6BAF9D76-F16B-421F-92B5-AB9FF8E3FD3F_stringValue",
+      "value": "Tickets"
     }
   ],
   "resizingConstraint": 63,
@@ -95,6 +95,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "08D52534-5376-4BAA-85BF-D3965667E559",
+  "symbolID": "980DCD9E-0749-4089-AAFB-A5ECA9612460",
   "verticalSpacing": 0
 }

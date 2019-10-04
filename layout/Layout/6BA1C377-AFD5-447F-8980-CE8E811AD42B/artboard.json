@@ -25,7 +25,7 @@
     "height": 810,
     "width": 1440,
     "x": 2200,
-    "y": -1287
+    "y": -1503
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -55,23 +55,11 @@
     },
     {
       "class": "group",
-      "id": "FF6A94C3-86A4-42A7-846B-6E912ECFE4F9"
+      "id": "778BC863-D049-4A29-9E97-9247C446CAE0"
     },
     {
       "class": "group",
-      "id": "FBE5CAA4-46EB-4713-B90C-E96D39C4D846"
-    },
-    {
-      "class": "rectangle",
-      "id": "EC5E06AF-1FE2-4D6E-91E6-087EB88095C3"
-    },
-    {
-      "class": "rectangle",
-      "id": "18DF4670-B4B0-485A-A795-7DEA03AC8A62"
-    },
-    {
-      "class": "shapePath",
-      "id": "28F2503C-923C-4B99-A61C-8568C29FC1EC"
+      "id": "DA7A282A-4F32-4627-B9D8-796E5A6195BA"
     },
     {
       "class": "text",
@@ -82,8 +70,8 @@
       "id": "E7B61312-FDF7-480C-9689-78596A286DA1"
     },
     {
-      "class": "group",
-      "id": "93ECFF79-02BB-4DC5-9DEF-82957A42C18D"
+      "class": "symbolInstance",
+      "id": "D5A7A3D0-EC2B-428C-B44F-DE90D646D207"
     }
   ],
   "layout": {
@@ -96,7 +84,7 @@
     "gutterWidth": 24.18181818181817,
     "guttersOutside": false,
     "horizontalOffset": 240,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 960

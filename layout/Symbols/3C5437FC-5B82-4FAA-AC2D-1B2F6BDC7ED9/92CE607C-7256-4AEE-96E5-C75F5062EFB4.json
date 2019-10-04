@@ -90,7 +90,6 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "B3798E33-C8B1-4E23-9880-E4A0224CCD02",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -101,7 +100,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "23F2865D-0339-4389-999A-81960D8A7EF3",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -162,7 +160,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "3D975A96-1935-44ED-B3FD-1EBF55076859",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -170,8 +167,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "54F3383B-A706-48F3-99E2-25FC0EB7AA17",
-      "opacity": 0.5029994419642857
+      "opacity": 1
     },
     "do_objectID": "9115C5B8-0D17-4CF5-8A0A-6D8B0CAA6BCC",
     "endMarkerType": 0,

@@ -25,7 +25,7 @@
     "height": 1024,
     "width": 768,
     "x": 5424,
-    "y": -1287
+    "y": -1503
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -74,40 +74,20 @@
       "id": "7EF16E70-5AF8-486F-956F-8DD4D68D5EBD"
     },
     {
-      "class": "text",
-      "id": "FA3DD524-BB40-421F-ADCF-DD09DE2FE4FB"
-    },
-    {
-      "class": "text",
-      "id": "B4BD991F-A383-4ADE-A4F2-5350BCC91802"
-    },
-    {
-      "class": "text",
-      "id": "757FC946-5B75-4896-A7F7-2027A94504D4"
-    },
-    {
-      "class": "rectangle",
-      "id": "0F077DE4-4DDE-4F7C-BED2-734A000BB171"
-    },
-    {
-      "class": "rectangle",
-      "id": "58D50481-516B-4C5D-857F-0ED253C1AF6C"
-    },
-    {
-      "class": "shapePath",
-      "id": "A3959C3B-A9B5-4AA3-9496-78BC58B2D7C1"
-    },
-    {
-      "class": "text",
-      "id": "6B3BB97E-72C3-4174-A872-F2144EE10221"
-    },
-    {
-      "class": "group",
-      "id": "82AEAE04-A421-470D-9568-3570E9E2E23B"
+      "class": "symbolInstance",
+      "id": "8E9B7738-3DF3-4500-98A6-217F047FB241"
     },
     {
       "class": "symbolInstance",
-      "id": "8E9B7738-3DF3-4500-98A6-217F047FB241"
+      "id": "47F1DF34-491D-4E90-B428-2E656B78903C"
+    },
+    {
+      "class": "text",
+      "id": "B0D4DB8B-1633-48C1-BA36-B2C43E21F9A6"
+    },
+    {
+      "class": "group",
+      "id": "DCC2F646-5021-43DD-8C7A-1EE1528FC654"
     }
   ],
   "layout": {
@@ -120,7 +100,7 @@
     "gutterWidth": 16,
     "guttersOutside": false,
     "horizontalOffset": 24,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 720
