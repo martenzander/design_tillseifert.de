@@ -96,7 +96,7 @@
     "gutterWidth": 24.18181818181817,
     "guttersOutside": false,
     "horizontalOffset": 240,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 960

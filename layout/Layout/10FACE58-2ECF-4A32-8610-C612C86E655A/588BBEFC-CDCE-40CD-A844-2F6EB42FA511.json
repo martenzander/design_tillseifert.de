@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "13506798-6785-44C6-BAF4-69BF2AA5428E",
+  "do_objectID": "588BBEFC-CDCE-40CD-A844-2F6EB42FA511",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "1932F5E0-6B61-4DD9-87C9-9869BC465DDE",
+    "do_objectID": "73BD516A-B255-4694-ABA8-531534357FC5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0151F5BA-1C87-49DD-906E-C4E77CC2C001",
-    "height": 201,
-    "width": 352,
-    "x": 5560,
-    "y": -195
+    "do_objectID": "113F0F58-D76B-4C0C-A8E7-2D20591A8EF2",
+    "height": 24,
+    "width": 149,
+    "x": 488,
+    "y": 20
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -31,7 +31,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "misc/stoerer",
+  "name": "logo/white",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -45,7 +45,7 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "C8D63E60-7482-4EBB-918E-CF8E43F7939E",
+      "do_objectID": "BCD4953F-A956-4528-8F3E-772D117ED908",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -56,7 +56,7 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "DEFA5EE7-C520-4908-AADC-7A8F033BBEB6",
+      "do_objectID": "7FBDCF84-9682-40F8-9BDE-B39F97EEECBF",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -67,7 +67,7 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "DE0F56C6-E6EE-466E-9D27-72C49F0092F9",
+      "do_objectID": "DE104FFF-03A0-4D2C-8237-273B01637D33",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -75,10 +75,10 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "07B8D5A4-3FFD-4B6C-950B-DCBF14C9E1C5",
+      "do_objectID": "566B6C34-D4C5-41DC-B992-1E66EB435977",
       "opacity": 1
     },
-    "do_objectID": "F8A7AF4F-B33C-4BE3-932A-6A014125CF23",
+    "do_objectID": "BD7D7713-1186-470F-9D44-8BDD7277C114",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -90,6 +90,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D63F4AA5-997E-4245-840F-6F8A53986EE7",
+  "symbolID": "F98E8BA9-9AAB-4E3F-9D0B-F635A0C43134",
   "verticalSpacing": 0
 }
