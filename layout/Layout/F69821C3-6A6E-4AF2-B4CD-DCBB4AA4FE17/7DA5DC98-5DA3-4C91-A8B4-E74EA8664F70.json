@@ -18,8 +18,8 @@
     "constrainProportions": false,
     "do_objectID": "936C3B02-D2FE-4D4D-80E8-6AF71ED9CA84",
     "height": 100,
-    "width": 720,
-    "x": 24,
+    "width": 768,
+    "x": 0,
     "y": 1323
   },
   "hasClippingMask": false,
@@ -36,31 +36,31 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "D402A593-F65D-45F2-B8E7-00C66B3DFD9C",
+      "do_objectID": "E33E946A-07C9-4763-8944-7A4C44C002AA",
       "overrideName": "10ED07C2-4268-49FB-A41D-924FFEDCD0B0_stringValue",
       "value": "Berlin (DE)"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "4272BB61-2309-4C74-8F26-44843BED5006",
+      "do_objectID": "B5D56152-E1AF-45E6-9060-966D92231268",
       "overrideName": "EA83F393-2D42-47FD-885E-616AD497223B_stringValue",
       "value": "Columbiahalle"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "F2B09C58-1AC0-46FE-9AB2-A0CA27090227",
+      "do_objectID": "ABE45387-4BB4-421C-A6FC-9C9B4399F6FF",
       "overrideName": "D7503CDB-F0D7-4B46-B744-9D153298BA95_stringValue",
       "value": "Jul"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "1617E34A-631C-483E-AF94-89C71411DD3B",
+      "do_objectID": "40D50C4C-8F0C-44EC-A98E-5799AAEFBA7B",
       "overrideName": "8BFFC259-C461-4609-9F42-9E3996E7EEC5_stringValue",
       "value": "Di"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "3459D568-2270-4737-8BF9-CA61558DFD0E",
+      "do_objectID": "FC9AE9C9-AC52-40FC-B550-A02F2FCECA81",
       "overrideName": "D368D524-326F-4606-BDE4-B4A606E2E20B_stringValue",
       "value": "06"
     }

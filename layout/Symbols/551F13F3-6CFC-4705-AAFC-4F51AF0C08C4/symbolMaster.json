@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 5932,
+  "changeIdentifier": 6065,
   "clippingMaskMode": 0,
   "do_objectID": "551F13F3-6CFC-4705-AAFC-4F51AF0C08C4",
   "exportOptions": {
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
@@ -83,22 +83,26 @@
     {
       "class": "symbolInstance",
       "id": "5FE7EEFF-8CFA-49C7-8B3A-D2B89AC9F3F5"
+    },
+    {
+      "class": "shapePath",
+      "id": "8B9D37C4-F9B2-4819-A6C6-A9C0781A29CD"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 56,
+    "columnWidth": 17.5,
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
     "gutterHeight": 12,
-    "gutterWidth": 26.18181818181818,
+    "gutterWidth": 15,
     "guttersOutside": false,
-    "horizontalOffset": 0,
+    "horizontalOffset": 292.5,
     "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
-    "totalWidth": 960
+    "totalWidth": 375
   },
   "maintainScrollPosition": false,
   "name": "concerts-list/entry/md",

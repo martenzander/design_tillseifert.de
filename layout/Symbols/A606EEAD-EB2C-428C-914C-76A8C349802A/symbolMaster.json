@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3343,
+  "changeIdentifier": 3356,
   "clippingMaskMode": 0,
   "do_objectID": "A606EEAD-EB2C-428C-914C-76A8C349802A",
   "exportOptions": {
@@ -26,7 +26,7 @@
     "constrainProportions": false,
     "height": 71,
     "width": 1024,
-    "x": 4798,
+    "x": 4760,
     "y": 171
   },
   "groupLayout": {
@@ -63,18 +63,18 @@
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 60,
+    "columnWidth": 17.5,
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
     "gutterHeight": 12,
-    "gutterWidth": 20,
-    "guttersOutside": true,
-    "horizontalOffset": 240,
-    "isEnabled": false,
+    "gutterWidth": 15,
+    "guttersOutside": false,
+    "horizontalOffset": 324.5,
+    "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
-    "totalWidth": 960
+    "totalWidth": 375
   },
   "maintainScrollPosition": false,
   "name": "musicplayer/spotify/md",

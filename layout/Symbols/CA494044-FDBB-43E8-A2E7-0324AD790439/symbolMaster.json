@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 5492,
+  "changeIdentifier": 5518,
   "clippingMaskMode": 0,
   "do_objectID": "CA494044-FDBB-43E8-A2E7-0324AD790439",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
@@ -87,18 +87,18 @@
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 67.5,
+    "columnWidth": 17.5,
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
     "gutterHeight": 12,
-    "gutterWidth": 30,
+    "gutterWidth": 15,
     "guttersOutside": false,
-    "horizontalOffset": 0,
+    "horizontalOffset": 382.5,
     "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
-    "totalWidth": 1140
+    "totalWidth": 375
   },
   "maintainScrollPosition": false,
   "name": "concerts-list/entry/lg",

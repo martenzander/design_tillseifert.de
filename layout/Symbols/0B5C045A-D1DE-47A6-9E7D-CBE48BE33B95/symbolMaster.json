@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 6130,
+  "changeIdentifier": 6558,
   "clippingMaskMode": 0,
   "do_objectID": "0B5C045A-D1DE-47A6-9E7D-CBE48BE33B95",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 100,
-    "width": 720,
+    "width": 768,
     "x": 0,
     "y": 400
   },
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -81,8 +81,12 @@
       "id": "B14A7E6E-E6C5-498A-980F-B3F1103A7C8E"
     },
     {
-      "class": "symbolInstance",
-      "id": "62A72E76-83B4-41D1-A1F7-B82E60AA2CDF"
+      "class": "rectangle",
+      "id": "71CC077F-1734-45B9-A5CA-7D05B3DAA54E"
+    },
+    {
+      "class": "shapePath",
+      "id": "ACF0C0EF-FA5C-4BAB-8BD1-A760B79D648F"
     }
   ],
   "layout": {
@@ -94,7 +98,7 @@
     "gutterHeight": 12,
     "gutterWidth": 16,
     "guttersOutside": false,
-    "horizontalOffset": 0,
+    "horizontalOffset": 24,
     "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
@@ -107,22 +111,17 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "62A72E76-83B4-41D1-A1F7-B82E60AA2CDF_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
       "overrideName": "D7503CDB-F0D7-4B46-B744-9D153298BA95_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "10ED07C2-4268-49FB-A41D-924FFEDCD0B0_stringValue"
+      "overrideName": "EA83F393-2D42-47FD-885E-616AD497223B_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "EA83F393-2D42-47FD-885E-616AD497223B_stringValue"
+      "overrideName": "10ED07C2-4268-49FB-A41D-924FFEDCD0B0_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -133,6 +132,11 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "D368D524-326F-4606-BDE4-B4A606E2E20B_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "71CC077F-1734-45B9-A5CA-7D05B3DAA54E_layerStyle"
     }
   ],
   "presetDictionary": {

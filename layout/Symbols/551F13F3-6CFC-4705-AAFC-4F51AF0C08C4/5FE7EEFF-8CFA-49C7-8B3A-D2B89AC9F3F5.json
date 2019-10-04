@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 50,
-    "width": 137,
-    "x": 823,
+    "width": 155,
+    "x": 805,
     "y": 25
   },
   "hasClippingMask": false,
@@ -34,9 +34,15 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "D2E01CA7-6ECA-4C54-99FC-2801E346CC6B",
+      "do_objectID": "5055F26B-2291-4BD7-9D89-64A4909AD4A8",
       "overrideName": "1F2EE244-66A4-47E0-99A6-321BB3D2D447_stringValue",
-      "value": "Tickets"
+      "value": "Tickets    "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "98F63E28-F5D2-4794-9B43-475526D04CFB",
+      "overrideName": "BD851650-D9F9-4237-876B-51CA833F5106_layerStyle",
+      "value": "0643C7FF-DFB6-44FF-890E-14F34026E6F8"
     }
   ],
   "resizingConstraint": 63,

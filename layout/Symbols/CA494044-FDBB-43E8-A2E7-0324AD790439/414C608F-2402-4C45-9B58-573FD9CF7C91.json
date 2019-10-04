@@ -34,9 +34,15 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "94CF4A7F-B62E-4659-82B4-BECC9B88F750",
+      "do_objectID": "4030B8F1-812E-4AC4-91F0-5EADD8A5D406",
       "overrideName": "1F2EE244-66A4-47E0-99A6-321BB3D2D447_stringValue",
       "value": "Tickets"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AC088FE1-EAA9-46E2-A165-C12365C828E2",
+      "overrideName": "BD851650-D9F9-4237-876B-51CA833F5106_layerStyle",
+      "value": "0643C7FF-DFB6-44FF-890E-14F34026E6F8"
     }
   ],
   "resizingConstraint": 63,

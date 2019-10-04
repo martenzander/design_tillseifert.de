@@ -20,7 +20,7 @@
     "height": 50,
     "width": 310,
     "x": 32,
-    "y": 3734
+    "y": 2816
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -36,9 +36,15 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "9C22A7E1-F951-43FB-BA5A-DE0CFAB334E2",
+      "do_objectID": "0DCB28EC-B66F-4D8E-89BD-862279A16620",
       "overrideName": "1F2EE244-66A4-47E0-99A6-321BB3D2D447_stringValue",
       "value": "Jetzt kaufen"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8EA1B082-0900-4C7B-9676-E977A0EFF377",
+      "overrideName": "BD851650-D9F9-4237-876B-51CA833F5106_layerStyle",
+      "value": "0643C7FF-DFB6-44FF-890E-14F34026E6F8"
     }
   ],
   "resizingConstraint": 63,

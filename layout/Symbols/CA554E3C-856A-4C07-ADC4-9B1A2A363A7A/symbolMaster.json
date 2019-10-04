@@ -4,12 +4,12 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 4,
+  "changeIdentifier": 330,
   "clippingMaskMode": 0,
   "do_objectID": "CA554E3C-856A-4C07-ADC4-9B1A2A363A7A",
   "exportOptions": {
@@ -24,15 +24,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 150,
-    "width": 390,
+    "height": 201,
+    "width": 352,
     "x": 4208,
-    "y": 0
+    "y": 301
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -54,13 +54,38 @@
   "layers": [
     {
       "class": "group",
-      "id": "A6BDA975-BB56-4087-9002-DFC53D1B76A5"
+      "id": "20535984-A02D-472A-92ED-C1444B67CE2B"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 17.5,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 15,
+    "guttersOutside": false,
+    "horizontalOffset": 7.5,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 375
+  },
   "maintainScrollPosition": false,
-  "name": "misc/stoerer",
-  "nameIsFixed": false,
+  "name": "misc/stoerer/left",
+  "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A85B579C-D7BB-46FA-BD07-B2F7455B0F01_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "68202406-86B8-46F1-9936-9B9AD85CAE1A_stringValue"
+    }
   ],
   "presetDictionary": {
   },

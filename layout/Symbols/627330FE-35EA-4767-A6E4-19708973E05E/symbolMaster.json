@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 9995,
+  "changeIdentifier": 10004,
   "clippingMaskMode": 0,
   "do_objectID": "627330FE-35EA-4767-A6E4-19708973E05E",
   "exportOptions": {
@@ -26,7 +26,7 @@
     "constrainProportions": false,
     "height": 304,
     "width": 681,
-    "x": 6438,
+    "x": 6400,
     "y": 0
   },
   "groupLayout": {
@@ -61,6 +61,21 @@
       "id": "13DDB9B4-3E65-4A62-A342-44396A19C350"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 17.5,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 15,
+    "guttersOutside": false,
+    "horizontalOffset": 153,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 375
+  },
   "maintainScrollPosition": false,
   "name": "section-headline/lg-md",
   "nameIsFixed": true,

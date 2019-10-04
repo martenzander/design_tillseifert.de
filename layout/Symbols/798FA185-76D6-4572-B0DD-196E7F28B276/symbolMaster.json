@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 247,
+  "changeIdentifier": 254,
   "clippingMaskMode": 0,
   "do_objectID": "798FA185-76D6-4572-B0DD-196E7F28B276",
   "exportOptions": {
@@ -105,6 +105,21 @@
       "id": "1E1C198E-BE9D-4440-AD97-465E4195EF1E"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 17.5,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 15,
+    "guttersOutside": false,
+    "horizontalOffset": 326.5,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 375
+  },
   "maintainScrollPosition": false,
   "name": "logo/white",
   "nameIsFixed": true,

@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 107,
+  "changeIdentifier": 116,
   "clippingMaskMode": 0,
   "do_objectID": "CFE32554-2BD4-4432-B5BF-561D65764D9F",
   "exportOptions": {
@@ -26,7 +26,7 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 7319,
+    "x": 7281,
     "y": 124
   },
   "groupLayout": {
@@ -57,6 +57,21 @@
       "id": "BAED635D-B5B0-4E05-A0A1-7A7608EFD5B5"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 17.5,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 15,
+    "guttersOutside": false,
+    "horizontalOffset": -175.5,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 375
+  },
   "maintainScrollPosition": false,
   "name": "ui/slider/indicator/inactive",
   "nameIsFixed": false,

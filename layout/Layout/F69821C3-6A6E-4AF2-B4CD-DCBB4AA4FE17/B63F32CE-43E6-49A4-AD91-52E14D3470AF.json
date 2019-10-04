@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 100,
-    "width": 720,
-    "x": 24,
+    "width": 768,
+    "x": 0,
     "y": 1521
   },
   "hasClippingMask": false,
@@ -34,31 +34,31 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "BE6255A1-AAE4-4F97-9D14-35223FC0AF8E",
+      "do_objectID": "E0AB219F-45C7-4B53-9BED-C3228C425A94",
       "overrideName": "10ED07C2-4268-49FB-A41D-924FFEDCD0B0_stringValue",
       "value": "Hamburg (DE)"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "75C65764-701F-4C02-9EA5-7DECEA09ECF5",
+      "do_objectID": "FA8844B8-8FF0-4B17-9C77-412F21CB988D",
       "overrideName": "EA83F393-2D42-47FD-885E-616AD497223B_stringValue",
       "value": "Logo"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "E91700CB-F6A3-49CE-89DF-301A068D0790",
+      "do_objectID": "77E838D6-BC61-446F-8684-71F79A19062D",
       "overrideName": "D7503CDB-F0D7-4B46-B744-9D153298BA95_stringValue",
       "value": "Jul"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "21E84D9D-B370-46F8-9DFC-64F39D34AEF5",
+      "do_objectID": "8F3F1699-D3BF-4680-B437-9E46379F34A7",
       "overrideName": "8BFFC259-C461-4609-9F42-9E3996E7EEC5_stringValue",
       "value": "Sa"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "6823C238-43A5-4576-B5DD-C9F7B84BDC76",
+      "do_objectID": "3F14ADE6-A7B6-4DE4-93FF-EFC726A09084",
       "overrideName": "D368D524-326F-4606-BDE4-B4A606E2E20B_stringValue",
       "value": "10"
     }

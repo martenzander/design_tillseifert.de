@@ -16,9 +16,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0.9999999999999716,
-    "width": 719,
-    "x": 1.5,
+    "height": 1,
+    "width": 768,
+    "x": 0,
     "y": 99.00000000000001
   },
   "hasClippingMask": false,
@@ -37,22 +37,22 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.00052137643378519281, 0.50000000000000022}",
+      "curveFrom": "{0.0024412365311087935, 0.49999999999998601}",
       "curveMode": 1,
-      "curveTo": "{0.00052137643378519281, 0.50000000000000022}",
+      "curveTo": "{0.0024412365311087935, 0.49999999999998601}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.00052137643378519281, 0.50000000000000022}"
+      "point": "{0, 0.49999999999998579}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.00052137643378519281, 0.50000000000000022}",
+      "curveFrom": "{0.0024412365311087935, 0.49999999999998601}",
       "curveMode": 1,
-      "curveTo": "{0.00052137643378519281, 0.50000000000000022}",
+      "curveTo": "{0.0024412365311087935, 0.49999999999998601}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.99947862356621486, 0.5}"
+      "point": "{1, 0.49999999999998579}"
     }
   ],
   "resizingConstraint": 63,

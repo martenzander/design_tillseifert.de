@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 10201,
+  "changeIdentifier": 10210,
   "clippingMaskMode": 0,
   "do_objectID": "44CB9311-7F98-41E8-9815-E0578654F0ED",
   "exportOptions": {
@@ -26,7 +26,7 @@
     "constrainProportions": false,
     "height": 200,
     "width": 681,
-    "x": 6438,
+    "x": 6400,
     "y": 404
   },
   "groupLayout": {
@@ -57,15 +57,25 @@
       "id": "268BEA9F-B635-464E-988A-45931CF2D712"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 17.5,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 15,
+    "guttersOutside": false,
+    "horizontalOffset": 153,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 375
+  },
   "maintainScrollPosition": false,
   "name": "section-headline/sm",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "645C4CF4-2492-4E59-B657-DC795C2E6377_stringValue"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
@@ -75,6 +85,11 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "645C4CF4-2492-4E59-B657-DC795C2E6377_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "645C4CF4-2492-4E59-B657-DC795C2E6377_stringValue"
     }
   ],
   "presetDictionary": {

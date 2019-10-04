@@ -23,7 +23,7 @@
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 1,
             "allowsDefaultTighteningForTruncation": 0
           },
           "textStyleVerticalAlignmentKey": 0
@@ -53,10 +53,10 @@
     "constrainProportions": false,
     "height": 58,
     "width": 76,
-    "x": 0,
+    "x": 24,
     "y": 21
   },
-  "glyphBounds": "{{1, 11}, {64, 36}}",
+  "glyphBounds": "{{12, 11}, {64, 36}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -135,7 +135,7 @@
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 1,
           "allowsDefaultTighteningForTruncation": 0
         },
         "textStyleVerticalAlignmentKey": 0
