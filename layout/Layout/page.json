@@ -278,6 +278,14 @@
     {
       "class": "artboard",
       "id": "10FACE58-2ECF-4A32-8610-C612C86E655A"
+    },
+    {
+      "class": "bitmap",
+      "id": "9CF45862-7155-4796-9248-F7F2D82BBA74"
+    },
+    {
+      "class": "group",
+      "id": "5D2C2982-FF35-494C-83D5-830FE449D718"
     }
   ],
   "maintainScrollPosition": false,

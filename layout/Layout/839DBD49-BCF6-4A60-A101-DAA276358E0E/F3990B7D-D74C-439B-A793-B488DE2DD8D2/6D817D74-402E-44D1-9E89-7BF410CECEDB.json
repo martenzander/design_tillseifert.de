@@ -1,0 +1,112 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6D817D74-402E-44D1-9E89-7BF410CECEDB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C0C420E1-9AE0-4939-98EA-CA8EB1BF8F15",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5DEE23C3-7284-424A-9FFD-7DD18019FB4B",
+    "height": 304,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "section-headline",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "32279572-56C4-44CD-8FC7-EA2B4F18D145_stringValue",
+      "value": "Kalender"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8212F34A-5D41-4DB8-9DE4-AE49E898DDA5",
+      "overrideName": "13DDB9B4-3E65-4A62-A342-44396A19C350_stringValue",
+      "value": "Konzerte"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B305235A-B02B-4B34-A554-3C50C79310DC",
+      "overrideName": "70ACF8FC-F4B7-4C92-B9C7-89A2C0303FA9_stringValue",
+      "value": "Termine"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "B8D83288-8FE5-45CD-B470-8650AA3CC04D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "3AC4DE20-70C5-4F2A-B8B5-1D5DAF87E927",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "D4DAFD62-362A-4D32-94FB-9B4DC4873657",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "5356B357-D434-46F0-9A78-8D33DF459ACA",
+      "opacity": 1
+    },
+    "do_objectID": "9D294210-E863-49DD-93A2-B96149EBB5DC",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "487C073C-3B8A-421E-A942-A4F571757B76",
+  "verticalSpacing": 0
+}

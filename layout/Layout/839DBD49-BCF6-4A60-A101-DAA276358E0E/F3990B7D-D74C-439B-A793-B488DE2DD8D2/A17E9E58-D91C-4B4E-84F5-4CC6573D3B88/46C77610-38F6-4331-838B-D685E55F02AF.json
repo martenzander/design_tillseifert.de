@@ -1,0 +1,130 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "46C77610-38F6-4331-838B-D685E55F02AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9F84E6A9-5489-41D0-892E-C82F3A1A87DC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4C0E3739-065C-414E-AAF9-226E45345C7D",
+    "height": 100,
+    "width": 1140,
+    "x": 0,
+    "y": 792
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "maintainScrollPosition": false,
+  "name": "wireframes/concerts/entry",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "76C36C07-AF20-4C86-BA7D-28CED166AE0A_stringValue",
+      "value": "Tickets"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "341126B7-3E7B-4F43-9B14-B19262FF6CC6",
+      "overrideName": "41776C87-0BFF-46B9-8A99-62FA711E0CF5_stringValue",
+      "value": "Wien (AUT)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B5FD264A-A20B-4BDE-BB2B-3CFB7C1DD452",
+      "overrideName": "135F15FC-07A7-4B55-AFA3-8BA09E7D5449_stringValue",
+      "value": "Konzerthaus"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EA0ECE2E-7D5C-46B9-8FA5-31E8B17145E3",
+      "overrideName": "19239148-CDF3-4B50-AAD9-182A8A3CC358_stringValue",
+      "value": "Jul"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "19B777A1-2BE2-4167-BD7B-52BB005A0997",
+      "overrideName": "3EE00834-C41D-4F99-A6BF-B57997BA3242_stringValue",
+      "value": "So"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2D7CFED4-04CE-4178-A2BF-C5005A9F2C92",
+      "overrideName": "8B0F193B-34D7-4F4F-B6D8-69A106B86180_stringValue",
+      "value": "25"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "021C5083-D76D-477E-936A-4D0C1756C981",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "26F0871D-D114-4833-B9F0-9BFAD5A2755E",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "BEFF1BC9-2EDF-4AFF-9422-140CD8A91D1F",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "D834C828-867E-478A-9BC1-A2193FDBD1ED",
+      "opacity": 1
+    },
+    "do_objectID": "05878153-AA29-4D56-822C-36D34BBEF75D",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "707B0A64-5C1A-4BB6-A0F4-1E45A199EA73",
+  "verticalSpacing": 0
+}
