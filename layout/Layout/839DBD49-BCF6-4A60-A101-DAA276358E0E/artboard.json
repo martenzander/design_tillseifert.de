@@ -31,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 8815,
+    "height": 6540,
     "width": 1440,
     "x": 2200,
     "y": 43
@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -64,11 +64,11 @@
     },
     {
       "class": "group",
-      "id": "F3990B7D-D74C-439B-A793-B488DE2DD8D2"
+      "id": "80502D94-5DAD-4BD1-A7F6-DCD304432CDB"
     },
     {
-      "class": "symbolInstance",
-      "id": "D4BB6947-696A-44DA-A9FE-3FA5BD7442D5"
+      "class": "group",
+      "id": "F3990B7D-D74C-439B-A793-B488DE2DD8D2"
     },
     {
       "class": "group",
@@ -135,48 +135,8 @@
       "id": "F88158CF-1FC6-4919-9EA3-D36AAE05AA02"
     },
     {
-      "class": "bitmap",
-      "id": "D4C8E203-38DE-4EDB-9DF4-ADAD9CAE1F41"
-    },
-    {
-      "class": "text",
-      "id": "5F223B75-D999-4DCB-BA47-B5368C4AD920"
-    },
-    {
-      "class": "text",
-      "id": "6A5D0257-8856-47B9-B9C6-C1E7C17C28E9"
-    },
-    {
-      "class": "text",
-      "id": "1DC11AFD-72C7-443D-B88E-C0E09091AE6A"
-    },
-    {
-      "class": "text",
-      "id": "425C898C-82FB-4BA9-8279-468B48B66013"
-    },
-    {
-      "class": "text",
-      "id": "96D4DB7F-8C86-4210-B464-E11391881D47"
-    },
-    {
-      "class": "text",
-      "id": "649EBF48-6994-4E59-8870-7E7417657960"
-    },
-    {
       "class": "symbolInstance",
-      "id": "064D3241-3E55-46FA-848C-18EC629D86C8"
-    },
-    {
-      "class": "bitmap",
-      "id": "B4F670A1-5713-4124-B635-B78AE9BE42CE"
-    },
-    {
-      "class": "group",
-      "id": "DBC911C1-9D14-4475-A9E1-8C17A9F9B783"
-    },
-    {
-      "class": "rectangle",
-      "id": "7879E128-9CC1-4A4B-9937-0AC281C115C1"
+      "id": "5C033CF1-D103-48F8-85E2-96DD1FF231F6"
     }
   ],
   "layout": {
@@ -195,7 +155,7 @@
     "totalWidth": 1140
   },
   "maintainScrollPosition": false,
-  "name": "lg dark",
+  "name": "lg",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

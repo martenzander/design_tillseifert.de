@@ -1,0 +1,118 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F0B0A971-EABF-4218-B11D-706CE329A35E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 768,
+    "x": 0,
+    "y": 200
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "concerts-list/entry/sm copy 8",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DFABC591-6A1C-40F9-A731-2406ED69D1E6",
+      "overrideName": "10ED07C2-4268-49FB-A41D-924FFEDCD0B0_stringValue",
+      "value": "Hannover (DE)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A067B03F-E0BE-4DD1-8194-C4C6A45DA7A6",
+      "overrideName": "EA83F393-2D42-47FD-885E-616AD497223B_stringValue",
+      "value": "HDI Arena"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "832C309C-2806-4A56-B6B3-82E4E1275C35",
+      "overrideName": "D7503CDB-F0D7-4B46-B744-9D153298BA95_stringValue",
+      "value": "Jun"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8266CB1B-77D5-4959-B422-CCC286EAEB33",
+      "overrideName": "8BFFC259-C461-4609-9F42-9E3996E7EEC5_stringValue",
+      "value": "So"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A5ABAAB0-A357-407D-8538-1CEFA8CD50FC",
+      "overrideName": "D368D524-326F-4606-BDE4-B4A606E2E20B_stringValue",
+      "value": "21"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F68DDDE1-39EA-4638-A274-68918160F77E",
+  "verticalSpacing": 0
+}

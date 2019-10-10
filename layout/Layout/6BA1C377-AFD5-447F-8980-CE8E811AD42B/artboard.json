@@ -62,16 +62,16 @@
       "id": "DA7A282A-4F32-4627-B9D8-796E5A6195BA"
     },
     {
-      "class": "text",
-      "id": "294F245B-254D-4CCB-8BB5-FB61C1589513"
-    },
-    {
       "class": "symbolInstance",
       "id": "E7B61312-FDF7-480C-9689-78596A286DA1"
     },
     {
       "class": "symbolInstance",
       "id": "D5A7A3D0-EC2B-428C-B44F-DE90D646D207"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1EABC47D-E1AF-4DC2-921D-C92651B81FD8"
     }
   ],
   "layout": {

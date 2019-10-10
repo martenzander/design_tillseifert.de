@@ -18,7 +18,7 @@
     "height": 800,
     "width": 1440,
     "x": 0,
-    "y": 8015
+    "y": 5740
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -41,8 +41,8 @@
       "id": "EFD88C98-9018-442F-B64C-104B2A9EA07C"
     },
     {
-      "class": "text",
-      "id": "4457CBD7-5A5B-4E28-9883-AB679F58765B"
+      "class": "symbolInstance",
+      "id": "6DDA6917-F408-4682-B45F-BC22483F7A0B"
     },
     {
       "class": "symbolInstance",

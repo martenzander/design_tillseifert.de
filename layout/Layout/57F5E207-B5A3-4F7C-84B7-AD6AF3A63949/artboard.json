@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -22,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 9901,
+    "height": 5856,
     "width": 375,
     "x": 6572,
     "y": 43
@@ -88,6 +97,10 @@
     {
       "class": "group",
       "id": "D8C5A602-0964-4338-A553-D9605C795321"
+    },
+    {
+      "class": "group",
+      "id": "EB0BE209-A527-4478-801A-8443BF469973"
     },
     {
       "class": "group",
@@ -226,10 +239,6 @@
       "id": "CF98EE3A-9933-414B-8264-25A945E26D9E"
     },
     {
-      "class": "symbolInstance",
-      "id": "77F211E6-DAD1-4C16-A9B8-4765D0C5204F"
-    },
-    {
       "class": "group",
       "id": "4DE2E5AA-E3D8-4B39-B7CE-5B0CA5E9E829"
     },
@@ -240,6 +249,14 @@
     {
       "class": "symbolInstance",
       "id": "EDB9A07E-68FD-467B-A90D-0BBF800CBDE0"
+    },
+    {
+      "class": "text",
+      "id": "D0097244-C44D-4107-8C65-1B65D9786768"
+    },
+    {
+      "class": "text",
+      "id": "F5196988-9319-4742-84E5-DFB0B0B07C99"
     }
   ],
   "layout": {

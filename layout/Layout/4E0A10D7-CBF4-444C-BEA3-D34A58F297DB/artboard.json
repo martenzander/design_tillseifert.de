@@ -82,12 +82,12 @@
       "id": "47F1DF34-491D-4E90-B428-2E656B78903C"
     },
     {
-      "class": "text",
-      "id": "B0D4DB8B-1633-48C1-BA36-B2C43E21F9A6"
-    },
-    {
       "class": "group",
       "id": "DCC2F646-5021-43DD-8C7A-1EE1528FC654"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0CB8957F-B4D1-4103-BA90-B1E613831D12"
     }
   ],
   "layout": {

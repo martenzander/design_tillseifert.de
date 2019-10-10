@@ -17,7 +17,7 @@
     "constrainProportions": false,
     "height": 809,
     "width": 1440,
-    "x": 1.5,
+    "x": 2,
     "y": 1749
   },
   "groupLayout": {
@@ -28,7 +28,7 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [

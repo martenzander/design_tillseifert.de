@@ -1,0 +1,118 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "39ACEF13-8961-4867-8FC8-350D1FB3E680",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 960,
+    "x": 32,
+    "y": 799
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "concerts-list/entry/md copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6C30CB25-F958-4E8F-A46D-7D933E1595C2",
+      "overrideName": "54077E11-C982-4000-8945-2EBC7DBA4297_stringValue",
+      "value": "Leipzig (DE)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "809B09BA-1D01-447B-BD50-FD2EE885D65F",
+      "overrideName": "C974F3D5-C4F0-4FBE-A351-ADE13616AE18_stringValue",
+      "value": "Moritzbastei"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "007B0698-A06A-41C1-B9C9-54FCF95A1CF4",
+      "overrideName": "E626718A-8CD8-4476-A185-370C601737F0_stringValue",
+      "value": "Jul"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B3A14FD8-28F3-41AF-A199-B9C96FB6F7A7",
+      "overrideName": "A18A6B69-3BCC-46F2-8206-8DBCA250687C_stringValue",
+      "value": "Sa"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7347D04A-3280-4D7A-B3A2-2CF61A614E73",
+      "overrideName": "0C60F37E-0C86-4099-AA5E-884F63BD3CF4_stringValue",
+      "value": "17"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8BBD8EF1-F3B4-4384-891A-5F5981B98867",
+  "verticalSpacing": 0
+}

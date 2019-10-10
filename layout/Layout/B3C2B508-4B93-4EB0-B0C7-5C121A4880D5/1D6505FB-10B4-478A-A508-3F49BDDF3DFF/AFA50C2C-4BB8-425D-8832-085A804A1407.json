@@ -1,0 +1,118 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AFA50C2C-4BB8-425D-8832-085A804A1407",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 960,
+    "x": 32,
+    "y": 601
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "concerts-list/entry/md copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "78DEFCB7-D3DC-4434-AF34-ECC54ED4DBA7",
+      "overrideName": "54077E11-C982-4000-8945-2EBC7DBA4297_stringValue",
+      "value": "Hamburg (DE)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "152901D3-37FB-40FD-A81D-33290455A584",
+      "overrideName": "C974F3D5-C4F0-4FBE-A351-ADE13616AE18_stringValue",
+      "value": "Logo"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "542086D2-2C66-4AFA-A108-5706B057B310",
+      "overrideName": "E626718A-8CD8-4476-A185-370C601737F0_stringValue",
+      "value": "Jul"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3D423532-910A-4C3E-9079-8F8398AA8A85",
+      "overrideName": "A18A6B69-3BCC-46F2-8206-8DBCA250687C_stringValue",
+      "value": "Sa"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7C52AEB7-A0E8-4022-B6B8-B7758D761A37",
+      "overrideName": "0C60F37E-0C86-4099-AA5E-884F63BD3CF4_stringValue",
+      "value": "10"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8BBD8EF1-F3B4-4384-891A-5F5981B98867",
+  "verticalSpacing": 0
+}

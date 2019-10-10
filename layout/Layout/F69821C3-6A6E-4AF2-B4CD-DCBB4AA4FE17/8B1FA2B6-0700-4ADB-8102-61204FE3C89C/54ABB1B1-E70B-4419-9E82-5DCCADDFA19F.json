@@ -1,0 +1,113 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "54ABB1B1-E70B-4419-9E82-5DCCADDFA19F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 768,
+    "x": 0,
+    "y": 596
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "concerts-list/entry/sm copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "10ED07C2-4268-49FB-A41D-924FFEDCD0B0_stringValue",
+      "value": "Köln (DE)"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "EA83F393-2D42-47FD-885E-616AD497223B_stringValue",
+      "value": "King Georg"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D7503CDB-F0D7-4B46-B744-9D153298BA95_stringValue",
+      "value": "Jul"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8BFFC259-C461-4609-9F42-9E3996E7EEC5_stringValue",
+      "value": "So"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D368D524-326F-4606-BDE4-B4A606E2E20B_stringValue",
+      "value": "11"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F68DDDE1-39EA-4638-A274-68918160F77E",
+  "verticalSpacing": 0
+}

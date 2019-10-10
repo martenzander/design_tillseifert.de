@@ -1,0 +1,118 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6690FC40-37C5-457D-96A4-0F1C176137BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 960,
+    "x": 32,
+    "y": 403
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "concerts-list/entry/md copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3BEED861-F84D-43B0-8ABD-25222772BE98",
+      "overrideName": "54077E11-C982-4000-8945-2EBC7DBA4297_stringValue",
+      "value": "Berlin (DE)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9DE4178E-294F-4D44-B43B-741FA78489CA",
+      "overrideName": "C974F3D5-C4F0-4FBE-A351-ADE13616AE18_stringValue",
+      "value": "Columbiahalle"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DC917060-9723-4D50-BE5B-7B2599B5D53C",
+      "overrideName": "E626718A-8CD8-4476-A185-370C601737F0_stringValue",
+      "value": "Jul"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A4FC41D3-6698-40AA-9D2C-F31E2751E205",
+      "overrideName": "A18A6B69-3BCC-46F2-8206-8DBCA250687C_stringValue",
+      "value": "Di"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0E07F58D-FC48-4C4A-BD77-B459C895D050",
+      "overrideName": "0C60F37E-0C86-4099-AA5E-884F63BD3CF4_stringValue",
+      "value": "06"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8BBD8EF1-F3B4-4384-891A-5F5981B98867",
+  "verticalSpacing": 0
+}
