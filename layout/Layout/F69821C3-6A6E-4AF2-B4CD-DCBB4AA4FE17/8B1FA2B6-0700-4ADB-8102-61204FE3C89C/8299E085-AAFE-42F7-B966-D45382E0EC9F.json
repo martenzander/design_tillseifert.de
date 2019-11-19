@@ -34,31 +34,26 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "AC108DDC-3109-4923-BC91-DA5D262784D0",
       "overrideName": "10ED07C2-4268-49FB-A41D-924FFEDCD0B0_stringValue",
       "value": "Zürich (CHE)"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "F5A4F500-F732-40F9-A919-390A38011EF5",
       "overrideName": "EA83F393-2D42-47FD-885E-616AD497223B_stringValue",
       "value": "Halle 622"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "0C5234F7-525D-46A9-B665-EF63072B6D35",
       "overrideName": "D7503CDB-F0D7-4B46-B744-9D153298BA95_stringValue",
       "value": "Jul"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "DB939EFE-B16A-4766-B5F1-5169AA997231",
       "overrideName": "8BFFC259-C461-4609-9F42-9E3996E7EEC5_stringValue",
       "value": "Sa"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "097E4740-9A05-4956-AD04-AEEDD477F67B",
       "overrideName": "D368D524-326F-4606-BDE4-B4A606E2E20B_stringValue",
       "value": "24"
     }
@@ -102,6 +97,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "694A57A4-7063-4797-8D50-7A28F5E2C003",
     "endMarkerType": 0,
     "fills": [
     ],

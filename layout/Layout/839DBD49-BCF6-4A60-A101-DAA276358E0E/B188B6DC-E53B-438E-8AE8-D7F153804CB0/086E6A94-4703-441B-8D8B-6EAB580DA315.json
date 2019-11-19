@@ -34,13 +34,11 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "AAA394D5-CEB9-4834-A9E5-9771DEBB8268",
       "overrideName": "BD851650-D9F9-4237-876B-51CA833F5106_layerStyle",
       "value": "0643C7FF-DFB6-44FF-890E-14F34026E6F8"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "B0B9233E-E565-48A5-997D-3041BB7AC05E",
       "overrideName": "1F2EE244-66A4-47E0-99A6-321BB3D2D447_stringValue",
       "value": "Jetzt kaufen"
     }
@@ -84,6 +82,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "1AC9EA96-EBB4-429D-94D2-6138E3D99919",
     "endMarkerType": 0,
     "fills": [
     ],

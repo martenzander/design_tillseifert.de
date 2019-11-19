@@ -5,7 +5,6 @@
   "do_objectID": "7EAEE2B1-A10C-48A2-93BA-5264203FFF13",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5B590F67-E0DB-4558-973B-55122BADBC5A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DA8B287E-1CC9-478F-AA71-D0949B5EF639",
     "height": 100,
     "width": 1140,
     "x": 0,
@@ -41,31 +39,26 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "616BD11C-CA7E-4E0C-8218-02711990EC15",
       "overrideName": "41776C87-0BFF-46B9-8A99-62FA711E0CF5_stringValue",
       "value": "Zürich (CHE)"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "15A38453-4086-40F2-BC84-56AB115E4218",
       "overrideName": "135F15FC-07A7-4B55-AFA3-8BA09E7D5449_stringValue",
       "value": "Halle 622"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "43D534D1-CA80-4116-893C-34F055ED1FC8",
       "overrideName": "19239148-CDF3-4B50-AAD9-182A8A3CC358_stringValue",
       "value": "Jul"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "B397681C-FA05-492D-BF76-67270236B8AE",
       "overrideName": "3EE00834-C41D-4F99-A6BF-B57997BA3242_stringValue",
       "value": "Sa"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "FFA69D83-D943-4EDC-86D9-636832FAB150",
       "overrideName": "8B0F193B-34D7-4F4F-B6D8-69A106B86180_stringValue",
       "value": "24"
     }
@@ -80,7 +73,6 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "C5285103-38A1-480B-8B5D-B72412E70070",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -91,7 +83,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "B5163D60-DE82-4B35-9EB4-B5E6DAF39158",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -102,7 +93,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "65025BFC-E642-4A9C-984B-820177813672",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -110,7 +100,6 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "E926AE09-583D-4267-9790-6F85B0EB2632",
       "opacity": 1
     },
     "do_objectID": "CB455D95-D46C-410B-A73C-AA9FE48D85A5",

@@ -240,7 +240,23 @@
     },
     {
       "class": "group",
-      "id": "4DE2E5AA-E3D8-4B39-B7CE-5B0CA5E9E829"
+      "id": "5E0AAB33-17C2-46E2-BC5B-1FDA239586B4"
+    },
+    {
+      "class": "text",
+      "id": "AC34DDC2-DB67-468C-89A2-FE6E84661CBB"
+    },
+    {
+      "class": "text",
+      "id": "E9197839-97E1-4889-A4D7-16A81955BCC8"
+    },
+    {
+      "class": "text",
+      "id": "CB4145CD-4948-46CB-90C6-D47F2134BC7E"
+    },
+    {
+      "class": "group",
+      "id": "8C502529-61E3-4F6A-A247-BF6151B2E4A5"
     },
     {
       "class": "bitmap",
@@ -323,6 +339,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "BF008F76-CBC5-4827-8CCE-92B729C60682",
     "endMarkerType": 0,
     "fills": [
     ],

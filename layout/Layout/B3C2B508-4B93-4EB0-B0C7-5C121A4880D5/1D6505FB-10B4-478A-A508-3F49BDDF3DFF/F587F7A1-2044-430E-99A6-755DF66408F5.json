@@ -34,31 +34,26 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "FB10B136-8BF0-42C9-8289-FD56D25D9FC3",
       "overrideName": "54077E11-C982-4000-8945-2EBC7DBA4297_stringValue",
       "value": "Wien (AUT)"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "93C065B1-32EB-471E-A5A4-C44CFC0AEBC9",
       "overrideName": "C974F3D5-C4F0-4FBE-A351-ADE13616AE18_stringValue",
       "value": "Konzerthaus"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "86BE9B98-5D84-4050-913C-32291EDD6669",
       "overrideName": "E626718A-8CD8-4476-A185-370C601737F0_stringValue",
       "value": "Jul"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "A8F2178D-0C75-4AD7-9EC0-590815F23DA2",
       "overrideName": "A18A6B69-3BCC-46F2-8206-8DBCA250687C_stringValue",
       "value": "So"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "C93B4409-FDD8-4A8B-94BE-55AC86F9C4BB",
       "overrideName": "0C60F37E-0C86-4099-AA5E-884F63BD3CF4_stringValue",
       "value": "25"
     }
@@ -102,6 +97,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "1629BA6A-2C1A-4361-9D23-1AA3162D06DE",
     "endMarkerType": 0,
     "fills": [
     ],

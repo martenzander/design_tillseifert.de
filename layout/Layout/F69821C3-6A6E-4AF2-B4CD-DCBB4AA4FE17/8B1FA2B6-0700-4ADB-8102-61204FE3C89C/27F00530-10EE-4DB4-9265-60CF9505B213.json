@@ -34,31 +34,26 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "4F7E8A17-969E-4701-88D3-772623FF4048",
       "overrideName": "10ED07C2-4268-49FB-A41D-924FFEDCD0B0_stringValue",
       "value": "München (DE)"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "EBC91088-7758-4B1C-AC75-013DA15A2E15",
       "overrideName": "EA83F393-2D42-47FD-885E-616AD497223B_stringValue",
       "value": "Feierwerk"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "68433D3B-B664-4392-856F-EE73CDD1981D",
       "overrideName": "D7503CDB-F0D7-4B46-B744-9D153298BA95_stringValue",
       "value": "Jul"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "036113DC-345E-4895-807E-4DE42D3193DB",
       "overrideName": "8BFFC259-C461-4609-9F42-9E3996E7EEC5_stringValue",
       "value": "So"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "82F63EDE-40E8-49A9-A688-D6C26D711F53",
       "overrideName": "D368D524-326F-4606-BDE4-B4A606E2E20B_stringValue",
       "value": "18"
     }
@@ -102,6 +97,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "BE3356A2-08CD-4D96-9736-D3336431A21F",
     "endMarkerType": 0,
     "fills": [
     ],

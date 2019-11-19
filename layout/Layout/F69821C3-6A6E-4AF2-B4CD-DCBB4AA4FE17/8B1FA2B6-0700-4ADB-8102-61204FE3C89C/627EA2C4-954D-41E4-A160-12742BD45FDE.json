@@ -34,31 +34,26 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "58922775-50C7-4795-894F-2E5A7F88137E",
       "overrideName": "10ED07C2-4268-49FB-A41D-924FFEDCD0B0_stringValue",
       "value": "Leipzig (DE)"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "3B7EDACA-22F4-49C1-8BA5-81F1335ED7C5",
       "overrideName": "EA83F393-2D42-47FD-885E-616AD497223B_stringValue",
       "value": "Moritzbastei"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "2EBFE2A1-06A2-4336-A597-DBC9BC0C5DA6",
       "overrideName": "D7503CDB-F0D7-4B46-B744-9D153298BA95_stringValue",
       "value": "Jul"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "24A1AFA4-BE79-41C5-BDC9-7DB677437CDA",
       "overrideName": "8BFFC259-C461-4609-9F42-9E3996E7EEC5_stringValue",
       "value": "Sa"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "9AA27899-09BB-4E25-911C-7835CA66754E",
       "overrideName": "D368D524-326F-4606-BDE4-B4A606E2E20B_stringValue",
       "value": "17"
     }
@@ -102,6 +97,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "74A9C809-FB69-4C15-942D-6F6D133466B8",
     "endMarkerType": 0,
     "fills": [
     ],

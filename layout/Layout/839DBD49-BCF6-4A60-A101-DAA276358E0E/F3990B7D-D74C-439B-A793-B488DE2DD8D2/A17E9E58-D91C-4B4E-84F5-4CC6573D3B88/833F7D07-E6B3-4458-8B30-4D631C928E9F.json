@@ -5,7 +5,6 @@
   "do_objectID": "833F7D07-E6B3-4458-8B30-4D631C928E9F",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5D5F93CE-5447-40BB-B02C-B42082152627",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "96160B6D-8C72-4DAE-A952-538E0322C345",
     "height": 100,
     "width": 1140,
     "x": 0,
@@ -41,31 +39,26 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "7D786AFA-258D-4E05-B172-B2AA27484E85",
       "overrideName": "41776C87-0BFF-46B9-8A99-62FA711E0CF5_stringValue",
       "value": "Leipzig (DE)"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "6DDB5F1C-0EDE-45D4-9B20-5714806BF48C",
       "overrideName": "135F15FC-07A7-4B55-AFA3-8BA09E7D5449_stringValue",
       "value": "Moritzbastei"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "4391E6D9-8CCD-4079-A602-0A389D028B82",
       "overrideName": "19239148-CDF3-4B50-AAD9-182A8A3CC358_stringValue",
       "value": "Jul"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "CB376824-0856-4B32-AF8F-718D3C58D935",
       "overrideName": "3EE00834-C41D-4F99-A6BF-B57997BA3242_stringValue",
       "value": "Sa"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "E3F70C15-3E11-44E5-AA62-9DC235564020",
       "overrideName": "8B0F193B-34D7-4F4F-B6D8-69A106B86180_stringValue",
       "value": "17"
     }
@@ -80,7 +73,6 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "3B09F2D7-9BDF-46C4-AF48-0A645D0CDA37",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -91,7 +83,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "000499B4-77A0-4243-A922-7B7FCFAD83E3",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -102,7 +93,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "E8E0A54F-F823-4936-A6BD-978286EA018D",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -110,7 +100,6 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "81D4973C-F48A-4AB4-9231-E9D1F8E4400D",
       "opacity": 1
     },
     "do_objectID": "FB6E38A2-EB5E-40D0-A669-1D0F9FC7A93D",

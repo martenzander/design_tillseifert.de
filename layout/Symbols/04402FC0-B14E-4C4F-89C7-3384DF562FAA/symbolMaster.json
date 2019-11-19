@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 5,
+  "changeIdentifier": 29,
   "clippingMaskMode": 0,
   "do_objectID": "04402FC0-B14E-4C4F-89C7-3384DF562FAA",
   "exportOptions": {
@@ -50,11 +50,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "8A43391D-AA26-4259-81BE-53AA119E5F23"
+      "class": "rectangle",
+      "id": "F78D13B4-716F-42E5-A2FC-86D184E4220C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BE7FE611-25A6-4EA5-82C6-7225A99CDDEB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F008C5B2-4B1F-4AB7-AC2F-AB284E78C436"
     },
     {
       "class": "group",
@@ -65,6 +73,36 @@
   "name": "header/sticky/lg",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F008C5B2-4B1F-4AB7-AC2F-AB284E78C436_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BE7FE611-25A6-4EA5-82C6-7225A99CDDEB_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "63797916-442B-4112-B844-A4BC7F4AA5C7_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0270B804-E780-4A34-8CD6-76C04BC749E1_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1E287768-E1EB-43CE-BA77-62E261C03C84_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "79F828EC-B5C9-4613-AB72-EA9DE21E7F36_symbolID"
+    }
   ],
   "presetDictionary": {
   },
@@ -107,6 +145,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "A4EFEB94-6E14-4DC2-8827-129ECB317507",
     "endMarkerType": 0,
     "fills": [
     ],

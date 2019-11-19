@@ -54,8 +54,24 @@
       "id": "DE0089EE-259C-4AD0-B1DC-CB3E53DD1506"
     },
     {
-      "class": "group",
-      "id": "64213BCF-5398-486D-8817-544DEE252CD3"
+      "class": "text",
+      "id": "74F1A96C-6708-4E34-A00A-137276962122"
+    },
+    {
+      "class": "text",
+      "id": "23369493-2513-46BA-BE43-71550DDDCDC4"
+    },
+    {
+      "class": "text",
+      "id": "3FD30F17-39B2-4782-90A8-C2C78BED6B35"
+    },
+    {
+      "class": "text",
+      "id": "5EA1F9F4-A839-49F2-BCEF-3057E2EAEBCF"
+    },
+    {
+      "class": "text",
+      "id": "EED130A5-ADC8-4A60-898C-164AE56CE72E"
     },
     {
       "class": "symbolInstance",
@@ -138,6 +154,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "02A789B7-8459-49EC-B36D-F5ADACB95386",
     "endMarkerType": 0,
     "fills": [
     ],

@@ -34,13 +34,11 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "E8968ACF-A743-4F05-A932-84995EAD6BF5",
       "overrideName": "C945F93B-215D-451C-AB36-F5D3866C530A_stringValue",
       "value": "Konzerte"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "25A74A37-25FD-4C78-A59E-85158EBCFC0D",
       "overrideName": "D7105628-4A06-4AF2-93CA-D8217DDC97F2_stringValue",
       "value": "Termine"
     }
@@ -84,6 +82,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "8A9B6B4B-A0CB-442D-9502-D691015BA545",
     "endMarkerType": 0,
     "fills": [
     ],

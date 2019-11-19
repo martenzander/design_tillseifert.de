@@ -17,10 +17,10 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Montserrat-Light",
-              "size": 58
+              "size": 54
             }
           },
-          "kerning": -1,
+          "kerning": -2.531034,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -30,11 +30,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 14,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "DAS NEUE ALBUM"
+    "string": "DIE NEUE EP"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -43,7 +43,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "145D010E-02FF-4740-BC13-78808B8A3B42",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -54,13 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BD4647F1-63D6-429F-8E04-A457FDDEDF3A",
-    "height": 130,
+    "height": 65,
     "width": 352,
     "x": 0,
-    "y": 71
+    "y": 56
   },
-  "glyphBounds": "{{0, 12}, {299, 107}}",
+  "glyphBounds": "{{6, 14}, {324, 39}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,7 +68,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "DAS NEUE ALBUM",
+  "name": "DIE NEUE EP",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -81,7 +79,6 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "CC786AC2-487D-4B4C-8339-57E7DED530E7",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -92,7 +89,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "198A147E-47D4-4CE0-94E0-6861C21ACACA",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -103,7 +99,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "23B53B6A-411E-4D4E-A659-EBEDC0247BF3",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -111,7 +106,6 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "D3360232-519E-4490-BFFE-BE965DF90792",
       "opacity": 1
     },
     "do_objectID": "D9E092A5-7EC6-447D-A0D2-1DADEB17B110",
@@ -126,7 +120,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "181AE864-B7B5-4CC5-8DDA-32CEC9745FB5",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -139,10 +132,10 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Montserrat-Light",
-            "size": 58
+            "size": 54
           }
         },
-        "kerning": -1,
+        "kerning": -2.531034,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,

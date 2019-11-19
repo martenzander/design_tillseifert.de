@@ -5,7 +5,6 @@
   "do_objectID": "61BDF393-6A3A-4277-8469-C51DEA9214EB",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "7A42F21D-1CF9-4109-A51B-8D1B6EB6570C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A6199D14-F864-4CD4-BEC5-7E206B588FB0",
     "height": 304,
     "width": 1024,
     "x": 0,
@@ -41,13 +39,11 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "8212F34A-5D41-4DB8-9DE4-AE49E898DDA5",
       "overrideName": "13DDB9B4-3E65-4A62-A342-44396A19C350_stringValue",
       "value": "Konzerte"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "B305235A-B02B-4B34-A554-3C50C79310DC",
       "overrideName": "70ACF8FC-F4B7-4C92-B9C7-89A2C0303FA9_stringValue",
       "value": "Termine"
     }
@@ -62,7 +58,6 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "A6CFC3F1-9BC3-4DAB-9BBD-4ECD5776F562",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -73,7 +68,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "C9FAE8D5-301A-4DB5-80E7-1EC5917F371D",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -84,7 +78,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "B95D8EA2-EA3B-4934-8A61-D2FE8DFAC9BA",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -92,7 +85,6 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "12CE27EE-CDA2-4AFF-A975-98BEF57267D6",
       "opacity": 1
     },
     "do_objectID": "D6F47AC7-4EA3-4C67-A5F3-24CD294093D7",

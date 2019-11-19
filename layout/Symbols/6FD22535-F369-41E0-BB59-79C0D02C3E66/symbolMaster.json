@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 10448,
+  "changeIdentifier": 10453,
   "clippingMaskMode": 0,
   "do_objectID": "6FD22535-F369-41E0-BB59-79C0D02C3E66",
   "exportOptions": {
@@ -50,11 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "9B709BCC-3ECF-472C-9532-48E4108AF50C"
+      "class": "text",
+      "id": "D7105628-4A06-4AF2-93CA-D8217DDC97F2"
+    },
+    {
+      "class": "text",
+      "id": "C945F93B-215D-451C-AB36-F5D3866C530A"
     }
   ],
   "layout": {
@@ -133,6 +137,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "4E5241D2-2ABF-4218-9307-B36A26538510",
     "endMarkerType": 0,
     "fills": [
     ],

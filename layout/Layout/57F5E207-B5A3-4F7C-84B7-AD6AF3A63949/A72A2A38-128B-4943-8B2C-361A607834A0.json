@@ -5,7 +5,6 @@
   "do_objectID": "A72A2A38-128B-4943-8B2C-361A607834A0",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "8723F209-CFF1-40CE-BC17-D99D76969D8C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0E8228A2-F9F0-40A9-893F-BA2B6EABE81A",
     "height": 50,
     "width": 311,
     "x": 32,
@@ -36,13 +34,11 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "68B769AB-602D-4B44-B98B-BAF76AA2DB22",
       "overrideName": "BD851650-D9F9-4237-876B-51CA833F5106_layerStyle",
       "value": "0643C7FF-DFB6-44FF-890E-14F34026E6F8"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "414AB593-5554-410B-911B-CC441E6BCB00",
       "overrideName": "1F2EE244-66A4-47E0-99A6-321BB3D2D447_stringValue",
       "value": "Jetzt kaufen"
     }
@@ -57,7 +53,6 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "E2633BA5-ECB5-455E-B2A7-EDA5138DC5C0",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -68,7 +63,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "1E56CD8D-CF7F-44A1-9DB1-3552CA1526F3",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -79,7 +73,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "607C0A53-196B-4C4D-99D4-9942C300C921",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -87,7 +80,6 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "6AD5B432-EBAD-4FBC-8CE8-8407ACE79FB8",
       "opacity": 1
     },
     "do_objectID": "F619246D-E34C-40E6-8535-DC8AD19EDE1D",

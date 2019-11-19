@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 5,
+  "changeIdentifier": 20,
   "clippingMaskMode": 0,
   "do_objectID": "DC56B545-22FA-4021-8E11-0990B52FF889",
   "exportOptions": {
@@ -50,17 +50,35 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "C7344672-AC76-46A6-81BD-EED111EF5BD4"
+      "class": "rectangle",
+      "id": "05440E03-9AA3-42F7-BE38-ABC3683060EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D1F319F9-E3DF-4DAD-B399-CD6CBE446589"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "75D312BA-EAFC-4A3A-A72A-7C2ABF7C1013"
     }
   ],
   "maintainScrollPosition": false,
   "name": "header/sticky/xs",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D1F319F9-E3DF-4DAD-B399-CD6CBE446589_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "75D312BA-EAFC-4A3A-A72A-7C2ABF7C1013_symbolID"
+    }
   ],
   "presetDictionary": {
   },
@@ -103,6 +121,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "C9947956-CD69-48B0-A39F-9FC6D4E4DA38",
     "endMarkerType": 0,
     "fills": [
     ],

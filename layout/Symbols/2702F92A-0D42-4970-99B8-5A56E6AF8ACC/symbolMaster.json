@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -115,6 +115,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "E2BAB308-E70F-49B1-9993-7200A19C66DE",
     "endMarkerType": 0,
     "fills": [
     ],

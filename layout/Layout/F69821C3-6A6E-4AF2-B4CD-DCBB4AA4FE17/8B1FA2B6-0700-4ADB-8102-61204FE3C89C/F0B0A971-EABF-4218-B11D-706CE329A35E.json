@@ -34,31 +34,26 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "DFABC591-6A1C-40F9-A731-2406ED69D1E6",
       "overrideName": "10ED07C2-4268-49FB-A41D-924FFEDCD0B0_stringValue",
       "value": "Hannover (DE)"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "A067B03F-E0BE-4DD1-8194-C4C6A45DA7A6",
       "overrideName": "EA83F393-2D42-47FD-885E-616AD497223B_stringValue",
       "value": "HDI Arena"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "832C309C-2806-4A56-B6B3-82E4E1275C35",
       "overrideName": "D7503CDB-F0D7-4B46-B744-9D153298BA95_stringValue",
       "value": "Jun"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "8266CB1B-77D5-4959-B422-CCC286EAEB33",
       "overrideName": "8BFFC259-C461-4609-9F42-9E3996E7EEC5_stringValue",
       "value": "So"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "A5ABAAB0-A357-407D-8538-1CEFA8CD50FC",
       "overrideName": "D368D524-326F-4606-BDE4-B4A606E2E20B_stringValue",
       "value": "21"
     }
@@ -102,6 +97,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "10350BE1-03C5-4DED-8865-71F27FDBA903",
     "endMarkerType": 0,
     "fills": [
     ],

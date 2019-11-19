@@ -34,31 +34,26 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "2AC2727D-A78B-4501-BC5D-94798FE50044",
       "overrideName": "10ED07C2-4268-49FB-A41D-924FFEDCD0B0_stringValue",
       "value": "Frankfurt (DE)"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "94174710-CEF1-45EB-A061-3BB0D98919D7",
       "overrideName": "EA83F393-2D42-47FD-885E-616AD497223B_stringValue",
       "value": "Jahrhunderthalle"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "BE07F7E7-3AAF-482F-AD8D-9E4B3A201F3E",
       "overrideName": "D7503CDB-F0D7-4B46-B744-9D153298BA95_stringValue",
       "value": "Jul"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "CC6F2350-F8EF-4546-9A29-F51ECC69254C",
       "overrideName": "8BFFC259-C461-4609-9F42-9E3996E7EEC5_stringValue",
       "value": "Do"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "4A50BD7A-05A5-4EF9-AC90-E6969D731E0B",
       "overrideName": "D368D524-326F-4606-BDE4-B4A606E2E20B_stringValue",
       "value": "08"
     }
@@ -102,6 +97,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "6FCEE96A-0AC8-4A31-82B8-6F381FD3A816",
     "endMarkerType": 0,
     "fills": [
     ],

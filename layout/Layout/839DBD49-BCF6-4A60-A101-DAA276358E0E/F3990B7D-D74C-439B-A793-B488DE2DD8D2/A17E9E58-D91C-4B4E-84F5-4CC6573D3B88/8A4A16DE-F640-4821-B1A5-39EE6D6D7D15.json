@@ -5,7 +5,6 @@
   "do_objectID": "8A4A16DE-F640-4821-B1A5-39EE6D6D7D15",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D87C199C-4C4C-45F0-8F7D-9CDE42C9145C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DED73C48-8432-4BDD-99EB-51C52491A37E",
     "height": 100,
     "width": 1140,
     "x": 0,
@@ -46,31 +44,26 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "81914B8D-C2ED-4B7E-AAAE-DC863967D1BF",
       "overrideName": "41776C87-0BFF-46B9-8A99-62FA711E0CF5_stringValue",
       "value": "Hamburg (DE)"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "81C5CA16-51E2-42E4-847D-760ED1FC7003",
       "overrideName": "135F15FC-07A7-4B55-AFA3-8BA09E7D5449_stringValue",
       "value": "Logo"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "FE4F2DD6-D039-42C9-9A98-8EF5C098EE1E",
       "overrideName": "19239148-CDF3-4B50-AAD9-182A8A3CC358_stringValue",
       "value": "Jul"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "0872121D-531E-4F27-A1FF-23BB36405F01",
       "overrideName": "3EE00834-C41D-4F99-A6BF-B57997BA3242_stringValue",
       "value": "Sa"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "66E4A6AA-97C8-4AFB-805F-DA7DAE36C2C2",
       "overrideName": "8B0F193B-34D7-4F4F-B6D8-69A106B86180_stringValue",
       "value": "10"
     }
@@ -85,7 +78,6 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "FC756843-574D-47FA-BAA3-4B4F11D5A056",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -96,7 +88,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "C39ECFC6-1F42-4B20-AE27-39B23BF1CF66",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -107,7 +98,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "EB1C6410-F1FB-47FB-BD27-FBC8D78CED0B",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -115,7 +105,6 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "6D8FEA30-DB0D-461C-BEBA-2D5B04A7591C",
       "opacity": 1
     },
     "do_objectID": "A8EADAFD-D37F-4214-9E51-2826B89E31CD",

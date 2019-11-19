@@ -7,6 +7,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -76,6 +85,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "B31BAD82-0C87-4D9F-8218-59B21F9A8526",
     "endMarkerType": 0,
     "fills": [
     ],

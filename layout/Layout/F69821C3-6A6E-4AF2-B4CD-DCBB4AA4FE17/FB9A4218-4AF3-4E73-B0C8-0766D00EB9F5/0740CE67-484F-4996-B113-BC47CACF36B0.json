@@ -5,7 +5,6 @@
   "do_objectID": "0740CE67-484F-4996-B113-BC47CACF36B0",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6C890D3E-3A5E-4357-9D98-BC20DC3F98E0",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0B31827F-711C-4033-B96C-1376B39FCA0E",
     "height": 200,
     "width": 769,
     "x": 0,
@@ -36,13 +34,11 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "85770B97-FD87-40B0-B700-4F72C852B636",
       "overrideName": "645C4CF4-2492-4E59-B657-DC795C2E6377_stringValue",
       "value": "Diskografie"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "C91F2AD5-26B7-4554-8FEE-2F65F3AEC134",
       "overrideName": "01AB4435-8255-47BB-BA5B-4398F801C2A3_stringValue",
       "value": "Alben"
     }
@@ -57,7 +53,6 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "6D43D79C-80B9-4CAE-A379-B55CD451C868",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -68,7 +63,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "DE3BE9BB-93CE-445A-8A41-C893F1B9CAE5",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -79,7 +73,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "8AA1E3D5-ABB4-483A-A04B-41DF111778AF",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -87,7 +80,6 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "9D8429A2-E4FA-446F-B3CE-C9E060B7DD7F",
       "opacity": 1
     },
     "do_objectID": "76F6AE23-EE51-4909-87D8-DBA189DF499A",

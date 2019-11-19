@@ -34,13 +34,11 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "BCB908E7-D1A8-4020-A0A5-8CABA4D999E2",
       "overrideName": "C44C4152-202C-4872-BA56-4AFCB9201F44_layerStyle",
       "value": "0643C7FF-DFB6-44FF-890E-14F34026E6F8"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "51F15109-1188-4500-89DA-F598BE8797FC",
       "overrideName": "6BAF9D76-F16B-421F-92B5-AB9FF8E3FD3F_stringValue",
       "value": "Tickets"
     }
@@ -84,6 +82,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "AE577F9D-6D04-4B06-A08D-08091338E09C",
     "endMarkerType": 0,
     "fills": [
     ],

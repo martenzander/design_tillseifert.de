@@ -5,7 +5,6 @@
   "do_objectID": "2168A5E6-3ED8-4927-977C-EBFF4BE6D76D",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0EBFA846-7038-4965-B2B2-D1AA9966D275",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DE9FDF5C-390E-4B7D-A8A6-C4FBDF48D0BC",
     "height": 200,
     "width": 769,
     "x": 283,
@@ -36,13 +34,11 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "85770B97-FD87-40B0-B700-4F72C852B636",
       "overrideName": "645C4CF4-2492-4E59-B657-DC795C2E6377_stringValue",
       "value": "Videos"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "C91F2AD5-26B7-4554-8FEE-2F65F3AEC134",
       "overrideName": "01AB4435-8255-47BB-BA5B-4398F801C2A3_stringValue",
       "value": "Youtube"
     }
@@ -57,7 +53,6 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "372F652F-DDBF-4554-8A02-BFF45E23F4BB",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -68,7 +63,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "8B9BF59E-88B6-40A9-BE23-9BA1D92B82F9",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -79,7 +73,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "34F5C038-2A7A-4F3E-B1C8-E0D9C88C2CE6",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -87,7 +80,6 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "FCA6A8AC-431A-4AB8-9D75-A76B84C87780",
       "opacity": 1
     },
     "do_objectID": "38ABFA21-54C6-4A0F-8602-6A76A46D1B83",

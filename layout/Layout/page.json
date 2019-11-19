@@ -318,6 +318,18 @@
     {
       "class": "symbolInstance",
       "id": "08B6ACD7-DC4A-4AF7-A94E-A8A722CDB891"
+    },
+    {
+      "class": "group",
+      "id": "7D28BB63-F46F-4570-AB88-1ABAE955B7EC"
+    },
+    {
+      "class": "rectangle",
+      "id": "C56E1BB1-0942-447A-84FD-97D3E57A0B31"
+    },
+    {
+      "class": "group",
+      "id": "F8FB8211-C394-4A6F-9417-A7D5C2D452D8"
     }
   ],
   "maintainScrollPosition": false,
@@ -361,6 +373,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "685D37BE-F2C1-43F2-908C-5CC98851657D",
     "endMarkerType": 0,
     "fills": [
     ],

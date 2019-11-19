@@ -6,7 +6,6 @@
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6C041303-96D2-4B10-8DB3-77C7441CF257",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,7 +17,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "846243CB-E433-4FF5-8701-B6EC7EE1F332",
     "height": 208,
     "width": 368,
     "x": 0,
@@ -89,7 +87,6 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "402BD692-F5F9-447D-868D-37A90AA748C3",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -100,7 +97,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "F0699058-B04D-4967-8357-9099A3D3DF3C",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -161,7 +157,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "48B3E5DB-2539-489E-92A9-76EB2DC8E9E3",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -169,7 +164,6 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "B5D792A7-0D6E-4351-8285-10780D1E8DE8",
       "opacity": 1
     },
     "do_objectID": "49D27AAD-454A-490A-895E-0ACE26988733",

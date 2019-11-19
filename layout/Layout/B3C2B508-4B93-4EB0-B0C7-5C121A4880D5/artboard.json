@@ -87,8 +87,52 @@
       "id": "4EA9A808-3524-4B5C-B55A-38CF6B841BBE"
     },
     {
+      "class": "symbolInstance",
+      "id": "18366C5A-73CF-41FE-8DD2-BD211C11D512"
+    },
+    {
+      "class": "rectangle",
+      "id": "581F8C08-D7C3-4405-9666-5674B9C96FB4"
+    },
+    {
       "class": "group",
-      "id": "F77BC4DE-0967-4352-BD04-DD0962596B05"
+      "id": "910B2480-7E4C-4C14-9523-C18D93D86DE0"
+    },
+    {
+      "class": "group",
+      "id": "5162C8F6-FC1B-4925-88EA-ED89EE02C2AF"
+    },
+    {
+      "class": "group",
+      "id": "F8D11A81-3735-4D98-B8DD-14228051BECF"
+    },
+    {
+      "class": "group",
+      "id": "17A87DB0-72B8-4E9C-AC0B-6321BD5C2561"
+    },
+    {
+      "class": "group",
+      "id": "65F8FAE4-DA51-4F01-B613-DE15BD5637F7"
+    },
+    {
+      "class": "group",
+      "id": "FB1D713B-B987-4B39-A520-C77DC031F6E9"
+    },
+    {
+      "class": "group",
+      "id": "C25D8C57-FAD8-4321-86CB-89A5278AE91B"
+    },
+    {
+      "class": "group",
+      "id": "EB659855-3987-4507-A09B-43E92C4B60BF"
+    },
+    {
+      "class": "rectangle",
+      "id": "6C2AD626-00FA-4473-B249-B4118AE9624B"
+    },
+    {
+      "class": "text",
+      "id": "9135EE25-B785-4FFC-9642-B770171E6CAA"
     },
     {
       "class": "group",
@@ -99,12 +143,28 @@
       "id": "648BC00B-58C9-4BFE-BF6D-05FDB33C8280"
     },
     {
+      "class": "rectangle",
+      "id": "1968997C-839F-475F-9178-27B3FCF6812E"
+    },
+    {
       "class": "symbolInstance",
       "id": "D79A0ACB-F6D2-492E-BF28-F750E228EB33"
     },
     {
-      "class": "group",
-      "id": "66D48709-3E13-404B-84D6-309DD69A0525"
+      "class": "symbolInstance",
+      "id": "4670DD83-965A-4036-9216-6C27CE6D70B0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "480AEB81-B2BB-4043-8902-62D15385A8F5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "49051AF2-771E-4DA7-AFA7-F385B3AD028A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "52041ED5-D674-481B-B52F-2CD34C2BAB06"
     }
   ],
   "layout": {
@@ -171,6 +231,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "4A8BD5CA-95FE-4BBF-98C3-19CF99BFAC1B",
     "endMarkerType": 0,
     "fills": [
     ],

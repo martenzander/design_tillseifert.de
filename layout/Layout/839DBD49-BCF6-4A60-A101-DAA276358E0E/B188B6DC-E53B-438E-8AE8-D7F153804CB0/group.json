@@ -28,7 +28,7 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
@@ -138,6 +138,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "88F49BD6-E792-4E4C-BD4F-CFD3B762B6D5",
     "endMarkerType": 0,
     "fills": [
     ],
